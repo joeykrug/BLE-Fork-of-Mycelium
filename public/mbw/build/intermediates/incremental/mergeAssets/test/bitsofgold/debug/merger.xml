@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/androidTest/assets" />
+    </dataSet>
+    <dataSet config="bitsofgold" >
+        <source path="/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/androidTestBitsofgold/assets" />
+    </dataSet>
+
+</merger>

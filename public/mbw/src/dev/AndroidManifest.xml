@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mycelium.wallet">
+
+    <application>
+        <!--file provider to enable secure intent sharing for encrypted backups-->
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.mycelium.devwallet.files"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/my_paths" />
+        </provider>
+
+        <activity
+            android:name="com.mycelium.wallet.activity.StartupActivity"
+            android:label="@string/app_short_name"
+            android:theme="@style/MyceliumLauncher" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- bitcoin uri scheme -->
+            <intent-filter android:label="@string/send_bitcoins" >
+                <action android:name="android.intent.action.VIEW" />
+                <action android:name="android.nfc.action.NDEF_DISCOVERED"/>
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="bitcoin" />
+            </intent-filter>
+
+            <!-- bitid authentication scheme -->
+            <intent-filter android:label="@string/bitid_authentication">
+                <action android:name="android.intent.action.VIEW"/>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data android:scheme="bitid"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name="com.mycelium.wallet.activity.BitIDAuthenticationActivity"
+            android:label="@string/title_activity_bit_idauthentication">
+        </activity>
+
+    </application>
+
+</manifest>

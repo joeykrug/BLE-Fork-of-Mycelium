@@ -1,0 +1,2581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string-array name="country_codes">
+        <item>-</item>
+        <item>AR</item>
+        <item>AU</item>
+        <item>BR</item>
+        <item>BG</item>
+        <item>CA</item>
+        <item>CH</item>
+        <item>CN</item>
+        <item>CZ</item>
+        <item>DE</item>
+        <item>DK</item>
+        <item>ES</item>
+        <item>FI</item>
+        <item>FR</item>
+        <item>GB</item>
+        <item>GR</item>
+        <item>HU</item>
+        <item>ID</item>
+        <item>IT</item>
+        <item>JP</item>
+        <item>KR</item>
+        <item>NL</item>
+        <item>PL</item>
+        <item>PT</item>
+        <item>RU</item>
+        <item>SE</item>
+        <item>SK</item>
+        <item>SI</item>
+        <item>TR</item>
+        <item>TW</item>
+        <item>US</item>
+    </string-array>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string-array name="languages">
+        <item>da</item>
+        <item>de</item>
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>iw</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>ko</item>
+        <item>nl</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ru</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>vi</item>
+        <item>zh</item>
+        <item>zh-TW</item>
+    </string-array>
+    <string-array name="languages_desc">
+        <item>Dansk</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>עברית</item>
+        <item>Italiano</item>
+        <item>日本語</item>
+        <item>한국의</item>
+        <item>Nederlands</item>
+        <item>Polski</item>
+        <item>Português</item>
+        <item>Русский</item>
+        <item>Slovensky</item>
+        <item>Slovenščina</item>
+        <item>Tiếng Việt</item>
+        <item>简体中文</item>
+        <item>繁体中文</item>
+    </string-array>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string-array name="preferences_front_light_options">
+        <item>@string/preferences_front_light_on</item>
+        <item>@string/preferences_front_light_auto</item>
+        <item>@string/preferences_front_light_off</item>
+    </string-array>
+    <string-array name="preferences_front_light_values">
+        <item>ON</item>
+        <item>AUTO</item>
+        <item>OFF</item>
+    </string-array>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment />
+
+    <attr name="actionBarDivider" format="reference" />
+    <attr name="actionBarItemBackground" format="reference" />
+    <attr name="actionBarSize" format="dimension" />
+    <attr name="actionBarSplitStyle" format="reference" />
+    <attr name="actionBarStyle" format="reference" />
+    <attr name="actionBarTabBarStyle" format="reference" />
+    <attr name="actionBarTabStyle" format="reference" />
+    <attr name="actionBarTabTextStyle" format="reference" />
+    <attr name="actionBarWidgetTheme" format="reference" />
+    <attr name="actionButtonStyle" format="reference" />
+    <attr name="actionMenuTextAppearance" format="reference" />
+    <attr name="actionMenuTextColor" format="color|reference" />
+    <attr name="actionModeBackground" format="reference" />
+    <attr name="actionModeCloseButtonStyle" format="reference" />
+    <attr name="actionModeCloseDrawable" format="reference" />
+    <attr name="actionModeCopyDrawable" format="reference" />
+    <attr name="actionModeCutDrawable" format="reference" />
+    <attr name="actionModeFindDrawable" format="reference" />
+    <attr name="actionModePasteDrawable" format="reference" />
+    <attr name="actionModePopupWindowStyle" format="reference" />
+    <attr name="actionModeSelectAllDrawable" format="reference" />
+    <attr name="actionModeShareDrawable" format="reference" />
+    <attr name="actionModeSplitBackground" format="reference" />
+    <attr name="actionModeStyle" format="reference" />
+    <attr name="actionModeWebSearchDrawable" format="reference" />
+    <attr name="actionOverflowButtonStyle" format="reference" />
+    <attr name="activityChooserViewStyle" format="reference" />
+    <attr name="buttonBarButtonStyle" format="reference" />
+    <attr name="buttonBarStyle" format="reference" />
+    <attr name="dividerHorizontal" format="reference" />
+    <attr name="dividerVertical" format="reference" />
+    <attr name="dropDownListViewStyle" format="reference" />
+    <attr name="height" format="dimension" />
+    <attr name="homeAsUpIndicator" format="reference" />
+    <attr name="isLightTheme" format="boolean" />
+    <attr name="listPopupWindowStyle" format="reference" />
+    <attr name="listPreferredItemHeight" format="dimension" />
+    <attr name="listPreferredItemHeightLarge" format="dimension" />
+    <attr name="listPreferredItemHeightSmall" format="dimension" />
+    <attr name="listPreferredItemPaddingLeft" format="dimension" />
+    <attr name="listPreferredItemPaddingRight" format="dimension" />
+    <attr name="searchDropdownBackground" format="reference" />
+    <attr name="searchResultListItemHeight" format="dimension" />
+    <attr name="searchViewAutoCompleteTextView" format="reference" />
+    <attr name="searchViewCloseIcon" format="reference" />
+    <attr name="searchViewEditQuery" format="reference" />
+    <attr name="searchViewEditQueryBackground" format="reference" />
+    <attr name="searchViewGoIcon" format="reference" />
+    <attr name="searchViewSearchIcon" format="reference" />
+    <attr name="searchViewTextField" format="reference" />
+    <attr name="searchViewTextFieldRight" format="reference" />
+    <attr name="searchViewVoiceIcon" format="reference" />
+    <attr name="selectableItemBackground" format="reference" />
+    <attr name="spinnerDropDownItemStyle" format="reference" />
+    <attr name="spinnerStyle" format="reference" />
+    <attr name="textAppearanceLargePopupMenu" format="reference" />
+    <attr name="textAppearanceListItem" format="reference" />
+    <attr name="textAppearanceListItemSmall" format="reference" />
+    <attr name="textAppearanceSearchResultSubtitle" format="reference" />
+    <attr name="textAppearanceSearchResultTitle" format="reference" />
+    <attr name="textAppearanceSmallPopupMenu" format="reference" />
+    <attr name="textColorSearchUrl" format="reference|color" />
+    <attr name="title" format="string" />
+
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abc_split_action_bar_is_narrow">true</bool>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/bitsofgold/res/values/product.xml -->
+    <eat-comment />
+
+    <bool name="email_on_errors">true</bool>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="abc_search_url_text_normal">#7fa87f</color>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="black">#000</color>
+    <color name="brightblue">#449def</color>
+    <color name="brightgreen">#44ef9d</color>
+    <color name="brightred">#ef9d44</color>
+    <color name="buttoncolor">#ff1c3d5c</color>
+    <color name="buttonredcolor">#ffff1c1c</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="contents_text">#ff000000</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="darkblue">#2f6699</color>
+    <color name="darkdarkgrey">#222</color>
+    <color name="darkgreen">#080</color>
+    <color name="darkgrey">#444</color>
+    <color name="darkred">#99662f</color>
+    <color name="darkyellow">#880</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="encode_view">#ffffffff</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="green">#0f0</color>
+    <color name="greenblue">#0FF</color>
+    <color name="grey">#888</color>
+    <color name="lightgrey">#bbb</color>
+    <color name="mycelium_brightblue">#5fcbf2</color>
+    <color name="mycelium_midblue">#3e9bd3</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="possible_result_points">#c0ffbd21</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="red">#f00</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="selectedrecord">#002e3e</color>
+    <color name="semidarkgreen">#0c0</color>
+    <color name="semidarkyellow">#cc0</color>
+    <color name="status_green">#bbdd99</color>
+    <color name="status_red">#ffea5e5e</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="status_text">#ffffffff</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="status_yellow">#ddb352</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparentgrey">#88888888</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="white">#fff</color>
+    <color name="yellow">#ff0</color>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment />
+
+    <declare-styleable name="ActionBar">
+
+        <!-- The type of navigation to use. -->
+        <attr name="navigationMode">
+
+            <!-- Normal static title text -->
+            <enum name="normal" value="0" />
+            <!-- The action bar will use a selection list for navigation. -->
+            <enum name="listMode" value="1" />
+            <!-- The action bar will use a series of horizontal tabs for navigation. -->
+            <enum name="tabMode" value="2" />
+        </attr>
+        <!-- Options affecting how the action bar is displayed. -->
+        <attr name="displayOptions">
+            <flag name="useLogo" value="0x1" />
+            <flag name="showHome" value="0x2" />
+            <flag name="homeAsUp" value="0x4" />
+            <flag name="showTitle" value="0x8" />
+            <flag name="showCustom" value="0x10" />
+            <flag name="disableHome" value="0x20" />
+        </attr>
+        <!-- Specifies title text used for navigationMode="normal" -->
+        <attr name="title" />
+        <!-- Specifies subtitle text used for navigationMode="normal" -->
+        <attr name="subtitle" format="string" />
+        <!-- Specifies a style to use for title text. -->
+        <attr name="titleTextStyle" format="reference" />
+        <!-- Specifies a style to use for subtitle text. -->
+        <attr name="subtitleTextStyle" format="reference" />
+        <!-- Specifies the drawable used for the application icon. -->
+        <attr name="icon" format="reference" />
+        <!-- Specifies the drawable used for the application logo. -->
+        <attr name="logo" format="reference" />
+        <!-- Specifies the drawable used for item dividers. -->
+        <attr name="divider" format="reference" />
+        <!-- Specifies a background drawable for the action bar. -->
+        <attr name="background" format="reference" />
+        <!-- Specifies a background drawable for a second stacked row of the action bar. -->
+        <attr name="backgroundStacked" format="reference|color" />
+        <!-- Specifies a background drawable for the bottom component of a split action bar. -->
+        <attr name="backgroundSplit" format="reference|color" />
+        <!-- Specifies a layout for custom navigation. Overrides navigationMode. -->
+        <attr name="customNavigationLayout" format="reference" />
+        <!-- Specifies a fixed height. -->
+        <attr name="height" />
+        <!-- Specifies a layout to use for the "home" section of the action bar. -->
+        <attr name="homeLayout" format="reference" />
+        <!-- Specifies a style resource to use for an embedded progress bar. -->
+        <attr name="progressBarStyle" format="reference" />
+        <!-- Specifies a style resource to use for an indeterminate progress spinner. -->
+        <attr name="indeterminateProgressStyle" format="reference" />
+        <!-- Specifies the horizontal padding on either end for an embedded progress bar. -->
+        <attr name="progressBarPadding" format="dimension" />
+        <!--
+             Specifies padding that should be applied to the left and right sides of
+             system-provided items in the bar.
+        -->
+        <attr name="itemPadding" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="ActionBarLayout">
+        <attr name="android:layout_gravity" />
+    </declare-styleable>
+    <declare-styleable name="ActionBarWindow">
+        <attr name="windowActionBar" format="boolean" />
+        <attr name="windowActionBarOverlay" format="boolean" />
+        <attr name="windowSplitActionBar" format="boolean" />
+
+        <!--
+             A fixed width for the window along the major axis of the screen,
+             that is, when in landscape. Can be either an absolute dimension
+             or a fraction of the screen size in that dimension.
+        -->
+        <attr name="windowFixedWidthMajor" format="dimension|fraction" />
+        <!--
+             A fixed height for the window along the minor axis of the screen,
+             that is, when in landscape. Can be either an absolute dimension
+             or a fraction of the screen size in that dimension.
+        -->
+        <attr name="windowFixedHeightMinor" format="dimension|fraction" />
+
+        <!--
+             A fixed width for the window along the minor axis of the screen,
+             that is, when in portrait. Can be either an absolute dimension
+             or a fraction of the screen size in that dimension.
+        -->
+        <attr name="windowFixedWidthMinor" format="dimension|fraction" />
+        <!--
+             A fixed height for the window along the major axis of the screen,
+             that is, when in portrait. Can be either an absolute dimension
+             or a fraction of the screen size in that dimension.
+        -->
+        <attr name="windowFixedHeightMajor" format="dimension|fraction" />
+    </declare-styleable>
+    <declare-styleable name="ActionMenuItemView">
+        <attr name="android:minWidth" />
+    </declare-styleable>
+    <declare-styleable name="ActionMenuView">
+        <!-- Size of padding on either end of a divider. -->
+    </declare-styleable>
+    <declare-styleable name="ActionMode">
+
+        <!-- Specifies a style to use for title text. -->
+        <attr name="titleTextStyle" />
+        <!-- Specifies a style to use for subtitle text. -->
+        <attr name="subtitleTextStyle" />
+        <!-- Specifies a background for the action mode bar. -->
+        <attr name="background" />
+        <!-- Specifies a background for the split action mode bar. -->
+        <attr name="backgroundSplit" />
+        <!-- Specifies a fixed height for the action mode bar. -->
+        <attr name="height" />
+    </declare-styleable>
+    <declare-styleable name="ActivityChooserView">
+
+        <!-- The maximal number of items initially shown in the activity list. -->
+        <attr name="initialActivityCount" format="string" />
+        <!--
+             The drawable to show in the button for expanding the activities overflow popup.
+             <strong>Note:</strong> Clients would like to set this drawable
+             as a clue about the action the chosen activity will perform. For
+             example, if share activity is to be chosen the drawable should
+             give a clue that sharing is to be performed.
+        -->
+        <attr name="expandActivityOverflowButtonDrawable" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="CompatTextView">
+
+        <!-- Present the text in ALL CAPS. This may use a small-caps form when available. -->
+        <attr name="textAllCaps" format="reference|boolean" />
+    </declare-styleable>
+    <declare-styleable name="LinearLayoutICS">
+
+        <!-- Drawable to use as a vertical divider between buttons. -->
+        <attr name="divider" />
+        <!-- Setting for which dividers to show. -->
+        <attr name="showDividers">
+            <flag name="none" value="0" />
+            <flag name="beginning" value="1" />
+            <flag name="middle" value="2" />
+            <flag name="end" value="4" />
+        </attr>
+        <!-- Size of padding on either end of a divider. -->
+        <attr name="dividerPadding" format="dimension" />
+    </declare-styleable>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values/maps_attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="MapAttrs">
+        <attr name="mapType" format="enum">
+            <enum name="none" value="0" />
+            <enum name="normal" value="1" />
+            <enum name="satellite" value="2" />
+            <enum name="terrain" value="3" />
+            <enum name="hybrid" value="4" />
+        </attr>
+        <attr name="cameraBearing" format="float" />
+        <attr name="cameraTargetLat" format="float" />
+        <attr name="cameraTargetLng" format="float" />
+        <attr name="cameraTilt" format="float" />
+        <attr name="cameraZoom" format="float" />
+        <attr name="uiCompass" format="boolean" />
+        <attr name="uiRotateGestures" format="boolean" />
+        <attr name="uiScrollGestures" format="boolean" />
+        <attr name="uiTiltGestures" format="boolean" />
+        <attr name="uiZoomControls" format="boolean" />
+        <attr name="uiZoomGestures" format="boolean" />
+        <attr name="useViewLifecycle" format="boolean" />
+        <attr name="zOrderOnTop" format="boolean" />
+    </declare-styleable>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment />
+
+    <declare-styleable name="MenuGroup">
+
+        <!-- The ID of the group. -->
+        <attr name="android:id" />
+
+        <!--
+             The category applied to all items within this group.
+             (This will be or'ed with the orderInCategory attribute.)
+        -->
+        <attr name="android:menuCategory" />
+
+        <!--
+             The order within the category applied to all items within this group.
+             (This will be or'ed with the category attribute.)
+        -->
+        <attr name="android:orderInCategory" />
+
+        <!-- Whether the items are capable of displaying a check mark. -->
+        <attr name="android:checkableBehavior" />
+
+        <!-- Whether the items are shown/visible. -->
+        <attr name="android:visible" />
+
+        <!-- Whether the items are enabled. -->
+        <attr name="android:enabled" />
+    </declare-styleable>
+    <declare-styleable name="MenuItem">
+
+        <!-- The ID of the item. -->
+        <attr name="android:id" />
+
+        <!--
+             The category applied to the item.
+             (This will be or'ed with the orderInCategory attribute.)
+        -->
+        <attr name="android:menuCategory" />
+
+        <!--
+             The order within the category applied to the item.
+             (This will be or'ed with the category attribute.)
+        -->
+        <attr name="android:orderInCategory" />
+
+        <!-- The title associated with the item. -->
+        <attr name="android:title" />
+
+        <!--
+             The condensed title associated with the item.  This is used in situations where the
+             normal title may be too long to be displayed.
+        -->
+        <attr name="android:titleCondensed" />
+
+        <!--
+             The icon associated with this item.  This icon will not always be shown, so
+             the title should be sufficient in describing this item.
+        -->
+        <attr name="android:icon" />
+
+        <!--
+             The alphabetic shortcut key.  This is the shortcut when using a keyboard
+             with alphabetic keys.
+        -->
+        <attr name="android:alphabeticShortcut" />
+
+        <!--
+             The numeric shortcut key.  This is the shortcut when using a numeric (e.g., 12-key)
+             keyboard.
+        -->
+        <attr name="android:numericShortcut" />
+
+        <!-- Whether the item is capable of displaying a check mark. -->
+        <attr name="android:checkable" />
+
+        <!--
+             Whether the item is checked.  Note that you must first have enabled checking with
+             the checkable attribute or else the check mark will not appear.
+        -->
+        <attr name="android:checked" />
+
+        <!-- Whether the item is shown/visible. -->
+        <attr name="android:visible" />
+
+        <!-- Whether the item is enabled. -->
+        <attr name="android:enabled" />
+
+        <!--
+             Name of a method on the Context used to inflate the menu that will be
+             called when the item is clicked.
+        -->
+        <attr name="android:onClick" />
+
+        <!-- How this item should display in the Action Bar, if present. -->
+        <attr name="showAsAction">
+
+            <!--
+                 Never show this item in an action bar, show it in the overflow menu instead.
+                 Mutually exclusive with "ifRoom" and "always".
+            -->
+            <flag name="never" value="0" />
+            <!--
+                 Show this item in an action bar if there is room for it as determined
+                 by the system. Favor this option over "always" where possible.
+                 Mutually exclusive with "never" and "always".
+            -->
+            <flag name="ifRoom" value="1" />
+            <!--
+                 Always show this item in an actionbar, even if it would override
+                 the system's limits of how much stuff to put there. This may make
+                 your action bar look bad on some screens. In most cases you should
+                 use "ifRoom" instead. Mutually exclusive with "ifRoom" and "never".
+            -->
+            <flag name="always" value="2" />
+            <!--
+                 When this item is shown as an action in the action bar, show a text
+                 label with it even if it has an icon representation.
+            -->
+            <flag name="withText" value="4" />
+            <!--
+                 This item's action view collapses to a normal menu
+                 item. When expanded, the action view takes over a
+                 larger segment of its container.
+            -->
+            <flag name="collapseActionView" value="8" />
+        </attr>
+
+        <!--
+             An optional layout to be used as an action view.
+             See {@link android.view.MenuItem#setActionView(android.view.View)}
+             for more info.
+        -->
+        <attr name="actionLayout" format="reference" />
+
+        <!--
+             The name of an optional View class to instantiate and use as an
+             action view. See {@link android.view.MenuItem#setActionView(android.view.View)}
+             for more info.
+        -->
+        <attr name="actionViewClass" format="string" />
+
+        <!--
+             The name of an optional ActionProvider class to instantiate an action view
+             and perform operations such as default action for that menu item.
+             See {@link android.view.MenuItem#setActionProvider(android.view.ActionProvider)}
+             for more info.
+        -->
+        <attr name="actionProviderClass" format="string" />
+    </declare-styleable>
+    <declare-styleable name="MenuView">
+
+        <!-- Default appearance of menu item text. -->
+        <attr name="android:itemTextAppearance" />
+        <!-- Default horizontal divider between rows of menu items. -->
+        <attr name="android:horizontalDivider" />
+        <!-- Default vertical divider between menu items. -->
+        <attr name="android:verticalDivider" />
+        <!-- Default background for the menu header. -->
+        <attr name="android:headerBackground" />
+        <!-- Default background for each menu item. -->
+        <attr name="android:itemBackground" />
+        <!-- Default animations for the menu. -->
+        <attr name="android:windowAnimationStyle" />
+        <!-- Default disabled icon alpha for each menu item that shows an icon. -->
+        <attr name="android:itemIconDisabledAlpha" />
+        <!-- Whether space should be reserved in layout when an icon is missing. -->
+        <attr name="android:preserveIconSpacing" />
+    </declare-styleable>
+    <declare-styleable name="SearchView">
+
+        <!--
+             The default state of the SearchView. If true, it will be iconified when not in
+             use and expanded when clicked.
+        -->
+        <attr name="iconifiedByDefault" format="boolean" />
+        <!-- An optional maximum width of the SearchView. -->
+        <attr name="android:maxWidth" />
+        <!-- An optional query hint string to be displayed in the empty query field. -->
+        <attr name="queryHint" format="string" />
+        <!-- The IME options to set on the query text field. -->
+        <attr name="android:imeOptions" />
+        <!-- The input type to set on the query text field. -->
+        <attr name="android:inputType" />
+    </declare-styleable>
+    <declare-styleable name="Spinner">
+
+        <!-- The prompt to display when the spinner's dialog is shown. -->
+        <attr name="prompt" format="reference" />
+        <!-- Display mode for spinner options. -->
+        <attr name="spinnerMode" format="enum">
+
+            <!-- Spinner options will be presented to the user as a dialog window. -->
+            <enum name="dialog" value="0" />
+            <!--
+                 Spinner options will be presented to the user as an inline dropdown
+                 anchored to the spinner widget itself.
+            -->
+            <enum name="dropdown" value="1" />
+        </attr>
+        <!-- List selector to use for spinnerMode="dropdown" display. -->
+        <attr name="android:dropDownSelector" />
+        <!-- Background drawable to use for the dropdown in spinnerMode="dropdown". -->
+        <attr name="android:popupBackground" />
+        <!--
+             Vertical offset from the spinner widget for positioning the dropdown in
+             spinnerMode="dropdown".
+        -->
+        <attr name="android:dropDownVerticalOffset" />
+        <!--
+             Horizontal offset from the spinner widget for positioning the dropdown
+             in spinnerMode="dropdown".
+        -->
+        <attr name="android:dropDownHorizontalOffset" />
+        <!-- Width of the dropdown in spinnerMode="dropdown". -->
+        <attr name="android:dropDownWidth" />
+        <!--
+             Reference to a layout to use for displaying a prompt in the dropdown for
+             spinnerMode="dropdown". This layout must contain a TextView with the id
+             {@code @android:id/text1} to be populated with the prompt text.
+        -->
+        <attr name="popupPromptView" format="reference" />
+        <!-- Gravity setting for positioning the currently selected item. -->
+        <attr name="android:gravity" />
+        <!--
+             Whether this spinner should mark child views as enabled/disabled when
+             the spinner itself is enabled/disabled.
+        -->
+        <attr name="disableChildrenWhenDisabled" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="Theme">
+
+        <!-- Default ActionBar dropdown style. -->
+        <attr name="actionDropDownStyle" format="reference" />
+        <!-- The preferred item height for dropdown lists. -->
+        <attr name="dropdownListPreferredItemHeight" format="dimension" />
+        <!-- Default PopupMenu style. -->
+        <attr name="popupMenuStyle" format="reference" />
+
+        <!-- ============ -->
+        <!-- Panel styles -->
+        <!-- ============ -->
+        <eat-comment />
+
+        <!-- Default Panel Menu width. -->
+        <attr name="panelMenuListWidth" format="dimension" />
+
+        <!-- Default Panel Menu style. -->
+        <attr name="panelMenuListTheme" format="reference" />
+
+        <!-- Drawable used as a background for selected list items. -->
+        <attr name="listChoiceBackgroundIndicator" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="View">
+
+        <!-- Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}. -->
+        <attr name="paddingStart" format="dimension" />
+        <!-- Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}. -->
+        <attr name="paddingEnd" format="dimension" />
+
+        <!--
+             Boolean that controls whether a view can take focus.  By default the user can not
+             move focus to a view; by setting this attribute to true the view is
+             allowed to take focus.  This value does not impact the behavior of
+             directly calling {@link android.view.View#requestFocus}, which will
+             always request focus regardless of this view.  It only impacts where
+             focus navigation will try to move focus.
+        -->
+        <attr name="android:focusable" />
+    </declare-styleable>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="ab_icon_size">16dp</dimen>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment />
+
+    <dimen name="abc_action_bar_default_height">48dip</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding">8dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">40dp</dimen>
+    <dimen name="abc_action_bar_stacked_max_height">48dp</dimen>
+    <dimen name="abc_action_bar_stacked_tab_max_width">180dp</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin">5dip</dimen>
+    <dimen name="abc_action_bar_subtitle_text_size">14dp</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen>
+    <dimen name="abc_action_bar_title_text_size">18dp</dimen>
+    <dimen name="abc_action_button_min_width">56dip</dimen>
+    <dimen name="abc_config_prefDialogWidth">320dp</dimen>
+    <dimen name="abc_dropdownitem_icon_width">32dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_left">8dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_right">8dip</dimen>
+    <dimen name="abc_panel_menu_list_width">296dp</dimen>
+    <dimen name="abc_search_view_preferred_width">320dip</dimen>
+    <dimen name="abc_search_view_text_min_width">160dip</dimen>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="about_buttonsize">220dp</dimen>
+    <dimen name="about_caption_size">120dp</dimen>
+    <dimen name="bigtext">22sp</dimen>
+    <dimen name="button_padding">10dp</dimen>
+    <dimen name="buttonspacing">30dp</dimen>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="dialog_fixed_height_major" type="dimen">80%</item>
+    <item name="dialog_fixed_height_minor" type="dimen">100%</item>
+    <item name="dialog_fixed_width_major" type="dimen">320dp</item>
+    <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <dimen name="half_padding">4dip</dimen>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="large_qrcode">260dp</dimen>
+    <dimen name="page_margin_width">16dp</dimen>
+    <dimen name="small_qrcode">130dp</dimen>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <dimen name="standard_padding">8dip</dimen>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <drawable name="semi_black">#80000000</drawable>
+
+    <fraction name="background_alpha">50%</fraction>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="action_bar_activity_content" type="id"/>
+    <item name="action_menu_divider" type="id"/>
+    <item name="action_menu_presenter" type="id"/>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="home" type="id"/>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="launch_product_query" type="id"/>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="progress_circular" type="id"/>
+    <item name="progress_horizontal" type="id"/>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment />
+
+    <integer name="abc_max_action_buttons">2</integer>
+
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="about">About</string>
+    <string name="activate_action">Activate</string>
+    <string name="activated">Activated</string>
+    <string name="active_key_limit_reached">The maximum number of active addresses is 10 and you have reached the limit.\n\nYou can have as many archived addresses as you like, and you can always activate an archived address.\n\nTo add another address please archive one of your existing addresses.</string>
+    <string name="active_name">Active</string>
+    <string name="active_name_empty">Active (Empty)</string>
+    <string name="add_dialog_title">Add Address</string>
+    <string name="add_key">Add Key</string>
+    <string name="add_record_desc">You are about to add a Bitcoin address or private key to your wallet.\n\n• If you add a Bitcoin address you will be able to monitor its balance, but not spend from it.\n\n• If you add a private key you will get a Bitcoin address that you can spend from.</string>
+    <string name="add_record_title">Add Address or Private Key</string>
+    <string name="add_to_address_book_dialog_title">Add Address</string>
+    <string name="add_to_addressbook">Add to address book</string>
+    <string name="address_already_exists">This address is already part of your wallet.\n\nYou cannot add it to your address book.</string>
+    <string name="address_already_present">The Bitcoin address was already monitored</string>
+    <string name="address_book">Address Book</string>
+    <string name="address_book_empty">Your address book is empty</string>
+    <string name="address_label_not_unique">The address book has another address with that name</string>
+    <string name="addressbook_cannot_add_private_key">You cannot add a private key to the address book.\n\nYou can import private keys in the Keys tab</string>
+    <string name="aggregated">Aggregated</string>
+    <string name="alert_button">Alert</string>
+    <string name="amount_hint">0.00</string>
+    <string name="amount_hint_denomination">0.00 %1$s</string>
+    <string name="amount_label">Amount:</string>
+    <string name="amount_title">Amount</string>
+    <string name="amount_too_small">The amount you are sending is too small</string>
+    <string name="amount_too_small_short">Amount too small</string>
+    <string name="an_icon">an icon</string>
+    <string name="android_wallet_backup">Bitcoin Wallet Backup</string>
+    <string name="app_info"> NFSound (Near Field Sound) is a simple app that allows 2+ phones to exchange data over sound\n\nPress\"Receive\" button to get data\n\nType anything in the inputbox and press \"Send\" button to send data</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/bitsofgold/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Bits of Gold Wallet</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="app_picker_name">Applications</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/bitsofgold/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_short_name">Bits of Gold</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="approximate_fiat_value">~%1$s %2$s</string>
+    <string name="archive_action">Archive</string>
+    <string name="archive_name">Archived</string>
+    <string name="archive_name_empty">Archived (Empty)</string>
+    <string name="archived">Archived</string>
+    <string name="archiving_key_title">Archiving Key</string>
+    <string name="ask_set_label">This address does not have a label\n\n%1$s\n\nIt is recommended to set a label for all your addresses.\n\nWould you like to set the label?</string>
+    <string name="audio_format">Format</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="auth_client_needs_enabling_title">      An application requires Google Play Services to be enabled.</string>
+    <string name="auth_client_needs_installation_title">      An application requires installation of Google Play Services.</string>
+    <string name="auth_client_needs_update_title">      An application requires an update for Google Play Services.</string>
+    <string name="auth_client_play_services_err_notification_msg">Google Play services error</string>
+    <string name="auth_client_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string name="auth_client_using_bad_version_title">      An application attempted to use a bad version of Google Play Services.</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="authors">Jan Møller\nAndreas Petersson\nMegion Research &amp; Development GmbH</string>
+    <string name="authors_label">Developed by</string>
+    <string name="background_image">background image</string>
+    <string name="backup_all_warning">You are about to back up the private keys that control all the Bitcoins of your Mycelium Bitcoin Wallet.\n\nAnyone who gains access to those keys can take possession of your Bitcoins.\n\nDo you want to continue?</string>
+    <string name="backup_missing">Backup Missing</string>
+    <string name="backup_not_verified">Backup not verified</string>
+    <string name="backup_private_key">Backup</string>
+    <string name="backup_single_private_key_warning">You are about to back up the private key that controls all the Bitcoins of your Mycelium Bitcoin Wallet.\n\nAnyone who gains access to this key can take possession of your Bitcoins.\n\nDo you want to continue?</string>
+    <string name="balance">Balance</string>
+    <string name="bitcoin_address_deleted">Bitcoin address deleted</string>
+    <string name="bitcoin_address_invalid">Invalid Bitcoin Address</string>
+    <string name="bitcoin_address_label">Bitcoin Address:</string>
+    <string name="bitcoin_address_title">Bitcoin Address</string>
+    <string name="bitcoin_address_valid">Bitcoin Address Valid</string>
+    <string name="bitid_aborted">You have aborted the login process.</string>
+    <string name="bitid_authentication">Authenticate using BitID</string>
+    <string name="bitid_error">Authentication failed!\nAn error occurred while contacting the server. We are sorry!</string>
+    <string name="bitid_errorheader">Authentication failed with error:\n</string>
+    <string name="bitid_expired">Authentication failed, the nonce has expired.\nPlease refresh the website and scan again.</string>
+    <string name="bitid_loggedin">You have been logged in to the site.</string>
+    <string name="bitid_noconnection">Server could not be reached, please check your data connection.</string>
+    <string name="bitid_processing">The signature is being sent.</string>
+    <string name="bitid_question">The website \n\n%1$s\n\n wants you to authenticate using your Bitcoin Address. Do you want to sign the request?</string>
+    <string name="bitid_sslproblem">SSL Problem</string>
+    <string name="bitid_sslquestion">The following SSL problem occurred, do you want to proceed?</string>
+    <string name="bitid_success">Successfully logged in to website %1$s!</string>
+    <string name="bitid_timeout">The connection timed out, please try again later.</string>
+    <string name="bitid_unsecure_warning">Warning: This website will receive the callback via http. For sensible data, https should be used.</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="bookmark_picker_name">Bookmarks</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/bitsofgold/res/values/product.xml -->
+    <eat-comment />
+
+    <string name="brand">bog</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="broadcasting_transaction">Broadcasting Transaction</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="btc">BTC</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="btc_balance">Balance: %1$s</string>
+    <string name="btc_rate">1 BTC ~ %1$s %2$s (%3$s)</string>
+    <string name="btc_value_string">%1$s %2$s</string>
+    <string name="build_text">v%1$s</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="button_add_calendar">Add to calendar</string>
+    <string name="button_add_contact">Add contact</string>
+    <string name="button_back">Back</string>
+    <string name="button_book_search">Book Search</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_custom_product_search">Custom search</string>
+    <string name="button_dial">Dial number</string>
+    <string name="button_done">Done</string>
+    <string name="button_email">Send email</string>
+    <string name="button_get_directions">Get directions</string>
+    <string name="button_google_shopper">Shopper</string>
+    <string name="button_mms">Send MMS</string>
+    <string name="button_ok">OK</string>
+    <string name="button_open_browser">Open browser</string>
+    <string name="button_product_search">Product Search</string>
+    <string name="button_search_book_contents">Search contents</string>
+    <string name="button_share_app">Application</string>
+    <string name="button_share_bookmark">Bookmark</string>
+    <string name="button_share_by_email">Share via email</string>
+    <string name="button_share_by_sms">Share via SMS</string>
+    <string name="button_share_clipboard">Clipboard</string>
+    <string name="button_share_contact">Contact</string>
+    <string name="button_show_map">Show map</string>
+    <string name="button_sms">Send SMS</string>
+    <string name="button_web_search">Web search</string>
+    <string name="button_wifi">Connect to Network</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="cancel">Cancel</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="check_update">Check for Update</string>
+    <string name="choose_format_title">Choose Audio Format</string>
+    <string name="clear_content">Send</string>
+    <string name="clipboard">Clipboard</string>
+    <string name="clipboard_address_book_desc">Get Bitcoin address from clipboard.</string>
+    <string name="clipboard_desc">Import Bitcoin address or private key from clipboard.</string>
+    <string name="close">Close</string>
+    <string name="cold_storage">Cold Storage</string>
+    <string name="cold_storage_desc">You are about to spend from a private key in cold storage. This could be a private key paper backup or a private key slip from a Bitcoin ATM. Several formats are supported.\n\nOnce the transaction has been sent every trace of the private key will be erased from memory.</string>
+    <string name="cold_storage_title">Cold Storage Spending</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="common_google_play_services_enable_button" msgid="2523291102206661146">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text" msgid="227660514972886228">This app won\'t work unless you enable Google Play services.</string>
+    <string name="common_google_play_services_enable_title" msgid="5122002158466380389">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button" msgid="7153882981874058840">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone" msgid="2122112764540849864">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string name="common_google_play_services_install_text_tablet" msgid="7351599665250191022">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string name="common_google_play_services_install_title" msgid="7215213145546190223">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button" msgid="6556509956452265614">Update</string>
+    <string name="common_google_play_services_update_text" msgid="9053896323427875356">This app won\'t run unless you update Google Play services.</string>
+    <string name="common_google_play_services_update_title" msgid="1788179980625863495">Update Google Play services</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="confirm_delete_pk_title">Are You Sure?</string>
+    <string name="confirm_delete_pk_with_balance">This cannot be undone!\n\nPrivate key address:\n%1$s\n\nIt contains %2$s\n\nDo you want to delete it?</string>
+    <string name="confirm_delete_pk_with_balance_with_label">This cannot be undone!\n\nPrivate key label:\n%1$s\n\nPrivate key address:\n%2$s\n\nIt contains %3$s\n\nDo you want to delete it?</string>
+    <string name="confirm_delete_pk_without_balance">This cannot be undone!\n\nPrivate key address:\n%1$s\n\nDo you want to delete it?</string>
+    <string name="confirm_delete_pk_without_balance_with_label">This cannot be undone!\n\nPrivate key label:\n%1$s\n\nPrivate key address:\n%2$s\n\nDo you want to delete it?</string>
+    <string name="confirmations">%d Confirmations</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="confirmed_in_block">In block #%1$d</string>
+    <string name="connected">Connected</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/bitsofgold/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="contact_email">info@bitsofgold.co.il</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="contact_email_label">Feedback</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="contents_contact">Contact info</string>
+    <string name="contents_email">Email address</string>
+    <string name="contents_location">Geographic coordinates</string>
+    <string name="contents_phone">Phone number</string>
+    <string name="contents_sms">SMS address</string>
+    <string name="contents_text">Plain text</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="copy_address_to_clipboard">Copy Address to Clipboard</string>
+    <string name="copy_private_key_to_clipboard">Copy Private Key to Clipboard</string>
+    <string name="copy_signature">Copy Signature to Clipboard</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
+    <string name="created_new_random_key">New random Bitcoin address created</string>
+    <string name="cs_address_description">You have scanned a Bitcoin address. You can view the balance but not spend from it.</string>
+    <string name="cs_private_key_description">You are using a private key with the following Bitcoin address:</string>
+    <string name="date">Date</string>
+    <string name="decrypt_button">Decrypt</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="del">&lt;</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="delete">Delete</string>
+    <string name="delete_address">Delete Address</string>
+    <string name="delete_address_confirmation">Are you sure that you want to delete this address from your address book?</string>
+    <string name="delete_address_message">Do you want to delete this address?</string>
+    <string name="delete_address_title">Delete Bitcoin Address?</string>
+    <string name="delete_private_key">Delete Private Key</string>
+    <string name="delete_private_key_message">Do you want to delete this private key?</string>
+    <string name="delete_private_key_title">Delete Private Key?</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="donate_button">Donate</string>
+    <string name="donate_description">Mycelium is a great wallet and you can use it for free.\n\nPlease help our development effort by giving a donation.\n\nAny amount counts!</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="dot">.</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="edit">Edit</string>
+    <string name="edit_address_label_title">Edit Address Label</string>
+    <string name="edit_label">Edit Label</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="eight">8</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="encrypted_pdf_backup_creating">Creating PDF document…</string>
+    <string name="encrypted_pdf_backup_description">You are about to back up your encrypted private keys to a PDF document.\nThe PDF document can safely be shared using email or with file-sharing apps you have installed, such as Dropbox. This is because your keys are encrypted.</string>
+    <string name="encrypted_pdf_backup_document_ready">PDF document created</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/bitsofgold/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="encrypted_pdf_backup_email_text">Your Bits of Gold wallet backup is attached.\r\n\r\nFollow these simple steps to secure your funds:\r\n1. Print the PDF document.\r\n2. Write the 15-character password from the display of your Android device to the blue boxes of the printout.\r\n3. Verify that you can import the private keys to your Bits of Gold Wallet.\r\n4. Store the printout in a safe place.</string>
+    <string name="encrypted_pdf_backup_email_title">Bits of Gold Backup</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="encrypted_pdf_backup_encrypting">Encrypting private keys…</string>
+    <string name="encrypted_pdf_backup_password_description_1">This is the random password with checksum used for encrypting this backup.</string>
+    <string name="encrypted_pdf_backup_password_description_2">This is your only opportunity for viewing the password for this backup.\nYour next backup will use a different password.\nWrite it down and keep it safe!</string>
+    <string name="encrypted_pdf_backup_sharing">Sharing PDF document…</string>
+    <string name="encrypted_pdf_backup_stretching">Preparing encryption key…</string>
+    <string name="encrypted_pdf_backup_title">Encrypted PDF Backup</string>
+    <string name="enter_address_label_title">Enter Address Label</string>
+    <string name="enter_amount_title">Enter Amount</string>
+    <string name="enter_android_wallet_backup_password_message">Enter the password that was used when creating the backup in the \"Bitcoin Wallet\" app.</string>
+    <string name="enter_android_wallet_backup_password_title">Backup password</string>
+    <string name="enter_bitcoin_address">Enter Bitcoin Address</string>
+    <string name="enter_local_currency">Enter your local currency</string>
+    <string name="enter_message_hint">Please enter the message that you want to sign here</string>
+    <string name="enter_recipient_title">Enter Recipient Address</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="exchange_source_not_available">Exchange rate not available for %1$s</string>
+    <string name="explore">Explore</string>
+    <string name="export">Export</string>
+    <string name="export_private_key_warning">Warning. You are about to export the private key that controls all the Bitcoins of this address.\n\nAnyone who gains access to this key can take possession of the Bitcoins it controls.\n\nDo you want to continue?</string>
+    <string name="export_single_private_key_warning">You are about to export the private key that controls all the Bitcoins of the selected address.\n\nAnyone who gains access to this key can take possession of the Bitcoins it controls.\n\nDo you want to continue?</string>
+    <string name="export_to_clipboard_warning">Warning: Exporting the private key to clipboard exposes it to all other apps on your device.\n\nNote: It is not enough to store your private key on the clipboard, you also have to paste it somewhere safe.\n\nDo you want to continue?</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="five">5</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="foreign_addresses">Other Addresses</string>
+    <string name="found_clipboard_private_key_title">Private Key Found on Clipboard</string>
+    <string name="found_clipboard_private_keys_message">The clipboard contains a private key.\r\nDo you want to delete it?</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="four">4</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="geocode_error">Error from geocoder: %s \n please try again later.</string>
+    <string name="get_from">Get from</string>
+    <string name="get_private_key">Get private key from:</string>
+    <string name="get_receiver_address">Get receiver address from:</string>
+    <string name="getting_location">obtaining location…</string>
+    <string name="go_back">Back</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/bitsofgold/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="going_to_mycelium_com_help">Going to www.mycelium.com</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="google_play">Google Play</string>
+    <string name="hash">Hash</string>
+    <string name="heartbleed_alert">ALERT\n\nYour device runs Android version 4.1.1 and has a critical bug known as Heartbleed.\n\nThis bug allows an attacker to read the memory of any apps on your device that make HTTPS connections.\n\n You should take immediate action!\n\n1. Move your funds to new addresses where the private key has never been on an Android 4.1.1 device.\n\n2. Upgrade your device to another version than 4.1.1 or use another device.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help_menu">Help</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="history_clear_one_history_text">Clear</string>
+    <string name="history_clear_text">Clear history</string>
+    <string name="history_email_title">Barcode Scanner history</string>
+    <string name="history_empty">Empty</string>
+    <string name="history_empty_detail">No barcode scans have been recorded</string>
+    <string name="history_send">Send history</string>
+    <string name="history_title">History</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="homepage_label">Homepage</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/bitsofgold/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="homepage_url">https://www.bitsofgold.co.il</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="ignore_update">Ignore this update</string>
+    <string name="import_android_wallet_backup_decryption_error">Could not decrypt the Bitcoin Wallet backup file. Is the password correct?</string>
+    <string name="import_android_wallet_backup_io_error">Could not read the Bitcoin Wallet backup file.</string>
+    <string name="import_decrypt_bip38_description">You are about to decrypt a BIP38 password protected private key.</string>
+    <string name="import_decrypt_bip38_enter_password">Enter the BIP38 encryption password.</string>
+    <string name="import_decrypt_bip38_invalid_password">The password entered is not correct.</string>
+    <string name="import_decrypt_key_description">You are about to decrypt a password protected private key.</string>
+    <string name="import_decrypt_key_enter_password">Enter the 15 character password and checksum.</string>
+    <string name="import_decrypt_key_invalid_checksum">The checksum is invalid. Please verify.</string>
+    <string name="import_decrypt_key_title">Private Key Decryption</string>
+    <string name="import_decrypt_stretching">Preparing decryption key…</string>
+    <string name="import_from_android_wallet_backup_desc">Import Private Key from the \"Bitcoin Wallet\" client by Andreas Schildbach.</string>
+    <string name="imported_bitcoin_address">Imported Bitcoin address.</string>
+    <string name="imported_private_key">Imported private key.</string>
+    <string name="inputs">Inputs</string>
+    <string name="insufficient_funds">Insufficient funds</string>
+    <string name="insufficient_funds_for_fee">Insufficient funds to pay fee</string>
+    <string name="invalid_bitcoin_uri">Invalid Bitcoin URI</string>
+    <string name="invalid_bitid_uri">Invalid BitID URI</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="keep_address">Keep as read-only by preserving the Bitcoin address</string>
+    <string name="key_already_present">The private key was already present</string>
+    <string name="key_management">Key Management</string>
+    <string name="key_management_disabled_desc">This page gives access to advanced Bitcoin key management features for experts in Bitcoin.\n\nYou can enable Expert Mode in Settings.</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="legacy_app_name">Barcode Scanner</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="lock_label">Lock</string>
+    <string name="lt_abort_trade_button">Abort Trade</string>
+    <string name="lt_aborted_buys_label">Aborted Buys</string>
+    <string name="lt_aborted_sells_label">Aborted Sells</string>
+    <string name="lt_accept_button">Accept</string>
+    <string name="lt_accept_offer_button">Accept Offer</string>
+    <string name="lt_accept_terms_title">Terms and Conditions</string>
+    <string name="lt_account_does_not_exist">Your trader account does not exist.</string>
+    <string name="lt_activate_menu">Activate</string>
+    <string name="lt_active_trades_tab">Active Trades</string>
+    <string name="lt_ad_created">Ad created</string>
+    <string name="lt_ad_deactivating_message">One of your Local Trader ads will soon deactivate.</string>
+    <string name="lt_ad_edited">Ad edited</string>
+    <string name="lt_ad_type_buy_btc_label">Buy Bitcoin</string>
+    <string name="lt_ad_type_sell_btc_label">Sell Bitcoin</string>
+    <string name="lt_base_price_label">Base Price:</string>
+    <string name="lt_btc_price">%1$s %2$s/BTC</string>
+    <string name="lt_buy_bitcoin_tab">Buy Bitcoin</string>
+    <string name="lt_buy_button">Buy</string>
+    <string name="lt_buy_commission_description">(%1$s%% of what the seller pays)</string>
+    <string name="lt_buy_sell_button">Buy / Sell Bitcoin</string>
+    <string name="lt_buyer_buys_at_label">Buyer\'s price:</string>
+    <string name="lt_buyer_gets_label">Buyer gets:</string>
+    <string name="lt_buyer_pays_label">Buyer pays:</string>
+    <string name="lt_buying_details">You are buying %1$s</string>
+    <string name="lt_buying_near">Buying Bitcoins Near</string>
+    <string name="lt_cannot_affort_trade">Your wallet does not have enough funds.\nTo complete this deal you have to add more funds to your wallet.</string>
+    <string name="lt_captcha_wrong">Wrong solution, please try again.</string>
+    <string name="lt_cash_received_button">Cash Received</string>
+    <string name="lt_change_button">Change</string>
+    <string name="lt_change_price_button">Change Price</string>
+    <string name="lt_change_price_choose_base_price">You can choose another base price</string>
+    <string name="lt_change_price_choose_premium">You can choose another premium</string>
+    <string name="lt_change_price_title">Changing Trade Price</string>
+    <string name="lt_changing_location_desc">Enter your location or use the cross hair to get an approximation</string>
+    <string name="lt_changing_location_title">Changing Location</string>
+    <string name="lt_chat_message_hint">Type a message here</string>
+    <string name="lt_commission_label">Commission:</string>
+    <string name="lt_confirm_abort">Because both of you accepted the deal your ratings may get a penalty.\nDo you wish to abort this trade?"</string>
+    <string name="lt_confirm_cash_received">Did you receive %1$s %2$s and are you ready to send the bitcoins to %3$s?</string>
+    <string name="lt_confirm_delete_sell_order_message">Do you want to delete this sell order?</string>
+    <string name="lt_confirm_delete_sell_order_title">Delete Sell Order?</string>
+    <string name="lt_confirm_stop">Do you wish to stop this trade?"</string>
+    <string name="lt_confirm_title">Confirm</string>
+    <string name="lt_create_account_address_desc">You are using Local Trader for the first time and need to enter a few details.\n\nChoose the Bitcoin address you wish to link to your trader account:</string>
+    <string name="lt_create_account_name_desc">Enter your trader nick name:</string>
+    <string name="lt_create_account_name_hint">name</string>
+    <string name="lt_create_account_title">Creating Trader Account</string>
+    <string name="lt_create_ad">Create Ad</string>
+    <string name="lt_create_ad_title">Creating Advertisement</string>
+    <string name="lt_create_button">Create</string>
+    <string name="lt_create_order_choose_base_price">Choose the base price:</string>
+    <string name="lt_create_order_choose_buy_or_sell">Do you wish to buy or sell bitcoin:</string>
+    <string name="lt_create_order_choose_location">Choose the location where you wish to trade:</string>
+    <string name="lt_create_order_choose_maximum">Choose the maximum amount to trade:</string>
+    <string name="lt_create_order_choose_minimum">Choose the minimum amount to trade:</string>
+    <string name="lt_create_order_description">Optional description of your order:</string>
+    <string name="lt_create_order_description_hint">Buy from me because…</string>
+    <string name="lt_create_order_description_too_long">The description is too long</string>
+    <string name="lt_create_order_fiat_price">Approximate price for one bitcoin:</string>
+    <string name="lt_create_sell_order_choose_currency">Choose the fiat currency you accept:</string>
+    <string name="lt_create_sell_order_choose_premium">Choose the premium you wish to add on top of the base price:</string>
+    <string name="lt_current_price_column">Current Price</string>
+    <string name="lt_deactivate_menu">Deactivate</string>
+    <string name="lt_decline_button">Decline</string>
+    <string name="lt_description_label">Description</string>
+    <string name="lt_detach_trader_account">Detach Trader Account</string>
+    <string name="lt_detached">Local Trader account detached</string>
+    <string name="lt_detaching_question">This will detach your Local Trader account from Mycelium and delete locally cached trade data. The next time you use Local Trader you can attach the same address to continue using the same trader identity.\n\nDo you wish to detach from Local Trader?</string>
+    <string name="lt_detaching_title">Detaching Account</string>
+    <string name="lt_disable_preference">Disable Local Trader</string>
+    <string name="lt_disable_preference_summary">Disable Local Trader functionality</string>
+    <string name="lt_distance_in_kilometers">%1$s Km</string>
+    <string name="lt_distance_in_miles">%1$s Miles</string>
+    <string name="lt_distance_label">Distance</string>
+    <string name="lt_distance_not_applicable">Omnipresent</string>
+    <string name="lt_done_button">Done</string>
+    <string name="lt_edit_ad_title">Editing Advertisement</string>
+    <string name="lt_edit_button">Edit</string>
+    <string name="lt_edit_description_button">Edit Description</string>
+    <string name="lt_enter_amount_title">Enter Amount</string>
+    <string name="lt_enter_amount_to_trade_title">Enter Amount to Trade</string>
+    <string name="lt_enter_fiat_amount_to_trade">Enter amount to trade.</string>
+    <string name="lt_enter_location_tite">Enter Location</string>
+    <string name="lt_error_account_name_taken">The name you chose is already taken. Please choose another name</string>
+    <string name="lt_error_api_occurred">An error occurred</string>
+    <string name="lt_error_cannot_trade_with_self">You cannot trade with yourself</string>
+    <string name="lt_error_incompatible_version">Your wallet needs an upgrade to use this functionality</string>
+    <string name="lt_expected_trade_time_label">Expected Trade Time</string>
+    <string name="lt_experimental">(experimental)</string>
+    <string name="lt_getting_trader_info_title">Getting Trader Info</string>
+    <string name="lt_going_to_website">Going to %1$s</string>
+    <string name="lt_google_play_services_not_available">Your device cannot integrate with Google Play Services, and may not get automatic notifications when trade updates occur.</string>
+    <string name="lt_how_to_trade_menu">How to Trade</string>
+    <string name="lt_info_button">Info</string>
+    <string name="lt_invalid_chat_message">Invalid chat message sent by %1$s</string>
+    <string name="lt_limits_label">Limits</string>
+    <string name="lt_local_trader_commission_label">Local Trader Commission</string>
+    <string name="lt_localization_not_available">This feature requires your device to be able to tell its current location. It seems that your device cannot do that. Try enabling location services in your device settings.</string>
+    <string name="lt_location_hint">Enter city or address</string>
+    <string name="lt_location_label">Location</string>
+    <string name="lt_map_button">Map</string>
+    <string name="lt_miles_kilometers_preference">Use Miles for Distances</string>
+    <string name="lt_miles_kilometers_preference_summary">Use miles instead of kilometers for distances</string>
+    <string name="lt_my_ads_tab">My Ads</string>
+    <string name="lt_my_trader_info_tab">My Info</string>
+    <string name="lt_mycelium_local_trader_title">Mycelium Local Trader</string>
+    <string name="lt_never_show_again_label">Don\'t show this again</string>
+    <string name="lt_new_price_column">New Price</string>
+    <string name="lt_new_trading_activity_message">New trading activity</string>
+    <string name="lt_next_button">Next</string>
+    <string name="lt_no_ads">This page shows your trade ads.\n\nThe list is currently empty.\n\nClick the + button to create one.</string>
+    <string name="lt_no_recent_trades">This page shows your active trades.\n\nCompleted trades move to the Trade History tab.</string>
+    <string name="lt_no_trader_account_desc">There is no Local Trader account associated with this wallet.\n\nA trader account is linked directly to one of your bitcoin addresses, no passwords, no hassle.\n\nCreate one now?</string>
+    <string name="lt_opening_map">Opening map</string>
+    <string name="lt_order_active">Active until %1$s</string>
+    <string name="lt_order_inactive">Inactive</string>
+    <string name="lt_place_instant_buy_order_title">Creating Trade Request</string>
+    <string name="lt_pref_category">Local Trader</string>
+    <string name="lt_price_label">Price</string>
+    <string name="lt_price_of_one_btc_label">(Per 1 BTC)</string>
+    <string name="lt_rating_label">Rating</string>
+    <string name="lt_refresh_market_rate_button">Refresh Market Rate</string>
+    <string name="lt_refresh_market_rate_description">The new price depends on the price formula set by the seller and the current market rates.\n\nIf you refresh the price you both have to accept the deal.</string>
+    <string name="lt_refresh_market_rate_title">Refreshing Market Rate</string>
+    <string name="lt_reveiving_address_description">On a successful trade your funds will go to the following address:</string>
+    <string name="lt_reveiving_address_title">Receiving Address</string>
+    <string name="lt_searching">Searching</string>
+    <string name="lt_sell_bitcoin_tab">Sell Bitcoin</string>
+    <string name="lt_sell_button">Sell</string>
+    <string name="lt_sell_commission_description">(%1$s%% of what you pay)</string>
+    <string name="lt_seller_gets_label">Seller gets:</string>
+    <string name="lt_seller_pays_label">Seller pays:</string>
+    <string name="lt_seller_sells_at_label">Seller\' price:</string>
+    <string name="lt_selling_details">You are selling %1$s</string>
+    <string name="lt_selling_near">Selling Bitcoins Near</string>
+    <string name="lt_solve_captcha_desc">Please solve this captcha.\nThis is to prevent spam.</string>
+    <string name="lt_solve_captcha_title">Are You a Human?</string>
+    <string name="lt_sound_on_trade_preference">Play Sound on Trade Activity</string>
+    <string name="lt_sound_on_trade_preference_summary">Play a notification sound when trade activity occurs</string>
+    <string name="lt_start_trading_button">Start Trading</string>
+    <string name="lt_status_text">%1$s</string>
+    <string name="lt_stop_trade_button">Stop Trade</string>
+    <string name="lt_successful_buys_label">Successful Buys</string>
+    <string name="lt_successful_sells_label">Successful Sells</string>
+    <string name="lt_thats_you">(that\'s you)</string>
+    <string name="lt_time_about_one_hour">About an hour</string>
+    <string name="lt_time_about_x_hours">About %1$s hours</string>
+    <string name="lt_time_in_days">%1$s days</string>
+    <string name="lt_time_in_hours">%1$s hours</string>
+    <string name="lt_time_in_minutes">%1$s minutes</string>
+    <string name="lt_time_less_than_one_hour">Less than one hour</string>
+    <string name="lt_time_less_than_one_minute">Just now</string>
+    <string name="lt_time_one_day">1 day</string>
+    <string name="lt_time_one_hour">1 hour</string>
+    <string name="lt_time_one_minute">1 minute</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="lt_tos_1">Mycelium Local Trader is a tool that allows buyers and sellers to trade bitcoin for cash. Trading requires buyers and sellers to meet physically as part of the exchange.</string>
+    <string name="lt_tos_2">Mycelium only acts as a means of communication between two parties, and is not in any way responsible for any actions taken by the trading parties before, during, or after physical meetings.</string>
+    <string name="lt_tos_3">The Mycelium software guides the trading parties, but they themselves are responsible for exchanging the correct amount of cash and bitcoins and their validity thereof.</string>
+    <string name="lt_tos_4" ns1:ignore="StringFormatInvalid">Mycelium charges a small 0.2% fee to both sides of any trade. This fee is subject to change in the future.</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="lt_total_bought_label">Total Bought</string>
+    <string name="lt_total_sold_label">Total Sold</string>
+    <string name="lt_trade_button">Trade</string>
+    <string name="lt_trade_history_tab">Trade History</string>
+    <string name="lt_trader_address_label">Account Tied to Address</string>
+    <string name="lt_trader_age_label">Trader Account Age</string>
+    <string name="lt_trader_key">(Local Trader account key)</string>
+    <string name="lt_trader_label">Trader</string>
+    <string name="lt_trader_last_activity">Last Activity</string>
+    <string name="lt_trader_name_label">Trader Name</string>
+    <string name="lt_transaction_confidence">transaction confidence %1$s%%</string>
+    <string name="lt_use_button">Use</string>
+    <string name="lt_use_email_for_notifications">Use email for notifications</string>
+    <string name="lt_welcome_message" ns1:ignore="StringFormatInvalid">WELCOME!\n\nMycelium Local Trader lets you trade cash for bitcoins by finding traders in your local area, without you having to trust an exchange provider with your money. All trades are done directly in person.\n\nUntil September 1st, 2014, the fee for trading through the Local Trader system will be 0.2%, which will be added to the total sale price.</string>
+    <string name="lt_you_are_trading_with_label">You are trading with</string>
+    <string name="lt_you_buy_at_label">You buy at:</string>
+    <string name="lt_you_get_label">You get:</string>
+    <string name="lt_you_pay_label">You pay:</string>
+    <string name="lt_you_sell_at_label">You sell at:</string>
+    <string name="lt_your_receiving_address_label">Your receiving address</string>
+    <string name="managing_archive_key">You are managing a single archived key.</string>
+    <string name="manual_entry">Manual Entry</string>
+    <string name="max">Max</string>
+    <string name="max_btc">Spendable: %1$s</string>
+    <string name="max_fiat">Spendable: %1$s %2$s</string>
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="menu_encode_mecard">Use MECARD</string>
+    <string name="menu_encode_vcard">Use vCard</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_history">History</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="menu_scan">Scan</string>
+    <string name="menu_settings">Settings</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="menu_share">Share</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="menu_stop">Stop</string>
+    <string name="miner_fee_label">Miner fee:</string>
+    <string name="miner_fee_title">Miner Fee</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="msg_bulk_mode_scanned">Bulk mode: barcode scanned and saved</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    <string name="msg_default_status">Place a QR-code inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_default_time">Time</string>
+    <string name="msg_default_type">Type</string>
+    <string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
+    <string name="msg_google_books">Google Books</string>
+    <string name="msg_google_product">Google Product Search</string>
+    <string name="msg_google_shopper_missing">Google Shopper is not installed</string>
+    <string name="msg_install_google_shopper">Google Shopper combines barcode scanning with online and local prices, reviews and more without opening the browser. Would you like to try it?</string>
+    <string name="msg_intent_failed">Sorry, the requested application could not be launched. The barcode contents may be invalid.</string>
+    <string name="msg_redirect">Redirect</string>
+    <string name="msg_sbc_book_not_searchable">Sorry, this book is not searchable.</string>
+    <string name="msg_sbc_failed">Sorry, the search encountered a problem.</string>
+    <string name="msg_sbc_no_page_returned">No page returned</string>
+    <string name="msg_sbc_page">Page</string>
+    <string name="msg_sbc_results">Results</string>
+    <string name="msg_sbc_searching_book">Searching book\u2026</string>
+    <string name="msg_sbc_snippet_unavailable">Snippet not available</string>
+    <string name="msg_sbc_unknown_page">Unknown page</string>
+    <string name="msg_share_explanation">You can share data by displaying a barcode on your screen and scanning it with another phone.</string>
+    <string name="msg_share_subject_line">Here are the contents of a barcode I scanned</string>
+    <string name="msg_share_text">Or type some text and press Enter</string>
+    <string name="msg_sure">Are you sure?</string>
+    <string name="msg_unmount_usb">Sorry, the SD card is not accessible.</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="my_addresses">My Addresses</string>
+    <string name="my_own_address_warning">Note: You are sending to one of your own addresses.</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/bitsofgold/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="mycelium_com">bitsofgold.co.il</string>
+    <string name="mycelium_license">Bits of Gold License</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="name">Name</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/bitsofgold/res/values/product.xml -->
+    <eat-comment />
+
+    <string name="network">prodnet</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="new_bitcoin_address_created">A new random private key has been generated with the following Bitcoin address:</string>
+    <string name="new_version_exists">A new Version is available</string>
+    <string name="next">Next</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="nine">9</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="no">No</string>
+    <string name="no_address_book_records">This page shows your address book.\n\nYour address book is empty.</string>
+    <string name="no_data">No data</string>
+    <string name="no_network_connection">No Network Connection</string>
+    <string name="no_private_key">Your wallet cannot send funds as it has no private keys</string>
+    <string name="no_server_connection">No Server Connection</string>
+    <string name="no_transaction_records">This page shows your transaction history.\n\nThere are currently no transactions to show.</string>
+    <string name="ok">OK</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="one">1</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="optional_amount">Optional Amount</string>
+    <string name="out_of_memory_error">ERROR: Your device does not have enough memory to complete this task</string>
+    <string name="outputs">Outputs</string>
+    <string name="page_locked">This page is locked</string>
+    <string name="paste">Paste</string>
+    <string name="payment_request">Payment Request</string>
+    <string name="pdfwriter_license">Android PDF Writer License</string>
+    <string name="pick_android_wallet_address_for_import">Pick an address for import</string>
+    <string name="pick_android_wallet_backup">Pick a backup file</string>
+    <string name="pin_cleared">PIN code cleared</string>
+    <string name="pin_codes_dont_match">The two PIN codes do not match</string>
+    <string name="pin_confirm_pin">Confirm PIN Code</string>
+    <string name="pin_enter_new_pin">Enter new PIN Code</string>
+    <string name="pin_enter_pin">Enter PIN Code</string>
+    <string name="pin_invalid_pin">Invalid PIN code</string>
+    <string name="pin_set">PIN code set</string>
+    <string name="please_wait">Please wait …</string>
+    <string name="pref_advanced_settings">Advanced Settings</string>
+    <string name="pref_aggregated_view">Aggregated View</string>
+    <string name="pref_aggregated_view_summary">With aggregated view you operate on all keys and addresses in parallel. With segregated view you operate on one key at a time.</string>
+    <string name="pref_bitcoin_denomination">Bitcoin Denomination</string>
+    <string name="pref_bitcoin_denomination_summary">Set preferred Bitcoin denomination. BTC, mBTC, or μBTC</string>
+    <string name="pref_bitcoin_denomination_with_denomination">Denomination (%1$s)</string>
+    <string name="pref_category_advanced">Advanced</string>
+    <string name="pref_category_pin">PIN Settings</string>
+    <string name="pref_change_language">Change Language</string>
+    <string name="pref_clear_pin">Clear PIN Code</string>
+    <string name="pref_clear_pin_summary">Clear the current PIN code</string>
+    <string name="pref_continuous_focus">Continuous Autofocus</string>
+    <string name="pref_continuous_focus_summary">Continuously attempt to autofocus when scanning QR codes</string>
+    <string name="pref_exchange_source">Exchange Source</string>
+    <string name="pref_exchange_source_summary">Select the source for obtaining exchange rates between Bitcoin and fiat currencies</string>
+    <string name="pref_exchange_source_with_value">Exchange Source (%1$s)</string>
+    <string name="pref_expert_mode">Expert Mode</string>
+    <string name="pref_expert_mode_summary">Enabling expert mode opens up additional features including advanced key management and multiple wallets</string>
+    <string name="pref_local_currency">Local Currency</string>
+    <string name="pref_local_currency_summary">Select the local fiat currency</string>
+    <string name="pref_local_currency_with_currency">Local Currency (%1$s)</string>
+    <string name="pref_set_pin">Set PIN Code</string>
+    <string name="pref_set_pin_summary">Set a PIN code that restricts access to sending coins, exporting private keys, and changing the PIN code</string>
+    <string name="pref_socks_proxy">Socks Proxy</string>
+    <string name="pref_socks_proxy_enabled">Socks Proxy (Enabled)</string>
+    <string name="pref_socks_proxy_not_enabled">Socks Proxy (Not enabled)</string>
+    <string name="pref_socks_proxy_summary">Communicate through restrictive firewalls or through Tor using Orbot. Enter a host name and port, e.g. \'localhost:9050\'</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="preferences_actions_title">When a barcode is found\u2026</string>
+    <string name="preferences_auto_focus_title">Use auto focus</string>
+    <string name="preferences_bulk_mode_summary">Scan and save many barcodes continuously</string>
+    <string name="preferences_bulk_mode_title">Bulk scan mode</string>
+    <string name="preferences_copy_to_clipboard_title">Copy to clipboard</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">Substitutions: %s = contents, %f = format, %t = type</string>
+    <string name="preferences_custom_product_search_title">Custom search URL</string>
+    <string name="preferences_decode_1D_title">1D barcodes</string>
+    <string name="preferences_decode_Data_Matrix_title">Data Matrix</string>
+    <string name="preferences_decode_QR_title">QR Codes</string>
+    <string name="preferences_device_bug_workarounds_title">Device Bug Workarounds</string>
+    <string name="preferences_disable_continuous_focus_summary">Use only standard focus mode</string>
+    <string name="preferences_disable_continuous_focus_title">No continuous focus</string>
+    <string name="preferences_disable_exposure_title">No exposure</string>
+    <string name="preferences_front_light_auto">Automatic</string>
+    <string name="preferences_front_light_off">Off</string>
+    <string name="preferences_front_light_on">On</string>
+    <string name="preferences_front_light_summary">Improves scanning in low light on some phones, but may cause glare. Does not work on all phones.</string>
+    <string name="preferences_front_light_title">Use front light</string>
+    <string name="preferences_general_title">General settings</string>
+    <string name="preferences_invert_scan_summary">Scan for white barcodes on black background. Not available on some devices.</string>
+    <string name="preferences_invert_scan_title">Invert scan</string>
+    <string name="preferences_name">Settings</string>
+    <string name="preferences_play_beep_title">Beep</string>
+    <string name="preferences_remember_duplicates_summary">Store multiple scans of the same barcode in History</string>
+    <string name="preferences_remember_duplicates_title">Remember duplicates</string>
+    <string name="preferences_result_title">Result settings</string>
+    <string name="preferences_scanning_title">When scanning for barcodes, decode\u2026</string>
+    <string name="preferences_search_country">Search country</string>
+    <string name="preferences_supplemental_summary">Try to retrieve more information about the barcode contents</string>
+    <string name="preferences_supplemental_title">Retrieve more info</string>
+    <string name="preferences_try_bsplus">Try Barcode Scanner+</string>
+    <string name="preferences_try_bsplus_summary">Enhanced with new features and interface</string>
+    <string name="preferences_vibrate_title">Vibrate</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="private_key">Private Key</string>
+    <string name="private_key_deleted">Private key deleted.</string>
+    <string name="qr_code">QR Code</string>
+    <string name="question_archive">Archived keys do not add to your balance, but you can always select them and monitor them as single keys in the balance view.\r\n\r\nArchived keys can be activated again.\r\n\r\nDo you want to archive this key?</string>
+    <string name="question_mark">\?</string>
+    <string name="random">Random</string>
+    <string name="random_desc">Create a new random private key.</string>
+    <string name="read_only_warning">Warning: Your wallet does not have the private key for this address.\nYou cannot spend coins received unless you have the private key elsewhere.</string>
+    <string name="receive">Receive</string>
+    <string name="receiver_address_hint">1Address1234\n567890abcdef\nghijklmnop</string>
+    <string name="receiver_label">Receiver:</string>
+    <string name="receiving">Receiving %1$s</string>
+    <string name="recipient_title">Recipient Address</string>
+    <string name="redirecting_to_blockchain_info">Redirecting to blockchain.info</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="result_address_book">Found contact info</string>
+    <string name="result_calendar">Found calendar event</string>
+    <string name="result_email_address">Found email address</string>
+    <string name="result_geo">Found geographic coordinates</string>
+    <string name="result_isbn">Found book</string>
+    <string name="result_product">Found product</string>
+    <string name="result_sms">Found SMS address</string>
+    <string name="result_tel">Found phone number</string>
+    <string name="result_text">Found plain text</string>
+    <string name="result_uri">Found URL</string>
+    <string name="result_wifi">Found WLAN Configuration</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="retry_password_question">The password you entered is not valid.\nDo you wish to try again?</string>
+    <string name="sample_address">1Bmc9QwQgmuN\r\nWTxo5PjzPWeS\r\nF4d3aHx6hH</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="sbc_name">Google Book Search</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="scan">Scan</string>
+    <string name="scan_address_book_desc">Scan Bitcoin address.</string>
+    <string name="scan_desc">Scan Bitcoin address or private key.</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="segregated">Segregated</string>
+    <string name="select_spending_address">Select Spending Address</string>
+    <string name="send">Send</string>
+    <string name="send_bitcoins">Send Bitcoins</string>
+    <string name="sending">Sending %1$s</string>
+    <string name="set_label">Set Label</string>
+    <string name="settings">Settings</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="seven">7</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="share_bitcoin_address">Share Bitcoin Address</string>
+    <string name="share_payment_request">Share Payment Request</string>
+    <string name="share_pdf">Share PDF</string>
+    <string name="share_signature">Share Text + Signature</string>
+    <string name="share_with">Share with…</string>
+    <string name="show_details">Show Details</string>
+    <string name="show_qr_code_menu">Show QR Code</string>
+    <string name="show_to_sender">Show to Sender</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="sig_copied">Signature copied to clipboard</string>
+    <string name="sign_bitid">Sign In</string>
+    <string name="sign_message">Sign Message</string>
+    <string name="signed_message_share">Share Bitcoin signed message</string>
+    <string name="signed_message_subject">Bitcoin signed message</string>
+    <string name="signing_inprogress">Signing Message…</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="six">6</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="slow_network">Your network connection seems to be slow.\nWith a little patience we might get there…</string>
+    <string name="source_repo_label">Source Repository</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/bitsofgold/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="source_url">https://github.com/mycelium-com/wallet</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="start_recording">Receive</string>
+    <string name="stop_recording">Stop</string>
+    <string name="synchronizing">Synchronizing</string>
+    <string name="tab_addresses">Address Book</string>
+    <string name="tab_balance">Balance</string>
+    <string name="tab_keys">Keys</string>
+    <string name="tab_trade">Trade</string>
+    <string name="tab_transactions">Transactions</string>
+    <string name="tap_qr_code_desc">Tapping the QR code may improve scanning</string>
+    <string name="tap_to_refresh">Tap to refresh</string>
+    <string name="testnet_label_startup">TESTNET</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="three">3</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="title_activity_bit_idauthentication">BitID Authentication</string>
+    <string name="title_activity_sound_recording_example2">NFSound</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="transaction_details">Transaction Details</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="transaction_not_sent">Failed to broadcast transaction</string>
+    <string name="transaction_sent">Transaction sent</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="two">2</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_service">Unknown service</string>
+    <string name="unlock_label">Unlock</string>
+    <string name="unrecognized_format">Unrecognized format</string>
+    <string name="unrecognized_format_version">Unrecognized private key version</string>
+    <string name="unrecognized_private_key_format">Unrecognized private key format</string>
+    <string name="update_check">Update check</string>
+    <string name="upgraded_address_to_key">Upgraded Bitcoin address with private key</string>
+    <string name="use">Use</string>
+    <string name="using_address_from_clipboard">Using address from clipboard</string>
+    <string name="verify_backup_clipboard_desc">Verify private key backup by taking the private key from the clipboard.</string>
+    <string name="verify_backup_desc">Proper private key backup is a cornerstone when managing your Bitcoin funds.\n\nBy verifying your backup you make sure that your backup works and that you do not lose your funds if your Android device is lost or damaged.</string>
+    <string name="verify_backup_dialog_title">Verify Private Key Backup</string>
+    <string name="verify_backup_ignored">Backup ignored for this private key.</string>
+    <string name="verify_backup_message_expert">It seems that you have one or more Bitcoin private keys that have not been backed up.\n\nPlease select the Backup option to back up your keys.\n\nThen click the Verify Backup option and verify your backup.</string>
+    <string name="verify_backup_message_non_expert">It seems that you have not backed up your private key.\n\nPlease select the Backup option to back up your private key.\n\nThen click the Verify Backup option and verify your backup.</string>
+    <string name="verify_backup_message_text_1">Proper private key backup is a cornerstone when managing your Bitcoin funds.\nYou have one or more Bitcoin private keys where the backup has not been verified.\n\nPlease select the Backup option to back up your keys.</string>
+    <string name="verify_backup_message_text_2">Then select the Verify Backup option and verify your backup.</string>
+    <string name="verify_backup_no_such_record">The private key does not match any of your Bitcoin addresses.</string>
+    <string name="verify_backup_num_keys">You have %1$s keys that have never been verified.</string>
+    <string name="verify_backup_ok">Private key backup successfully verified for the following address:\n\n%1$s</string>
+    <string name="verify_backup_one_key">You have 1 key that has never been verified.</string>
+    <string name="verify_backup_scan_desc">Verify private key backup by scanning the private key QR code.\nSeveral formats are accepted, including the Mycelium encrypted paper backup.</string>
+    <string name="verify_backup_title">Backup and Verify</string>
+    <string name="verify_private_key_backup">Verify Backup</string>
+    <string name="version_check_failed">Unable to receive Version information</string>
+    <string name="version_label">Version</string>
+    <string name="version_uptodate">Your Wallet is up to date with version %s</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="vn_banner_description">Mua và bán Bitcoin với VNĐ</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="wifi_changing_network">Requesting connection to network\u2026</string>
+    <string name="wifi_ssid_label">Network Name</string>
+    <string name="wifi_type_label">Type</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="yes">Yes</string>
+    <string name="your_balance">Your balance:</string>
+    <string name="your_bitcoin_address">Your Bitcoin address:</string>
+    <string name="your_name_placeholder">Your Name</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings_nolocale.xml -->
+    <eat-comment />
+
+    <string name="zero">0</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="zxing_license">ZXing License</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="ActionButtonStyle" parent="Widget.AppCompat.Light.ActionButton">
+        <item name="android:minWidth">1dip</item>
+        <!--
+        <item name="android:paddingLeft">0dip</item>
+        <item name="android:paddingRight">0dip</item>
+        -->
+    </style>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="CaptureTheme" parent="android:Theme.NoTitleBar.Fullscreen" />
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="GenericButton" parent="@android:style/Widget.Button">
+        <!--
+                    <item name="android:layout_width">fill_parent</item>
+                <item name="android:layout_height">wrap_content</item>
+                <item name="android:textColor">@color/button_text_color</item>
+                <item name="android:gravity">center</item>
+                <item name="android:layout_margin">3dp</item>
+                <item name="android:textStyle">bold</item>
+                <item name="android:shadowColor">#000000</item>
+                <item name="android:shadowDx">1</item>
+                <item name="android:shadowDy">1</item>
+                <item name="android:shadowRadius">2</item>
+        -->
+    </style>
+
+    <style name="GenericText">
+        <!--
+                <item name="android:layout_width">fill_parent</item>
+                <item name="android:layout_height">wrap_content</item>
+                <item name="android:textColor">#ffffff</item>
+                <item name="android:layout_margin">3dp</item>
+                <item name="android:shadowColor">#000000</item>
+                <item name="android:shadowDx">1</item>
+                <item name="android:shadowDy">1</item>
+                <item name="android:shadowRadius">2</item>
+        -->
+    </style>
+
+    <style name="MyceliumActionBar" parent="MyceliumModern">
+        <item name="android:windowBackground">@drawable/background_witherrors_centered</item>
+    </style>
+
+    <style name="MyceliumButton" parent="android:style/Widget.Button">
+
+        <!-- <item name="android:textSize">19sp</item> -->
+        <!-- <item name="android:layout_margin">0dip</item> -->
+        <!-- <item name="android:background">#0000FF</item> -->
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:layout_marginRight">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/btn_blue</item>
+        <item name="android:textColor">@color/button_text_color</item>
+    </style>
+
+    <style name="MyceliumLauncher" parent="MyceliumModern">
+        <item name="android:windowBackground">@drawable/background_launcher_centered</item>
+    </style>
+
+    <style name="MyceliumModern" parent="AppBaseTheme">
+
+        <!-- <item name="android:windowFullscreen">true</item> -->
+        <!--
+           <item name="android:windowActionBar">false</item>
+           <item name="windowActionBar">false</item>
+        -->
+        <!-- <item name="android:windowNoTitle">true</item> -->
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:actionButtonStyle" ns1:ignore="NewApi">@style/ActionButtonStyle</item>
+        <item name="actionButtonStyle">@style/ActionButtonStyle</item>
+        <item name="android:buttonStyle">@style/MyceliumButton</item>
+        <item name="android:textViewStyle">@style/MyceliumText</item>
+    </style>
+
+    <style name="MyceliumModern.Dialog" parent="Theme.AppCompat.CompactMenu.Dialog">
+        <item name="android:actionButtonStyle" ns1:ignore="NewApi">@style/ActionButtonStyle</item>
+        <item name="actionButtonStyle">@style/ActionButtonStyle</item>
+        <item name="android:buttonStyle">@style/MyceliumButton</item>
+        <item name="android:textViewStyle">@style/MyceliumText</item>
+    </style>
+
+    <style name="MyceliumSlimButton" parent="android:style/Widget.Button">
+        <item name="android:layout_marginLeft">1dp</item>
+        <item name="android:layout_marginRight">1dp</item>
+        <item name="android:background">@drawable/btn_blue_slim</item>
+        <item name="android:textColor">@color/button_text_color</item>
+    </style>
+
+    <style name="MyceliumText" parent="android:TextAppearance">
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="QRCodeStyle">
+        <item name="android:background">@drawable/qr_code</item>
+    </style>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="TextAppearance.AppCompat.Base.CompactMenu.Dialog" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">@android:color/primary_text_light</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Base.SearchResult" parent="">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Base.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Base.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large" parent="android:TextAppearance.Widget">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small" parent="android:TextAppearance.Widget">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult" parent="TextAppearance.AppCompat.Base.SearchResult">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large" />
+
+    <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small" />
+
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle" />
+
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Title" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Title" />
+
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large" />
+
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small" />
+
+    <style name="TextAppearance.AppCompat.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Base.SearchResult.Subtitle" />
+
+    <style name="TextAppearance.AppCompat.SearchResult.Title" parent="TextAppearance.AppCompat.Base.SearchResult.Title" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Title" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse" />
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu" parent="android:TextAppearance.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle" parent="android:TextAppearance.Small">
+        <item name="android:textSize">@dimen/abc_action_bar_subtitle_text_size</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse" parent="android:TextAppearance.Small.Inverse">
+        <item name="android:textSize">@dimen/abc_action_bar_subtitle_text_size</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title" parent="android:TextAppearance.Medium">
+        <item name="android:textSize">@dimen/abc_action_bar_title_text_size</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse" parent="android:TextAppearance.Medium.Inverse">
+        <item name="android:textSize">@dimen/abc_action_bar_title_text_size</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse" parent="android:TextAppearance.Small.Inverse">
+        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title" parent="android:TextAppearance.Medium" />
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse" parent="android:TextAppearance.Medium.Inverse" />
+
+    <style name="TextAppearance.AppCompat.Widget.Base.DropDownItem" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.DropDownItem" parent="TextAppearance.AppCompat.Widget.Base.DropDownItem" />
+
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large" />
+
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small" />
+
+    <style name="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+
+    <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item" />
+
+    <style name="Theme.AppCompat" parent="Theme.Base.AppCompat">
+        <item name="isLightTheme">false</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+    </style>
+
+    <style name="Theme.AppCompat.Base.CompactMenu" parent="">
+        <item name="android:itemTextAppearance">            @style/TextAppearance.Widget.AppCompat.ExpandedMenu.Item</item>
+        <item name="android:listViewStyle">@style/Widget.AppCompat.ListView.Menu</item>
+    </style>
+
+    <style name="Theme.AppCompat.Base.CompactMenu.Dialog" parent="">
+        <item name="android:itemTextAppearance">            @style/TextAppearance.AppCompat.Base.CompactMenu.Dialog</item>
+        <item name="android:listViewStyle">@android:style/Widget.ListView.Menu</item>
+    </style>
+
+    <style name="Theme.AppCompat.CompactMenu" parent="Theme.AppCompat.Base.CompactMenu" />
+
+    <style name="Theme.AppCompat.CompactMenu.Dialog" parent="Theme.AppCompat.Base.CompactMenu.Dialog" />
+
+    <style name="Theme.AppCompat.DialogWhenLarge" parent="Theme.Base.AppCompat.DialogWhenLarge" />
+
+    <style name="Theme.AppCompat.Light" parent="Theme.Base.AppCompat.Light">
+        <item name="isLightTheme">true</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.Light.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.Light.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_light</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_light</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_light</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear_holo_light</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search_api_holo_light</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go_search_api_holo_light</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search_api_holo_light</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_light</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.Light.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_light</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.Light.ActivityChooserView</item>
+    </style>
+
+    <style name="Theme.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light.DarkActionBar">
+        <item name="isLightTheme">true</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+    </style>
+
+    <style name="Theme.AppCompat.Light.DialogWhenLarge" parent="Theme.Base.AppCompat.Light.DialogWhenLarge" />
+
+    <style name="Theme.Base" parent="android:Theme" />
+
+    <style name="Theme.Base.AppCompat" parent="Theme.Base">
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_dark</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_dark</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.ActionBar</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+
+    <style name="Theme.Base.AppCompat.Dialog.FixedSize" parent="android:Theme.Dialog">
+        <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
+        <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
+        <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
+        <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_dark</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_dark</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+
+    <style name="Theme.Base.AppCompat.Dialog.Light.FixedSize" parent="Theme.Base.AppCompat.Dialog.FixedSize" />
+
+    <style name="Theme.Base.AppCompat.DialogWhenLarge" parent="Theme.Base.AppCompat" />
+
+    <style name="Theme.Base.AppCompat.Light" parent="Theme.Base.Light">
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_light</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_light</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_light</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">            @style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_light</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_light</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_light</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.Light.ActionButton.CloseMode</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">            @style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_light</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_light</item>
+    </style>
+
+    <style name="Theme.Base.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light">
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse</item>
+        <item name="actionBarWidgetTheme">@style/Theme.AppCompat</item>
+        <item name="actionBarDivider">@drawable/abc_list_divider_holo_dark</item>
+        <item name="actionBarItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView.Inverse</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar.Inverse</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText.Inverse</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.Light.ActionMode.Inverse</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+
+    <style name="Theme.Base.AppCompat.Light.DialogWhenLarge" parent="Theme.Base.AppCompat.Light" />
+
+    <style name="Theme.Base.Light" parent="android:Theme.Light" />
+
+    <style name="Widget.AppCompat.ActionBar" parent="Widget.AppCompat.Base.ActionBar" />
+
+    <style name="Widget.AppCompat.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar.Solid" />
+
+    <style name="Widget.AppCompat.ActionBar.TabBar" parent="Widget.AppCompat.Base.ActionBar.TabBar" />
+
+    <style name="Widget.AppCompat.ActionBar.TabText" parent="Widget.AppCompat.Base.ActionBar.TabText" />
+
+    <style name="Widget.AppCompat.ActionBar.TabView" parent="Widget.AppCompat.Base.ActionBar.TabView" />
+
+    <style name="Widget.AppCompat.ActionButton" parent="Widget.AppCompat.Base.ActionButton" />
+
+    <style name="Widget.AppCompat.ActionButton.CloseMode" parent="Widget.AppCompat.Base.ActionButton.CloseMode" />
+
+    <style name="Widget.AppCompat.ActionButton.Overflow" parent="Widget.AppCompat.Base.ActionButton.Overflow" />
+
+    <style name="Widget.AppCompat.ActionMode" parent="Widget.AppCompat.Base.ActionMode" />
+
+    <style name="Widget.AppCompat.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView" />
+
+    <style name="Widget.AppCompat.AutoCompleteTextView" parent="Widget.AppCompat.Base.AutoCompleteTextView" />
+
+    <style name="Widget.AppCompat.Base.ActionBar" parent="">
+        <item name="displayOptions">useLogo|showHome|showTitle</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="homeLayout">@layout/abc_action_bar_home</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abc_ab_transparent_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_transparent_dark_holo</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="progressBarStyle">@style/Widget.AppCompat.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.AppCompat.ProgressBar</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_solid_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_solid_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_solid_dark_holo</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionBar.TabBar" parent="">
+        <item name="divider">?attr/actionBarDivider</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">12dip</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionBar.TabText" parent="">
+        <item name="android:textAppearance">@null</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionBar.TabView" parent="">
+        <item name="android:background">@drawable/abc_tab_indicator_ab_holo</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+        <item name="android:minWidth">80dip</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionButton" parent="">
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">@bool/abc_config_actionMenuItemAllCaps</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionButton.CloseMode" parent="Widget.AppCompat.Base.ActionButton" />
+
+    <style name="Widget.AppCompat.Base.ActionButton.Overflow" parent="Widget.AppCompat.Base.ActionButton">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_normal_holo_dark</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionMode" parent="">
+        <item name="background">?attr/actionModeBackground</item>
+        <item name="backgroundSplit">?attr/actionModeSplitBackground</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActivityChooserView" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_dark</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">6dip</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.DropDownItem.Spinner" parent="">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.DropDownItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ListView.Menu" parent="android:Widget.ListView.Menu">
+        <item name="android:listSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">?attr/dividerHorizontal</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.PopupMenu" parent="@style/Widget.AppCompat.Base.ListPopupWindow" />
+
+    <style name="Widget.AppCompat.Base.ProgressBar" parent="android:Widget.ProgressBar">
+        <item name="android:minWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:minHeight">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxHeight">@dimen/abc_action_bar_progress_bar_size</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal" />
+
+    <style name="Widget.AppCompat.Base.Spinner" parent="">
+        <item name="spinnerMode">dropdown</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/abc_spinner_ab_holo_dark</item>
+    </style>
+
+    <style name="Widget.AppCompat.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner" />
+
+    <style name="Widget.AppCompat.Light.ActionBar" parent="Widget.AppCompat.Light.Base.ActionBar" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.Solid" parent="Widget.AppCompat.Light.Base.ActionBar.Solid" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.Solid.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.TabText" parent="Widget.AppCompat.Light.Base.ActionBar.TabText" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.TabView" parent="Widget.AppCompat.Light.Base.ActionBar.TabView" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.TabView.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse" />
+
+    <style name="Widget.AppCompat.Light.ActionButton" parent="Widget.AppCompat.Light.Base.ActionButton" />
+
+    <style name="Widget.AppCompat.Light.ActionButton.CloseMode" parent="Widget.AppCompat.Light.Base.ActionButton.CloseMode" />
+
+    <style name="Widget.AppCompat.Light.ActionButton.Overflow" parent="Widget.AppCompat.Light.Base.ActionButton.Overflow" />
+
+    <style name="Widget.AppCompat.Light.ActionMode.Inverse" parent="Widget.AppCompat.Light.Base.ActionMode.Inverse" />
+
+    <style name="Widget.AppCompat.Light.ActivityChooserView" parent="Widget.AppCompat.Light.Base.ActivityChooserView" />
+
+    <style name="Widget.AppCompat.Light.AutoCompleteTextView" parent="Widget.AppCompat.Light.Base.AutoCompleteTextView" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar" parent="Widget.AppCompat.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_transparent_light_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_light_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_transparent_light_holo</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="progressBarStyle">@style/Widget.AppCompat.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.AppCompat.ProgressBar</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.Solid" parent="Widget.AppCompat.Light.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_solid_light_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_solid_light_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_solid_light_holo</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse" parent="Widget.AppCompat.Base.ActionBar.Solid">
+        <item name="titleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse</item>
+        <item name="subtitleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabBar" parent="Widget.AppCompat.Base.ActionBar.TabBar" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabText" parent="Widget.AppCompat.Base.ActionBar.TabText" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabText">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabView" parent="Widget.AppCompat.Base.ActionBar.TabView" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabView" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionButton" parent="Widget.AppCompat.Base.ActionButton" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionButton.CloseMode" parent="Widget.AppCompat.Light.Base.ActionButton" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionButton.Overflow" parent="Widget.AppCompat.Light.Base.ActionButton">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_normal_holo_light</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ActionMode.Inverse" parent="Widget.AppCompat.Base.ActionMode">
+        <item name="titleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse</item>
+        <item name="subtitleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView">
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_light</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner" />
+
+    <style name="Widget.AppCompat.Light.Base.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/abc_list_selector_holo_light</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.PopupMenu" parent="@style/Widget.AppCompat.Light.Base.ListPopupWindow" />
+
+    <style name="Widget.AppCompat.Light.Base.Spinner" parent="Widget.AppCompat.Base.Spinner">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+        <item name="android:background">@drawable/abc_spinner_ab_holo_light</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.DropDownItem.Spinner" parent="Widget.AppCompat.Light.Base.DropDownItem.Spinner" />
+
+    <style name="Widget.AppCompat.Light.ListPopupWindow" parent="Widget.AppCompat.Light.Base.ListPopupWindow" />
+
+    <style name="Widget.AppCompat.Light.ListView.DropDown" parent="Widget.AppCompat.Light.Base.ListView.DropDown" />
+
+    <style name="Widget.AppCompat.Light.PopupMenu" parent="Widget.AppCompat.Light.Base.PopupMenu" />
+
+    <style name="Widget.AppCompat.Light.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Light.Base.Spinner" />
+
+    <style name="Widget.AppCompat.ListPopupWindow" parent="Widget.AppCompat.Base.ListPopupWindow" />
+
+    <style name="Widget.AppCompat.ListView.DropDown" parent="Widget.AppCompat.Base.ListView.DropDown" />
+
+    <style name="Widget.AppCompat.ListView.Menu" parent="Widget.AppCompat.Base.ListView.Menu" />
+
+    <style name="Widget.AppCompat.PopupMenu" parent="Widget.AppCompat.Base.PopupMenu" />
+
+    <style name="Widget.AppCompat.ProgressBar" parent="Widget.AppCompat.Base.ProgressBar" />
+
+    <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="Widget.AppCompat.Base.ProgressBar.Horizontal" />
+
+    <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Base.Spinner" />
+
+</resources>

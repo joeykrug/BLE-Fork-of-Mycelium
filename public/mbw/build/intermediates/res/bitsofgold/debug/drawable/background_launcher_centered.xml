@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+        android:gravity="center"
+        android:src="@drawable/cover_centered" /><!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/drawable/background_launcher_centered.xml -->

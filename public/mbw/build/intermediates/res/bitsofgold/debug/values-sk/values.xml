@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-sk/values.xml -->
+    <eat-comment />
+
+    <string name="abc_action_bar_home_description" msgid="4600421777120114993">"Prejsť na plochu"</string>
+    <string name="abc_action_bar_up_description" msgid="1594238315039666878">"Prejsť hore"</string>
+    <string name="abc_action_menu_overflow_description" msgid="3588849162933574182">"Ďalšie možnosti"</string>
+    <string name="abc_action_mode_done" msgid="4076576682505996667">"Hotovo"</string>
+    <string name="abc_activity_chooser_view_see_all" msgid="7468859129482906941">"Zobraziť všetko"</string>
+    <string name="abc_activitychooserview_choose_application" msgid="2031811694353399454">"Zvoľte aplikáciu"</string>
+    <string name="abc_searchview_description_clear" msgid="3691816814315814921">"Vymazať dopyt"</string>
+    <string name="abc_searchview_description_query" msgid="2550479030709304392">"Vyhľadávací dopyt"</string>
+    <string name="abc_searchview_description_search" msgid="8264924765203268293">"Hľadať"</string>
+    <string name="abc_searchview_description_submit" msgid="8928215447528550784">"Odoslať dopyt"</string>
+    <string name="abc_searchview_description_voice" msgid="893419373245838918">"Hlasové vyhľadávanie"</string>
+    <string name="abc_shareactionprovider_share_with" msgid="3421042268587513524">"Zdieľať pomocou"</string>
+    <string name="abc_shareactionprovider_share_with_application" msgid="7165123711973476752">"Zdieľať pomocou %s"</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="about">O aplikácii</string>
+    <string name="activate_action">Aktivovať</string>
+    <string name="activated">Aktivované</string>
+    <string name="active_key_limit_reached">Maximálny počet aktívnych adries je 10 a práve ste dosiahli tento limit.\n\nMôžte mať mnoho archivovaných adries, koľko potrebujete a vždy môžte aktivovať archivovanú adresu.\n\nPre pridanie ďalšej adresy prosím archivujte jednu z aktívnych adries.</string>
+    <string name="active_name">Aktívne</string>
+    <string name="active_name_empty">Aktívne ( Prázdne )</string>
+    <string name="add_dialog_title">Pridať Adresu</string>
+    <string name="add_key">Pridať Kľúč</string>
+    <string name="add_record_desc">Práve idete pridávať Bitcoinovú adresu alebo privátny kľúč do Vašej peňaženky.\n\n• Keď pridáte Bitcoinovú adresu, budete môcť monitorovať jej stav.\n\n• Keď pridáte privátny kľúč, môžte pomocou danej Bitcoinovej adresy platiť.</string>
+    <string name="add_record_title">Pridaj Adresu alebo Privátny Kľúč</string>
+    <string name="add_to_address_book_dialog_title">Pridať Adresu</string>
+    <string name="add_to_addressbook">Pridať do adresára</string>
+    <string name="address_already_exists">Táto adresa už existuje vo Vašej peňaženke.\n\nNemôžte ju pridať do Vášho adresára.</string>
+    <string name="address_already_present">Bitcoinová adresa sa už sleduje</string>
+    <string name="address_book">Adresár</string>
+    <string name="address_book_empty">Váš adresár je prázdny</string>
+    <string name="address_label_not_unique">V Adresári sa už nachádza iná Adresa s týmto menom</string>
+    <string name="addressbook_cannot_add_private_key">Nemôžte pridať Privátny Kľúč do adresára.\n\nMôžte importovať Privátne Kľúče v záložke Kľúče</string>
+    <string name="amount_label">Suma:</string>
+    <string name="amount_title">Suma</string>
+    <string name="amount_too_small">Posielaná suma je primalá</string>
+    <string name="amount_too_small_short">Suma transakcie je príliš malá</string>
+    <string name="an_icon">ikona</string>
+    <string name="app_name">Mycelium Bitcoin Wallet</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-sk/values.xml -->
+    <eat-comment />
+
+    <string name="app_picker_name">Aplikácie</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="archive_action">Archivovať</string>
+    <string name="archive_name">Archivované</string>
+    <string name="archive_name_empty">Archivované (Prázdne)</string>
+    <string name="archived">Archivovaná</string>
+    <string name="archiving_key_title">Archivujem Kľúč</string>
+    <string name="ask_set_label">Táto adresa nemá štítok\n\n%1$s\n\nJe odporúčané si nastaviť štítok pre všetky Vaše adresy.\n\nChcete nastaviť štítok?</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="auth_client_needs_enabling_title" msgid="3983201110833868073">"Aplikácia vyžaduje povolenie služieb Google Play."</string>
+    <string name="auth_client_needs_installation_title" msgid="7999585836145154206">"Aplikácia vyžaduje inštaláciu služieb Google Play."</string>
+    <string name="auth_client_needs_update_title" msgid="6488605506794595966">"Aplikácia vyžaduje aktualizáciu služieb Google Play."</string>
+    <string name="auth_client_play_services_err_notification_msg" msgid="3635065018897986478">"Chyba služieb Google Play"</string>
+    <string name="auth_client_requested_by_msg" msgid="6304135633531965756">"Vyžiadané aplikáciou <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string name="auth_client_using_bad_version_title" msgid="2534454398764507874">"Aplikácia sa pokúsila použiť nesprávnu verziu služieb Google Play."</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="authors_label">Vyvíjane</string>
+    <string name="background_image">obrázok pozadia</string>
+    <string name="backup_all_warning">Práve ste sa rozhodli Zálohovať Privátne Kľúče, ktoré kontrolujú všetky Vaše Bitcoiny Vašej Mycelium Bitcoin Peňaženky.\n\nKtokoľvek získa prístup k týmto Kľúčom môže nakladať s Vašimi Bitcoinmi.\n\nChcete pokračovať?</string>
+    <string name="backup_missing">Chýba Záloha</string>
+    <string name="backup_not_verified">Záloha nie je overená</string>
+    <string name="backup_private_key">Zálohovať</string>
+    <string name="backup_single_private_key_warning">Práve ste sa rozhodli Zálohovať Privátny Kľúč, ktorý kontroluje všetky Vaše bitcoiny Vašej Mycelium Bitcoin Peňaženky.\n\nKtokoľvek, kto získa prístup k tomuto Kľúču môže nakladať s Vašimi bitcoinmi.\n\nChcete pokračovať?</string>
+    <string name="balance">Zostatok</string>
+    <string name="bitcoin_address_deleted">Bitcoinová adresa bola vymazaná</string>
+    <string name="bitcoin_address_invalid">Neplatná Bitcoinová Adresa</string>
+    <string name="bitcoin_address_label">Bitcoinová Adresa:</string>
+    <string name="bitcoin_address_title">Bitcoinová Adresa</string>
+    <string name="bitcoin_address_valid">Bitcoinová Adresa je platná</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-sk/values.xml -->
+    <eat-comment />
+
+    <string name="bookmark_picker_name">Záložky</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="broadcasting_transaction">Vysielanie Transakcie</string>
+    <string name="btc_balance">Zostatok: %1$s</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-sk/values.xml -->
+    <eat-comment />
+
+    <string name="button_add_calendar">Pridať do kalendára</string>
+    <string name="button_add_contact">Pridať kontakt</string>
+    <string name="button_back">Späť</string>
+    <string name="button_book_search">Hľadať knihu</string>
+    <string name="button_cancel">Zrušiť</string>
+    <string name="button_custom_product_search">Prispôsobené vyhľadávanie</string>
+    <string name="button_dial">Vytočiť číslo</string>
+    <string name="button_done">Hotovo</string>
+    <string name="button_email">Poslať e-mail</string>
+    <string name="button_get_directions">Získať pokyny</string>
+    <string name="button_google_shopper">Shopper</string>
+    <string name="button_mms">Poslať MMS</string>
+    <string name="button_ok">OK</string>
+    <string name="button_open_browser">Otvoriť prehliadač</string>
+    <string name="button_product_search">Vyhľadať produkt</string>
+    <string name="button_search_book_contents">Vyhľadať obsah</string>
+    <string name="button_share_app">Aplikácia</string>
+    <string name="button_share_bookmark">Záložka</string>
+    <string name="button_share_by_email">Zdieľať cez e-mail</string>
+    <string name="button_share_by_sms">Zdieľať cez SMS</string>
+    <string name="button_share_clipboard">Schránka</string>
+    <string name="button_share_contact">Kontakt</string>
+    <string name="button_show_map">Zobraziť mapu</string>
+    <string name="button_sms">Poslať SMS</string>
+    <string name="button_web_search">Hľadať na webe</string>
+    <string name="button_wifi">Pripojiť sa sieti</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="cancel">Zrušiť</string>
+    <string name="cancelled">Zrušené</string>
+    <string name="check_update">Skontrolovať aktualizácie</string>
+    <string name="clipboard">Schránka</string>
+    <string name="clipboard_address_book_desc">Použi Bitcoinovú Adresu zo Schránky.</string>
+    <string name="clipboard_desc">Importovať Bitcoinovú adresu alebo privátny kľúč zo schránky.</string>
+    <string name="close">Zatvoriť</string>
+    <string name="cold_storage">Offline úložisko</string>
+    <string name="cold_storage_desc">Rozhodli ste sa utratiť z Privátneho Kľúča v offlinovom úložisku. Toto môže byť Privátny Kľúč z Papierovej Zálohy alebo Privátny Kľúč z papierka z Bitcoinového Automatu. Rôzne formáty sú podporované.\n\nRaz keď bola transakcia poslaná, každá stopa Privátneho Kľúča bude zmazaná z pamäti.</string>
+    <string name="cold_storage_title">Útratiť z Offlinového Úložiska</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="common_google_play_services_enable_button" msgid="4181637455539816337">"Povoliť služby Google Play"</string>
+    <string name="common_google_play_services_enable_text" msgid="7627896071867667758">"Táto aplikácia bude fungovať až po povolení služieb Google Play."</string>
+    <string name="common_google_play_services_enable_title" msgid="529078775174559253">"Povoliť služby Google Play"</string>
+    <string name="common_google_play_services_install_button" msgid="8515591849428043265">"Inštalovať služby Google Play"</string>
+    <string name="common_google_play_services_install_text_phone" msgid="8685301130651051380">"Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v telefóne nemáte."</string>
+    <string name="common_google_play_services_install_text_tablet" msgid="1589957570365247855">"Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v tablete nemáte."</string>
+    <string name="common_google_play_services_install_title" msgid="26645092511305524">"Inštalovať služby Google Play"</string>
+    <string name="common_google_play_services_invalid_account_text" msgid="4983316348021735578">"Zadaný účet v tomto zariadení neexistuje. Vyberte iný účet."</string>
+    <string name="common_google_play_services_invalid_account_title" msgid="1066672360770936753">"Neplatný účet"</string>
+    <string name="common_google_play_services_network_error_text" msgid="9038847255613537209">"Pripojenie k službám Google Play si vyžaduje dátové pripojenie."</string>
+    <string name="common_google_play_services_network_error_title" msgid="3827284619958211114">"Chyba siete"</string>
+    <string name="common_google_play_services_unknown_issue" msgid="4762332809710093730">"Neznámy problém so službami Google Play."</string>
+    <string name="common_google_play_services_unsupported_text" msgid="3542578567569488671">"Niektoré vaše aplikácie vyžadujú služby Google Play, ktoré vo vašom zariadení nie sú podporované. Ak potrebujete pomoc, kontaktujte výrobcu."</string>
+    <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Služby Google Play"</string>
+    <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Aktualizovať"</string>
+    <string name="common_google_play_services_update_text" msgid="448354684997260580">"Túto aplikáciu bude možné spustiť až po aktualizácii služieb Google Play."</string>
+    <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Aktualizovať služby Google Play"</string>
+    <string name="common_signin_button_text" msgid="9071884888741449141">"Prihlásiť sa"</string>
+    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Prihlásiť sa do účtu Google"</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="confirm_delete_pk_title">Ste si istý?</string>
+    <string name="confirm_delete_pk_with_balance">Toto je nevratná operácia!\n\nPrivátny Kľuč k Adrese:\n%1$s\n\nObsahuje %2$s\n\nNaozaj ho chcete Vymazať?</string>
+    <string name="confirm_delete_pk_with_balance_with_label">Toto je nezvratná operácia!\n\nŠtítok Privátneho Kľúča:\n%1$s\n\nAdresa Privátneho Kľúču:\n%2$s\n\nObsahuje %3$s\n\nChcete ho naozaj vymazať?</string>
+    <string name="confirm_delete_pk_without_balance">Toto je nezvratná operácia!\n\nAdresa Privátneho Kľúča\n%1$s\n\nChcete ho vymazať?</string>
+    <string name="confirm_delete_pk_without_balance_with_label">Toto je nezvratná operácia!\n\nŠtítok Privátneho Kľúča:\n%1$s\n\nAdresa Privátneho Kľúča:\n%2$s\n\nChcete ho vymazať?</string>
+    <string name="confirmations">%d Potvrdení</string>
+    <string name="confirmed">Potvrdené</string>
+    <string name="confirmed_in_block">V Bloku #%1$d</string>
+    <string name="contact_email_label">Spätná väzba</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-sk/values.xml -->
+    <eat-comment />
+
+    <string name="contents_contact">Informácie o kontakte</string>
+    <string name="contents_email">E-mailová adresa</string>
+    <string name="contents_location">Geografické súradnice</string>
+    <string name="contents_phone">Telefónne číslo</string>
+    <string name="contents_sms">SMS adresa</string>
+    <string name="contents_text">Obyčajný text</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="copied_to_clipboard">Skopírované do Schránky</string>
+    <string name="copy_address_to_clipboard">Skopírovať Adresu do Schránky</string>
+    <string name="copy_private_key_to_clipboard">Skopírovať Privátny Kľúč do Schránky</string>
+    <string name="copy_signature">Skopíruj Podpis do Schránky</string>
+    <string name="copy_to_clipboard">Skopírovať do Schránky</string>
+    <string name="created_new_random_key">Nová náhodna Bitcoinová adresa bola vytvorená</string>
+    <string name="date">Dátum</string>
+    <string name="decrypt_button">Dešifruj</string>
+    <string name="delete">Vymazať</string>
+    <string name="delete_address">Vymazať Adresu</string>
+    <string name="delete_address_confirmation">Ste si istý, že chcete vymazať túto adresu z Vášho adresára?</string>
+    <string name="delete_address_message">Naozaj Chcete vymazať túto Adresu?</string>
+    <string name="delete_address_title">Vymazať Bitcoinovú Adresu?</string>
+    <string name="delete_private_key">Vymazať Privátny Kľúč</string>
+    <string name="delete_private_key_message">Naozaj chcete vymazať tento Privátný Kľúč?</string>
+    <string name="delete_private_key_title">Chcete vymazať Privátný Kľúč?</string>
+    <string name="edit">Editovať</string>
+    <string name="edit_address_label_title">Editovať Štítok Adresy</string>
+    <string name="edit_label">Edituj Štítok</string>
+    <string name="encrypted_pdf_backup_creating">Vytváram PDF dokument…</string>
+    <string name="encrypted_pdf_backup_description">Práve ste sa rozhodli zálohovať svoje šifrované Privátne Kľúče do PDF dokumentu.\nPDF dokument môžte bezpečne zdieľať použiťím emailu alebo cez zdielacie aplikákcie, ktoré máte nainštalované, napr Dropbox. Môžte tak učiniť, lebo Vaše Kľúče sú zašifrované.</string>
+    <string name="encrypted_pdf_backup_document_ready">PDF dokument bol vytvorený</string>
+    <string name="encrypted_pdf_backup_email_text">Vaša Záloha Peňaženky Mycelium je priložená.\r\n\r\nNasledujte tieto jednoduché kroky pre zabezpečenie Vaších financií:\r\n1. Vytlačte si PDF dokument.\r\n2. Zapíšte si 15 znakové heslo z displeju Vášho Androidového zariadenia do modrých políčiek na papieri.\r\n3. Overte si či môžte importovať Privátne Kľúče do Vašej Mycelium Peňaženky.\r\n4. Skladujte výtlačok na bezpečnom mieste.</string>
+    <string name="encrypted_pdf_backup_email_title">Záloha Peňaženky Mycelium</string>
+    <string name="encrypted_pdf_backup_encrypting">Šifrujem Privátne Kľúče…</string>
+    <string name="encrypted_pdf_backup_password_description_1">Toto náhodne heslo s kontrolným súčtom je použité k šifrovaniu tejto zálohy.</string>
+    <string name="encrypted_pdf_backup_password_description_2">Toto je Vaša jediná príležitosť pre zapamätanie si hesla pre túto Zálohu.\nVaša ďalšia Záloha použije odlišné heslo.\nProsím Zapíšte si ho a udržujte ho v bezpečí!</string>
+    <string name="encrypted_pdf_backup_sharing">Zdieľajte PDF dokument…</string>
+    <string name="encrypted_pdf_backup_stretching">Pripravujem Šifrovací Kľúč…</string>
+    <string name="encrypted_pdf_backup_title">Zašifrovaná PDF Záloha</string>
+    <string name="enter_address_label_title">Zadajte Štítok Adresy</string>
+    <string name="enter_amount_title">Zadať Sumu</string>
+    <string name="enter_bitcoin_address">Vložte Bitcoinovú Adresu</string>
+    <string name="enter_local_currency">Zadajte Vašu lokálnu menu</string>
+    <string name="enter_message_hint">Prosím vložte správu, ktorú chcete podpísať sem</string>
+    <string name="enter_recipient_title">Vložte Príjemcovú Adresu</string>
+    <string name="exchange_source_not_available">Výmenný kurz nie je dostupný pre %1$s</string>
+    <string name="explore">Prehľadávať</string>
+    <string name="export">Exportovať</string>
+    <string name="export_private_key_warning">Upozornenie. Práve ste sa rozhodli exportovať Privátny Kľúč, ktorý kontroluje všetky Vaše Bitcoiny na tejto Adrese.\n\nKtokoľvek sa dostane k tomuto kľúču, môže potom nakladať s Bitcoinmi, ktoré patria tomuto kľúču.\n\nChcete pokračovať?</string>
+    <string name="export_single_private_key_warning">Práve ste sa rozhodli exportovat Privátny Kľúč, ktorý kontroluje všetky bitcoiny vybranej Adresy.\n\nKtokoľvek, kto sa dostane k tomuto Privátnému Kľúču môže nakladať s týmito bitcoinmi\n\nChcete pokračovať?</string>
+    <string name="export_to_clipboard_warning">Upozornenie: Exportovanie Privátneho Kľúča do Schránky ho vystavuje všetkým ostatným aplikáciam na Vašom Zariadení.\n\nPoznámka: Nie je bezpečné skladovať Váš Privátny Kľúč v Schránke, musíte ho prilepiť na bezpečné miesto.\n\nChcete pokračovať?</string>
+    <string name="foreign_addresses">Ostatné adresy</string>
+    <string name="found_clipboard_private_key_title">Nájdený Privátny Kľúč v Schránke</string>
+    <string name="found_clipboard_private_keys_message">Schránka obsahuje Privátny Kľúč.\r\nChcete ho z nej vymazať?</string>
+    <string name="get_from">Získať z</string>
+    <string name="get_private_key">Získaj Privátny Kľúč z:</string>
+    <string name="get_receiver_address">Získaj príjmateľovú adresu z:</string>
+    <string name="getting_location">Získavam Pozíciu…</string>
+    <string name="go_back">Naspäť</string>
+    <string name="going_to_mycelium_com_help">Ísť na www.mycelium.com</string>
+    <string name="hash">Hash</string>
+    <string name="help_menu">Pomoc</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-sk/values.xml -->
+    <eat-comment />
+
+    <string name="history_clear_one_history_text">Vymazať</string>
+    <string name="history_clear_text">Vymazať históriu</string>
+    <string name="history_email_title">História Barcode Scanneru</string>
+    <string name="history_empty">Prázdna</string>
+    <string name="history_empty_detail">Žiadne čiarové kódy neboli zaznamenané</string>
+    <string name="history_send">Poslať históriu</string>
+    <string name="history_title">História</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="homepage_label">Domovská stránka</string>
+    <string name="ignore_update">Ignoruj túto Aktualizáciu</string>
+    <string name="import_decrypt_bip38_description">Práve ste sa rozhodli dekryptovať Privátný Kľúč zabezpečený heslom štandartom BIP38.</string>
+    <string name="import_decrypt_bip38_enter_password">Vložte heslo štandartu BIP38.</string>
+    <string name="import_decrypt_bip38_invalid_password">Vložené heslo je nesprávne.</string>
+    <string name="import_decrypt_key_description">Práve ste sa rozhodli dekryptovať Privátný Kľúč zabezpečený heslom.</string>
+    <string name="import_decrypt_key_enter_password">Vložte 15 znakové heslo a kontrolný súčet.</string>
+    <string name="import_decrypt_key_invalid_checksum">Kontrolný súčet je neplatný. Prosím skontrolujte ho.</string>
+    <string name="import_decrypt_key_title">Dekrypcia Privátného Kľúča</string>
+    <string name="import_decrypt_stretching">Pripravujem Dešifrovací Kľúč…</string>
+    <string name="imported_bitcoin_address">Importovaná Bitcoinová adresa.</string>
+    <string name="imported_private_key">Importovaný privátny kľúč.</string>
+    <string name="inputs">Vstupy</string>
+    <string name="insufficient_funds">Nedostatok prostriedkov</string>
+    <string name="insufficient_funds_for_fee">Nedostatok prostriedkov na zaplatenie poplatku</string>
+    <string name="invalid_bitcoin_uri">Neplatné Bitcoinové URI</string>
+    <string name="invalid_password">Nesprávne heslo</string>
+    <string name="keep_address">Udrž Bitcoinovú adresu ako sledovaciu</string>
+    <string name="key_already_present">Privátny kľúč už bol importovaný</string>
+    <string name="key_management">Správa Kľúčov</string>
+    <string name="key_management_disabled_desc">Táto stránka umožnuje prístup k pokročilejším funkcionalitám správy kľúčov Bitcoinovej peňaženky pre expertov Bitcoinu.\n\nMôžete zapnúť Expert Mód v Nastaveniach.</string>
+    <string name="lock_label">Uzamknúť</string>
+    <string name="lt_accept_button">Prijať</string>
+    <string name="lt_base_price_label">Základná cena:</string>
+    <string name="lt_buy_button">Kúpiť</string>
+    <string name="lt_buy_sell_button">Predať / Kúpiť Bitcoin</string>
+    <string name="lt_cash_received_button">Hotovosť Prijatá</string>
+    <string name="lt_change_button">Zmeniť</string>
+    <string name="lt_change_price_button">Zmeniť Cenu</string>
+    <string name="lt_create_account_name_desc">Vložte Vaše obchodnícke meno:</string>
+    <string name="lt_create_account_title">Vytvorenie účtu obchodníka</string>
+    <string name="lt_create_button">Vytvoriť</string>
+    <string name="lt_current_price_column">Aktuálna cena</string>
+    <string name="lt_decline_button">Odmietnuť</string>
+    <string name="lt_description_label">Popis</string>
+    <string name="lt_edit_button">Upraviť</string>
+    <string name="lt_enter_amount_title">Zadajte čiastku</string>
+    <string name="lt_location_label">Poloha</string>
+    <string name="lt_new_price_column">Nová cena</string>
+    <string name="lt_next_button">Ďalej</string>
+    <string name="lt_reveiving_address_title">Príjimacia Adresa</string>
+    <string name="managing_archive_key">Práve spravujete jeden konkrétny Archivovaný Kľúč.</string>
+    <string name="manual_entry">Vložiť Ručne</string>
+    <string name="max">Max</string>
+    <string name="max_btc">K Útrate: %1$s</string>
+    <string name="max_fiat">K Útrate: %1$s %2$s</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-sk/values.xml -->
+    <eat-comment />
+
+    <string name="menu_encode_mecard">Použiť MECARD</string>
+    <string name="menu_encode_vcard">Použiť vCard</string>
+    <string name="menu_help">Nápoveda</string>
+    <string name="menu_history">História</string>
+    <string name="menu_settings">Nastavenia</string>
+    <string name="menu_share">Zdieľať</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="miner_fee_label">Poplatok za transakciu:</string>
+    <string name="miner_fee_title">Poplatok za transakciu</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-sk/values.xml -->
+    <eat-comment />
+
+    <string name="msg_bulk_mode_scanned">Hromadný režim: skenovanie a ukladanie čiarových kódov</string>
+    <string name="msg_camera_framework_bug">Ospravedlňujeme sa, fotoaparát narazil na problém. Možno bude potrebné reštartovať zariadenie.</string>
+    <string name="msg_default_format">Formát</string>
+    <string name="msg_default_meta">Metadáta</string>
+    <string name="msg_default_mms_subject">Ahoj</string>
+    <string name="msg_default_status">Umiestnite čiarový kód do vnútra obdĺžnika hľadáčiku pre skenovanie.</string>
+    <string name="msg_default_time">Čas</string>
+    <string name="msg_default_type">Typ</string>
+    <string name="msg_encode_contents_failed">Nie je možné zakódovať čiarový kód z poskytnutých údajov.</string>
+    <string name="msg_google_books">Google Knihy</string>
+    <string name="msg_google_product">Hľadať produkty Google</string>
+    <string name="msg_google_shopper_missing">Nie je nainštalované Google Shopper.</string>
+    <string name="msg_install_google_shopper">Google Shopper kombinuje v sebe skenovanie čiarových kódov s miestnymi cenami on-line, recenzie a oveľa viac bez otvorenia prehliadača. Chceli by ste ho vyskúšať?</string>
+    <string name="msg_intent_failed">Ospravedlňujeme sa, požadovaná aplikácia nemohla byť spustená. Obsah čiarového kódu je možno neplatný.</string>
+    <string name="msg_redirect">Presmerovať</string>
+    <string name="msg_sbc_book_not_searchable">Ospravedlňujeme sa, táto kniha nie je prehliadateľná.</string>
+    <string name="msg_sbc_failed">Ospravedlňujeme sa, vyhľadávanie narazilo na problém.</string>
+    <string name="msg_sbc_no_page_returned">Nenašla sa žiadna stránka</string>
+    <string name="msg_sbc_page">Stránka</string>
+    <string name="msg_sbc_results">Výsledky</string>
+    <string name="msg_sbc_searching_book">Vyhľadáva sa kniha\u2026</string>
+    <string name="msg_sbc_snippet_unavailable">Úryvok nie je k dispozícii</string>
+    <string name="msg_sbc_unknown_page">Neznáma stránka</string>
+    <string name="msg_share_explanation">Môžete zdieľať dáta zobrazením čiarového kódu na displeji vášho zariadenia a jeho zoskenovaním iným zariadením</string>
+    <string name="msg_share_subject_line">Tu je obsah naskenovaného čiarového kódu</string>
+    <string name="msg_share_text">Alebo zadajte nejaký text</string>
+    <string name="msg_sure">Ste si istí?</string>
+    <string name="msg_unmount_usb">Ospravedlňujeme sa, SD karta nie je prístupná.</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="my_addresses">Moje Adresy</string>
+    <string name="my_own_address_warning">Poznámka: Posielate si na jednu z Vaších vlastných Adries.</string>
+    <string name="mycelium_license">Mycelium Licencia</string>
+    <string name="name">Názov</string>
+    <string name="new_bitcoin_address_created">Nový náhodny privátny kľúč bol vygenerovaný s nasledujúcou Bitcoinovou adresou:</string>
+    <string name="new_version_exists">Nová Verzia je dostupná</string>
+    <string name="next">Ďalej</string>
+    <string name="no">Nie</string>
+    <string name="no_address_book_records">Táto stránka zobrazuje Váš adresár.\n\nVáš adresár je prázdny.</string>
+    <string name="no_network_connection">Nedostupnosť internetu</string>
+    <string name="no_private_key">Vaša peňaženka nemôže posielať prostriedky, kedže nemá žiadne Privátné Kľúče</string>
+    <string name="no_server_connection">Nedostupnosť Serverov</string>
+    <string name="no_transaction_records">Táto stránka ukazuje Vašu transakčnú históriu.\n\nMomentálne tu nie sú žiadne transakcie.</string>
+    <string name="ok">OK</string>
+    <string name="optional_amount">Suma</string>
+    <string name="out_of_memory_error">Chyba: Vaše zariadenie nemá dostatok pamäti uskutočniť túto úlohu</string>
+    <string name="outputs">Výstupy</string>
+    <string name="page_locked">Táto stránka je zamknutá</string>
+    <string name="paste">Prilepiť</string>
+    <string name="payment_request">Žiadosť o Platbu</string>
+    <string name="pdfwriter_license">Android PDF Writer Licencia</string>
+    <string name="pin_cleared">PIN kód vymazaný</string>
+    <string name="pin_codes_dont_match">Dva zadané PIN kódy sa nezhodujú</string>
+    <string name="pin_confirm_pin">Potvrďte PIN kód</string>
+    <string name="pin_enter_new_pin">Vložte nový PIN kód</string>
+    <string name="pin_enter_pin">Vložte PIN kód</string>
+    <string name="pin_invalid_pin">Nesprávny PIN kód</string>
+    <string name="pin_set">PIN kód nastavený</string>
+    <string name="please_wait">Prosím Čakajte …</string>
+    <string name="pref_advanced_settings">Pokročilé Nastavenia</string>
+    <string name="pref_aggregated_view">Agregovaný Prehľad</string>
+    <string name="pref_aggregated_view_summary">S agregovaným prehľadom operujete so všetkými kľúčmi a adresami paralelne. So segregovaným pohľadom operujete s jedným kľučom v danom momente.</string>
+    <string name="pref_bitcoin_denomination">Denominácia Bitcoinu</string>
+    <string name="pref_bitcoin_denomination_summary">Nastavte preferovanú denomináciu Bitcoinu. BTC, mBTC alebo μBTC</string>
+    <string name="pref_bitcoin_denomination_with_denomination">Denominácia (%1$s)</string>
+    <string name="pref_category_advanced">Rozšírené</string>
+    <string name="pref_category_pin">Nastavenia PIN</string>
+    <string name="pref_change_language">Zmeniť jazyk</string>
+    <string name="pref_clear_pin">Vymazať PIN kód</string>
+    <string name="pref_clear_pin_summary">Vymazať aktuálny PIN kód</string>
+    <string name="pref_continuous_focus">Kontinuálne Zaostrovanie</string>
+    <string name="pref_continuous_focus_summary">Kontinuálne zaostrovanie môže zlepšiť proces skenovania QR kódu</string>
+    <string name="pref_exchange_source">Burzový Zdroj</string>
+    <string name="pref_exchange_source_summary">Vyberte zdroj pre sťahovanie výmenného kurzu medzi Bitcoinom a fiatovými menami</string>
+    <string name="pref_exchange_source_with_value">Burzový Zdroj (%1$s)</string>
+    <string name="pref_expert_mode">Expert Mód</string>
+    <string name="pref_expert_mode_summary">Aktivovanie Expertného Módu Vám sprístupní ďalšie funkcionality vrátane pokročilej správy kľúčov a viacerých peňaženiek</string>
+    <string name="pref_local_currency">Lokálna Mena</string>
+    <string name="pref_local_currency_summary">Vyberte Lokálnu Fiat Menu</string>
+    <string name="pref_local_currency_with_currency">Lokálna Mena (%1$s)</string>
+    <string name="pref_set_pin">Nastav PIN kód</string>
+    <string name="pref_set_pin_summary">Nastavenie PIN kódu obmedzuje posielanie bitcoinov, exportovanie Privátných Kľúčov, a menenie PIN kódu</string>
+    <string name="pref_socks_proxy">Socks Proxy</string>
+    <string name="pref_socks_proxy_enabled">Socks Proxy (Používa sa)</string>
+    <string name="pref_socks_proxy_not_enabled">Socks Proxy (Nepoužíva sa)</string>
+    <string name="pref_socks_proxy_summary">Pre komunikáciu cez reštriktívne firewally alebo Tor s použitím Orbot, vložte hostiteľské meno a port, napr. \'localhost:9050\'</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-sk/values.xml -->
+    <eat-comment />
+
+    <string name="preferences_actions_title">Pri zistení čiarového kódu</string>
+    <string name="preferences_auto_focus_title">Použiť automatické zaostrenie</string>
+    <string name="preferences_bulk_mode_summary">Skenovať a ukladať veľa čiarových kódov bez prerušenia</string>
+    <string name="preferences_bulk_mode_title">Hromadný režim skenovania</string>
+    <string name="preferences_copy_to_clipboard_title">Kopírovať do schránky</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">Nahradiť: %s = obsah, %f = formát, %t = typ</string>
+    <string name="preferences_custom_product_search_title">Vlastné vyhľadávanie URL</string>
+    <string name="preferences_decode_1D_title">1D čiarové kódy</string>
+    <string name="preferences_decode_Data_Matrix_title">Dáta Matrix</string>
+    <string name="preferences_decode_QR_title">QR kódy</string>
+    <string name="preferences_device_bug_workarounds_title">Možné chyby zariadenia</string>
+    <string name="preferences_disable_continuous_focus_summary">Použiť iba štandardné zaostrenie</string>
+    <string name="preferences_disable_continuous_focus_title">Nezaostrovať nepretržite</string>
+    <string name="preferences_disable_exposure_title">Bez expozície</string>
+    <string name="preferences_front_light_auto">Automatický</string>
+    <string name="preferences_front_light_off">Neaktívne</string>
+    <string name="preferences_front_light_on">Aktívne</string>
+    <string name="preferences_front_light_summary">Použiť prisvetlenie</string>
+    <string name="preferences_front_light_title">Použite predné svetlo</string>
+    <string name="preferences_general_title">Všeobecné nastavenia</string>
+    <string name="preferences_invert_scan_summary">Skenovať biele čiarové kódy na čiernom pozadí. Nie je k dispozícii na všetkých zariadeniach.</string>
+    <string name="preferences_invert_scan_title">Invertované skenovanie</string>
+    <string name="preferences_name">Nastavenia</string>
+    <string name="preferences_play_beep_title">Zvuková signalizácia</string>
+    <string name="preferences_remember_duplicates_summary">Uložiť viacnásobné skenovanie do jednej histórie čiarového kódu</string>
+    <string name="preferences_remember_duplicates_title">Zapamätať si duplikáty</string>
+    <string name="preferences_result_title">Nastavenia výsledku</string>
+    <string name="preferences_scanning_title">Dekódovať čiarové kódy</string>
+    <string name="preferences_search_country">Vyhľadávať v krajine</string>
+    <string name="preferences_supplemental_summary">Skúsiť získať viac informácií o obsahu čiarového kódu</string>
+    <string name="preferences_supplemental_title">Získať viac informácií</string>
+    <string name="preferences_try_bsplus">Vyskúšajte Barcode Scanner+</string>
+    <string name="preferences_try_bsplus_summary">Rozšírený o nové funkcie a prostredie</string>
+    <string name="preferences_vibrate_title">Vibrovať</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="private_key">Privátny Kľúč</string>
+    <string name="private_key_deleted">Privátny kľúč bol vymazaný.</string>
+    <string name="qr_code">QR kód</string>
+    <string name="question_archive">Archivované Kľúče sa nepridávajú k Vášmu zostatku, ale vždy ich môžte vybrať a monitorovať ich ako jednotlivé kľúče v pohľade na zostatky.\r\n\r\nArchivované kľúče môžu byť aktivované znova.\r\n\r\nChcete Archivovať tento kľúč?</string>
+    <string name="random">Náhoda</string>
+    <string name="random_desc">Vytvoriť nový náhodný privátný kľúč.</string>
+    <string name="read_only_warning">Upozornenie: Vaša peňaženka nemá Privátny Kľúč pre túto Adresu.\nNedokážete používať mince naň prijaté dokiaľ nemáte Privátny Kľuč niekde.</string>
+    <string name="receive">Prijať</string>
+    <string name="receiver_label">Príjemca:</string>
+    <string name="receiving">Príjimam %1$s</string>
+    <string name="recipient_title">Príjemcova Adresa</string>
+    <string name="redirecting_to_blockchain_info">Presmerúvam Vás na blockchain.info</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-sk/values.xml -->
+    <eat-comment />
+
+    <string name="result_address_book">Nájdená informácia o kontakte</string>
+    <string name="result_calendar">Nájdená udalosť kalendára</string>
+    <string name="result_email_address">Nájdená e-mailová adresa</string>
+    <string name="result_geo">Nájdená zemepisná súradnica</string>
+    <string name="result_isbn">Nájdená kniha</string>
+    <string name="result_product">Nájdený tovar</string>
+    <string name="result_sms">Nájdená SMS adresa</string>
+    <string name="result_tel">Nájdené telefónne číslo</string>
+    <string name="result_text">Nájdený obyčajný text</string>
+    <string name="result_uri">Nájdená URL</string>
+    <string name="result_wifi">Nájdená konfigurácia WLAN</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="retry_password_question">Heslo, ktoré ste vložili je neplatné.\nChcete skúsiť Znova?</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-sk/values.xml -->
+    <eat-comment />
+
+    <string name="sbc_name">Vyhľadať v Google Knihy</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="scan">Skenovať</string>
+    <string name="scan_address_book_desc">Skenovať Bitcoinovú Adresu.</string>
+    <string name="scan_desc">Skenovať Bitcoinovú adresu alebo privátny kľúč.</string>
+    <string name="scan_qr_code">Skenuj QR kód</string>
+    <string name="select_spending_address">Vyber adresu na platenie</string>
+    <string name="send">Poslať</string>
+    <string name="send_bitcoins">Poslať Bitcoiny</string>
+    <string name="sending">Posielam %1$s</string>
+    <string name="set_label">Nastav Štítok</string>
+    <string name="settings">Nastavenia</string>
+    <string name="share_bitcoin_address">Zdielať Bitcoinovú Adresu</string>
+    <string name="share_payment_request">Zdielať platobnú požiadavku</string>
+    <string name="share_pdf">Zdieľaj PDF</string>
+    <string name="share_signature">Zdieľať Text a Podpis</string>
+    <string name="share_with">Zdieľaj s…</string>
+    <string name="show_details">Zobraz Podrobnosti</string>
+    <string name="show_qr_code_menu">Ukáž QR kód</string>
+    <string name="show_to_sender">Ukážte Odosielateľovi</string>
+    <string name="shuffle">Zamiešaj</string>
+    <string name="sig_copied">Podpis bol skopírovaný do Schránky</string>
+    <string name="sign_message">Podpísať Správu</string>
+    <string name="signed_message_share">Zdieľať podpísanú Bitcoinovú správu</string>
+    <string name="signed_message_subject">Bitcoinová podpísaná správa</string>
+    <string name="signing_inprogress">Podpisujem Správu…</string>
+    <string name="slow_network">Vaše internetové pripojenie je zrejme pomalé.\nS trochou trpezlivosti sa to podarí…</string>
+    <string name="source_repo_label">Zdrojový Repozitár</string>
+    <string name="synchronizing">Synchronizuje sa</string>
+    <string name="tab_addresses">Adresár</string>
+    <string name="tab_balance">Zostatok</string>
+    <string name="tab_keys">Kľúče</string>
+    <string name="tab_transactions">Transakcie</string>
+    <string name="tap_qr_code_desc">Poťukaním na QR kód môžte zlepšiť skenovanie</string>
+    <string name="tap_to_refresh">Stlač pre obnovenie</string>
+    <string name="transaction_details">Podrobnosti Transakcie</string>
+    <string name="transaction_history">Transakčná História</string>
+    <string name="transaction_not_sent">Neúspešne sa odoslala transakcia</string>
+    <string name="transaction_sent">Transakcia bola odoslaná</string>
+    <string name="unlock_label">Odomknúť</string>
+    <string name="unrecognized_format">Neznámy formát</string>
+    <string name="unrecognized_format_version">Neznáma verzia privátneho kľúča</string>
+    <string name="unrecognized_private_key_format">Neznámy formát privátneho kľúča</string>
+    <string name="update_check">Skontrolovať Aktualizácie</string>
+    <string name="upgraded_address_to_key">K Bitcoinovej adrese bol pridaný privátny kľúč</string>
+    <string name="use">Použi</string>
+    <string name="using_address_from_clipboard">Použi Adresu zo Schránky</string>
+    <string name="verify_backup_clipboard_desc">Overte si Zálohu Privátneho Kľúča získaním Privátneho Kľúču zo Schránky.</string>
+    <string name="verify_backup_desc">Správna Záloha Privátneho Kľúča je základným kameňom, keď spravujete svoje Bitcoinové financie.\n\nOverovaním si Vašej Zálohy sa uistíte, že Vaše Zálohy fungujú a tým pádom nestratíte Bitcoinové financie, keď sa Váše Androidové Zariadenie stratí alebo pokazí.</string>
+    <string name="verify_backup_dialog_title">Skontroluj Zálohu Privátneho Kľúča</string>
+    <string name="verify_backup_ignored">Záloha pre tento Privátny Kľúč bude ignorovaná.</string>
+    <string name="verify_backup_message_expert">Zdá sa, že ste si nezálohovali Vaše Privátne Kľúe.\n\nProsím vyberte si možnosť Zálohy pre zálohovanie Vášich Privátnych Kľúčov.\n\nPotom zvoľte možnosť Overiť Zálohu a overíte si Vašu Zálohu.</string>
+    <string name="verify_backup_message_non_expert">Zdá sa, že ste si nezálohovali Váš Privátny Kľúč.\n\nProsím vyberte si možnosť Zálohy pre zálohovanie Vášho Privátneho Kľúča.\n\nPotom zvoľte možnosť Overiť Zálohu a overíte si Vašu Zálohu.</string>
+    <string name="verify_backup_message_text_1">Správna Záloha Privátneho Kľúča je základnym kameňom pri spravovani Vašich Bitcoinových financií.\nMáte jeden alebo viac Bitcoinových Privátnych Kľúčov pre ktoré neboli zálohy nikdy overené.\n\nProsím vyberte si spôsob Zálohovania pre zálohu Vašich kľúčov.</string>
+    <string name="verify_backup_message_text_2">Následne si vyberte možnosť Overiť Zálohu a overte si Vašu zálohu.</string>
+    <string name="verify_backup_no_such_record">Privátny Klúč nepatrí k žiadnej Vašej Bitcoinovej Adrese.</string>
+    <string name="verify_backup_num_keys">Máte %1$s kľúčov, ktoré neboli nikdy overené.</string>
+    <string name="verify_backup_ok">Zálohy Privátneho Kľúču boli úspešne overené pre nasledujúce adresy:\n\n%1$s</string>
+    <string name="verify_backup_one_key">Máte 1 Kľúč, ktorý nebol nikdy overený.</string>
+    <string name="verify_backup_scan_desc">Overte si Zálohu Privátneho Kľúča naskenovaním QR kódu Privátneho Kľúča.\nRôzne formáty sú akceptované, vrátane šifrovanej papierovej Mycelium Zálohy.</string>
+    <string name="verify_backup_title">Zálohovať a Skontrolovať</string>
+    <string name="verify_private_key_backup">Skontrolovať Zálohu</string>
+    <string name="version_check_failed">Nemôžem získat informácie o Verzii</string>
+    <string name="version_label">Verzia</string>
+    <string name="version_uptodate">Vaša Peňaženka je aktuálna s verziou %s</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-sk/values.xml -->
+    <eat-comment />
+
+    <string name="wifi_changing_network">Požiadavka na pripojenie k sieti\u2026</string>
+    <string name="wifi_ssid_label">Názov sieťového pripojenia</string>
+    <string name="wifi_type_label">Typ</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sk/strings.xml -->
+    <eat-comment />
+
+    <string name="yes">Áno</string>
+    <string name="your_balance">Váš zostatok:</string>
+    <string name="your_bitcoin_address">Vaša Bitcoinová Adresa:</string>
+    <string name="your_name_placeholder">Vaše Meno</string>
+    <string name="zxing_license">ZXing Licencia</string>
+
+</resources>

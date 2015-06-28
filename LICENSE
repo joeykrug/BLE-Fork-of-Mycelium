@@ -1,0 +1,7 @@
+Depending on the component, a different license is applied:
+
+bitlib         Apache 2.0
+mbw            MS-RSL
+mbwapi         MS-RSL
+zxing-android  Apache 2.0
+zxing-core     Apache 2.0

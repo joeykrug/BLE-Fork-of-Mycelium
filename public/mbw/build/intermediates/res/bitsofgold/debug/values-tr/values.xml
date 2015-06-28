@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-tr/values.xml -->
+    <eat-comment />
+
+    <string name="abc_action_bar_home_description" msgid="4600421777120114993">"Ana ekrana git"</string>
+    <string name="abc_action_bar_up_description" msgid="1594238315039666878">"Yukarı git"</string>
+    <string name="abc_action_menu_overflow_description" msgid="3588849162933574182">"Diğer seçenekler"</string>
+    <string name="abc_action_mode_done" msgid="4076576682505996667">"Tamamlandı"</string>
+    <string name="abc_activity_chooser_view_see_all" msgid="7468859129482906941">"Tümünü göster"</string>
+    <string name="abc_activitychooserview_choose_application" msgid="2031811694353399454">"Bir uygulama seçin"</string>
+    <string name="abc_searchview_description_clear" msgid="3691816814315814921">"Sorguyu temizle"</string>
+    <string name="abc_searchview_description_query" msgid="2550479030709304392">"Arama sorgusu"</string>
+    <string name="abc_searchview_description_search" msgid="8264924765203268293">"Ara"</string>
+    <string name="abc_searchview_description_submit" msgid="8928215447528550784">"Sorguyu gönder"</string>
+    <string name="abc_searchview_description_voice" msgid="893419373245838918">"Sesli arama"</string>
+    <string name="abc_shareactionprovider_share_with" msgid="3421042268587513524">"Şununla paylaş"</string>
+    <string name="abc_shareactionprovider_share_with_application" msgid="7165123711973476752">"%s ile paylaş"</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-tr/values.xml -->
+    <eat-comment />
+
+    <string name="app_picker_name">Uygulamalar</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-tr/strings.xml -->
+    <eat-comment />
+
+    <string name="auth_client_needs_enabling_title" msgid="3983201110833868073">"Bir uygulama, Google Play Hizmetleri\'nin etkin olmasını gerektiriyor."</string>
+    <string name="auth_client_needs_installation_title" msgid="7999585836145154206">"Bir uygulama, Google Play Hizmetleri\'nin yüklenmesini gerektiriyor."</string>
+    <string name="auth_client_needs_update_title" msgid="6488605506794595966">"Bir uygulama, Google Play Hizmetleri için bir güncelleme gerektiriyor."</string>
+    <string name="auth_client_play_services_err_notification_msg" msgid="3635065018897986478">"Google Play hizmetleri hatası"</string>
+    <string name="auth_client_requested_by_msg" msgid="6304135633531965756">"İstekte bulunan: <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string name="auth_client_using_bad_version_title" msgid="2534454398764507874">"Bir uygulama, Google Play Hizmetleri\'nin bozuk bir sürümünü kullanmayı denedi."</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-tr/values.xml -->
+    <eat-comment />
+
+    <string name="bookmark_picker_name">Yer imleri</string>
+    <string name="button_add_calendar">Takvime ekle</string>
+    <string name="button_add_contact">Kişi ekle</string>
+    <string name="button_back">Geri</string>
+    <string name="button_book_search">Kitap Arama</string>
+    <string name="button_cancel">İptal</string>
+    <string name="button_custom_product_search">Özel arama</string>
+    <string name="button_dial">Numaraya çağrı</string>
+    <string name="button_done">Tamam</string>
+    <string name="button_email">Email gönder</string>
+    <string name="button_get_directions">Yön bilgisi al</string>
+    <string name="button_google_shopper">Shopper</string>
+    <string name="button_mms">MMS gönder</string>
+    <string name="button_ok">Tamam</string>
+    <string name="button_open_browser">Tarayıcıyı aç</string>
+    <string name="button_product_search">Ürün arama</string>
+    <string name="button_search_book_contents">İçerik arama</string>
+    <string name="button_share_app">Uygulama paylaş</string>
+    <string name="button_share_bookmark">Yer imi paylaş</string>
+    <string name="button_share_by_email">Email ile paylaş</string>
+    <string name="button_share_by_sms">SMS ile paylaş</string>
+    <string name="button_share_clipboard">Pano</string>
+    <string name="button_share_contact">Kişi</string>
+    <string name="button_show_map">Haritayı göster</string>
+    <string name="button_sms">SMS gönder</string>
+    <string name="button_web_search">Webde ara</string>
+    <string name="button_wifi">Ağa bağlan</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-tr/strings.xml -->
+    <eat-comment />
+
+    <string name="common_google_play_services_enable_button" msgid="4181637455539816337">"Google Play hizmetlerini etkinleştir"</string>
+    <string name="common_google_play_services_enable_text" msgid="7627896071867667758">"Bu uygulama, Google Play Hizmetleri etkinleştirilmeden çalışmaz"</string>
+    <string name="common_google_play_services_enable_title" msgid="529078775174559253">"Google Play hizmetlerini etkinleştir"</string>
+    <string name="common_google_play_services_install_button" msgid="8515591849428043265">"Google Play hizmetlerini edin"</string>
+    <string name="common_google_play_services_install_text_phone" msgid="8685301130651051380">"Google Play Hizmetleri telefonunuzda yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz."</string>
+    <string name="common_google_play_services_install_text_tablet" msgid="1589957570365247855">"Google Play Hizmetleri tabletinizde yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz."</string>
+    <string name="common_google_play_services_install_title" msgid="26645092511305524">"Google Play hizmetlerini edinin"</string>
+    <string name="common_google_play_services_invalid_account_text" msgid="4983316348021735578">"Belirtilen hesap bu cihazda mevcut değil. Lütfen farklı bir hesap seçin."</string>
+    <string name="common_google_play_services_invalid_account_title" msgid="1066672360770936753">"Geçersiz Hesap"</string>
+    <string name="common_google_play_services_network_error_text" msgid="9038847255613537209">"Google Play hizmetlerine bağlanmak için bir veri bağlantısı gerekiyor."</string>
+    <string name="common_google_play_services_network_error_title" msgid="3827284619958211114">"Ağ Hatası"</string>
+    <string name="common_google_play_services_unknown_issue" msgid="4762332809710093730">"Google Play hizmetleriyle ilgili bilinmeyen sorun."</string>
+    <string name="common_google_play_services_unsupported_text" msgid="3542578567569488671">"Cihazınız, uygulamalarınızdan bazıları için gerekli olan Google Play hizmetlerini desteklemiyor. Lütfen yardım için üreticiyle iletişim kurun."</string>
+    <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play hizmetleri"</string>
+    <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Güncelle"</string>
+    <string name="common_google_play_services_update_text" msgid="448354684997260580">"Bu uygulama Google Play Hizmetleri güncellenmeden çalışmaz."</string>
+    <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Google Play hizmetlerini güncelle"</string>
+    <string name="common_signin_button_text" msgid="9071884888741449141">"Oturum aç"</string>
+    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Google\'da oturum aç"</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-tr/values.xml -->
+    <eat-comment />
+
+    <string name="contents_contact">Kişi bilgisi</string>
+    <string name="contents_email">Email adresi</string>
+    <string name="contents_location">Coğrafi koordinatlar</string>
+    <string name="contents_phone">Telefon numarası</string>
+    <string name="contents_sms">SMS adresi</string>
+    <string name="contents_text">Düz metin</string>
+    <string name="history_clear_one_history_text">Temizle</string>
+    <string name="history_clear_text">Geçmişi temizle</string>
+    <string name="history_email_title">Barkod Tarayıcı geçmişi</string>
+    <string name="history_empty">Boş</string>
+    <string name="history_empty_detail">Yok barkod taramaları kaydedildi</string>
+    <string name="history_send">Geçmişi gönder</string>
+    <string name="history_title">Geçmiş</string>
+    <string name="menu_encode_mecard">MECARD kullanın</string>
+    <string name="menu_encode_vcard">VCard kullanın</string>
+    <string name="menu_help">Yardım</string>
+    <string name="menu_history">Geçmiş</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="menu_share">Paylaş</string>
+    <string name="msg_bulk_mode_scanned">Toplu modu: taranan ve kaydedilen barkodlar</string>
+    <string name="msg_camera_framework_bug">Üzgünüz, Android kamera bir sorunla karşılaştı. Cihazı yeniden başlatmanız gerekebilir.</string>
+    <string name="msg_default_format">Biçim</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Merhaba</string>
+    <string name="msg_default_status">Barkodu taramak için vizördeki dikdörtgenin içerisine yerleştirin.</string>
+    <string name="msg_default_time">Süre</string>
+    <string name="msg_default_type">Tür</string>
+    <string name="msg_encode_contents_failed">Sağlanan verilerden bir barkod kodlanamadı.</string>
+    <string name="msg_google_books">Google Kitap Arama</string>
+    <string name="msg_google_product">Google Ürün Arama</string>
+    <string name="msg_google_shopper_missing">Google Shopper yüklü değil</string>
+    <string name="msg_install_google_shopper">Google Shopper, tarayıcıyı açmanıza gerek kalmadan barkod taraması, çevrimiçi ve yerel fiyatlar ile gözden geçirme ve diğer özellikten yararlanmanızı sağlar. Denemek ister misiniz?</string>
+    <string name="msg_intent_failed">Üzgünüz, istenen uygulama başlatılamadı. Barkod içeriği geçersiz olabilir.</string>
+    <string name="msg_redirect">Yönlendirme</string>
+    <string name="msg_sbc_book_not_searchable">Üzgünüz, bu kitapla ilgili arama yapılamıyor.</string>
+    <string name="msg_sbc_failed">Üzgünüz, arama esnasında bir sorun oluştu.</string>
+    <string name="msg_sbc_no_page_returned">Dönen sayfa yok</string>
+    <string name="msg_sbc_page">Sayfa</string>
+    <string name="msg_sbc_results">Sonuçlar</string>
+    <string name="msg_sbc_searching_book">Kitap aranıyor\u2026</string>
+    <string name="msg_sbc_snippet_unavailable">Parçacık yok</string>
+    <string name="msg_sbc_unknown_page">Bilinmeyen sayfa</string>
+    <string name="msg_share_explanation">Ekranınızda görüntülediğiniz barkodu başka bir telefonla tarayarak veri paylaşabilirsiniz.</string>
+    <string name="msg_share_subject_line">Taranan barkodun içeriği</string>
+    <string name="msg_share_text">Veya yazın bazı metin</string>
+    <string name="msg_sure">Emin misin?</string>
+    <string name="msg_unmount_usb">Lütfen USB depolamayı devre dışı bırakın.</string>
+    <string name="preferences_actions_title">Bir barkod bulunduğu zaman\u2026</string>
+    <string name="preferences_auto_focus_title">Otomatik odaklama kullanın</string>
+    <string name="preferences_bulk_mode_summary">Birden fazla barkodu toplu olarak taramak ve kaydetmek için</string>
+    <string name="preferences_bulk_mode_title">Toplu tarama modu</string>
+    <string name="preferences_copy_to_clipboard_title">Panoya kopyala</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">Yerine Koyma: %s = içeriği, %f = biçim, %t = tip</string>
+    <string name="preferences_custom_product_search_title">Özel arama adresi</string>
+    <string name="preferences_decode_1D_title">1D barkodları</string>
+    <string name="preferences_decode_Data_Matrix_title">Data Matrix</string>
+    <string name="preferences_decode_QR_title">QR barkodları</string>
+    <string name="preferences_device_bug_workarounds_title">Cihaz Hata Geçici Çözümler</string>
+    <string name="preferences_disable_continuous_focus_summary">Sadece standart odaklama modunu kullanın</string>
+    <string name="preferences_disable_continuous_focus_title">Hayır sürekli odak</string>
+    <string name="preferences_disable_exposure_title">Maruziyet</string>
+    <string name="preferences_front_light_auto">Otomatik</string>
+    <string name="preferences_front_light_off">Atıl</string>
+    <string name="preferences_front_light_on">Aktif</string>
+    <string name="preferences_front_light_summary">Bazı telefonlarda düşük ışıkta taramayı iyileştirir, ancak parlamaya neden olabilir. Tüm telefonlarda sonuç vermez.</string>
+    <string name="preferences_front_light_title">Ön ışığı kullan</string>
+    <string name="preferences_general_title">Genel ayarlar</string>
+    <string name="preferences_invert_scan_summary">Siyah zemin üzerine beyaz barkod tarama. Bazı cihazlar mevcut değildir.</string>
+    <string name="preferences_invert_scan_title">Tarama haricindekileri</string>
+    <string name="preferences_name">Ayarlar</string>
+    <string name="preferences_play_beep_title">Bip</string>
+    <string name="preferences_remember_duplicates_summary">Aynı barkoda ait farklı taramaları kayıtlarda depola</string>
+    <string name="preferences_remember_duplicates_title">Aynı barkodları hatırla</string>
+    <string name="preferences_result_title">Sonuç ayarları</string>
+    <string name="preferences_scanning_title">Barkodlar taraması \u2026</string>
+    <string name="preferences_search_country">Arama Ülke</string>
+    <string name="preferences_supplemental_summary">Barkod içeriği hakkında daha fazla bilgi almayı dene</string>
+    <string name="preferences_supplemental_title">Daha fazla bilgi </string>
+    <string name="preferences_try_bsplus">Barkod Tarayıcısı+ deneyin</string>
+    <string name="preferences_try_bsplus_summary">Yeni özellikler ve arayüz ile gelişmiş</string>
+    <string name="preferences_vibrate_title">Titreşim </string>
+    <string name="result_address_book">Bulunan kişi bilgisi</string>
+    <string name="result_calendar">Bulunan takvim etkinliği</string>
+    <string name="result_email_address">Bulunan Email adresi</string>
+    <string name="result_geo">Bulunan coğrafi koordinatlar</string>
+    <string name="result_isbn">Bulunan kitap</string>
+    <string name="result_product">Bulunan ürün</string>
+    <string name="result_sms">Bulunan SMS adresi</string>
+    <string name="result_tel">Bulunan telefon numarası</string>
+    <string name="result_text">Bulunan düz metin</string>
+    <string name="result_uri">Bulunan URL</string>
+    <string name="result_wifi">Bulunan Wi-Fi konfigürasyonu</string>
+    <string name="sbc_name">Google Kitap Arama</string>
+    <string name="wifi_changing_network">Ağa bir bağlantı isteğinde\u2026</string>
+    <string name="wifi_ssid_label">Ağ adı</string>
+    <string name="wifi_type_label">Tip</string>
+
+</resources>

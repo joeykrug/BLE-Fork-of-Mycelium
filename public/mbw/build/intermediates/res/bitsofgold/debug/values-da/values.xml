@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="abc_action_bar_home_description" msgid="4600421777120114993">"Naviger hjem"</string>
+    <string name="abc_action_bar_up_description" msgid="1594238315039666878">"Naviger op"</string>
+    <string name="abc_action_menu_overflow_description" msgid="3588849162933574182">"Flere muligheder"</string>
+    <string name="abc_action_mode_done" msgid="4076576682505996667">"Luk"</string>
+    <string name="abc_activity_chooser_view_see_all" msgid="7468859129482906941">"Se alle"</string>
+    <string name="abc_activitychooserview_choose_application" msgid="2031811694353399454">"Vælg en app"</string>
+    <string name="abc_searchview_description_clear" msgid="3691816814315814921">"Ryd forespørgslen"</string>
+    <string name="abc_searchview_description_query" msgid="2550479030709304392">"Søgeforespørgsel"</string>
+    <string name="abc_searchview_description_search" msgid="8264924765203268293">"Søg"</string>
+    <string name="abc_searchview_description_submit" msgid="8928215447528550784">"Indsend forespørgslen"</string>
+    <string name="abc_searchview_description_voice" msgid="893419373245838918">"Stemmesøgning"</string>
+    <string name="abc_shareactionprovider_share_with" msgid="3421042268587513524">"Del med"</string>
+    <string name="abc_shareactionprovider_share_with_application" msgid="7165123711973476752">"Del med %s"</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="about">Om</string>
+    <string name="activate_action">Aktiver</string>
+    <string name="activated">Aktiveret</string>
+    <string name="active_key_limit_reached">Det maksimale antal aktive adresser er 10 og du har nået grænsen.\n\nDu kan have så mange arkiverede adresser som du ønsker, og du kan altid aktivere en arkiveret adresse igen.\n\nFor at tilføje en anden adresse skal du arkivere en af dine eksisterende adresser.</string>
+    <string name="active_name">Aktiv</string>
+    <string name="active_name_empty">Aktiv (Tom)</string>
+    <string name="add_dialog_title">Tilføj Adresse</string>
+    <string name="add_key">Tilføj Nøgle</string>
+    <string name="add_record_desc">Du er ved at tilføje en Bitcoin adresse eller privat nøgle til din wallet.\n\n• Hvis du tilføjer en Bitcoin adresse kan du observere dens saldo, men ikke sende fra den\n\n• Hvis du tilføjer en privat nøgle får du en Bitcoin adresse du kan sende fra.</string>
+    <string name="add_record_title">Tilføj Adresse Eller Privat Nøgle</string>
+    <string name="add_to_address_book_dialog_title">Tilføj Adresse</string>
+    <string name="add_to_addressbook">Tilføj til adresse bog</string>
+    <string name="address_already_exists">Denne adresse er allerede en del af din wallet.\n\nDu kan ikke føje den til din adressebog.</string>
+    <string name="address_already_present">Bitcoin adressen var allerede monitoreret</string>
+    <string name="address_book">Adressebog</string>
+    <string name="address_book_empty">Din adressebog er tom</string>
+    <string name="address_label_not_unique">Adressebogen har en anden adresse med navnet</string>
+    <string name="addressbook_cannot_add_private_key">Du kan ikke tilføje en privat nøgle til adressebogen.\n\nDu kan importere private nøgler i fanen nøgler</string>
+    <string name="aggregated">Vælg din lokale valuta</string>
+    <string name="amount_label">Beløb:</string>
+    <string name="amount_title">Beløb</string>
+    <string name="amount_too_small">Beløbet som du prøver at sende er for lille</string>
+    <string name="amount_too_small_short">Beløb for lille</string>
+    <string name="an_icon">et ikon</string>
+    <string name="app_name">Mycelium Bitcoin Wallet</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="app_picker_name">Applikationer</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="archive_action">Arkiv</string>
+    <string name="archive_name">Arkiverede</string>
+    <string name="archive_name_empty">Arkiverede (Tom)</string>
+    <string name="archived">Arkiveret</string>
+    <string name="archiving_key_title">Arkiveret Nøgle</string>
+    <string name="ask_set_label">Denne adresse har ikke en etikette\n\n%1$s\n\nDet anbefales at angive en etiket for alle din adresser.\n\nVil du indstille etiketten?</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="auth_client_needs_enabling_title" msgid="3983201110833868073">"En applikation kræver, at Google Play er aktiveret."</string>
+    <string name="auth_client_needs_installation_title" msgid="7999585836145154206">"En applikation kræver, at Google Play er installeret."</string>
+    <string name="auth_client_needs_update_title" msgid="6488605506794595966">"En applikation kræver en opdatering af Google Play."</string>
+    <string name="auth_client_play_services_err_notification_msg" msgid="3635065018897986478">"Fejl i Google Play-tjenester"</string>
+    <string name="auth_client_requested_by_msg" msgid="6304135633531965756">"Anmodning fra <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string name="auth_client_using_bad_version_title" msgid="2534454398764507874">"En applikation forsøgte at bruge en defekt version af Google Play."</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="authors_label">Udviklet af</string>
+    <string name="background_image">baggrundsbillede</string>
+    <string name="backup_all_warning">Du er ved at sikkerhedskopiere de private nøgler, der styrer alle Bitcoins af din Mycelium Bitcoin Wallet.\n\nAlle der får adgang til disse nøgler kan komme i besiddelse af dine Bitcoins.\n\nVil du fortsætte?</string>
+    <string name="backup_missing">Backup Mangler</string>
+    <string name="backup_not_verified">Backup ikke kontrolleret</string>
+    <string name="backup_private_key">Backup</string>
+    <string name="backup_single_private_key_warning">Du er ved at sikkerhedskopiere den private nøgle, der styrer alle Bitcoins af din Mycelium Bitcoin Wallet.\n\nAlle der får adgang til denne nøgle kan komme i besiddelse af dine Bitcoins.\n\nVil du fortsætte?</string>
+    <string name="balance">Saldo</string>
+    <string name="bitcoin_address_deleted">Bitcoin adresse slettet</string>
+    <string name="bitcoin_address_invalid">Ugyldig Bitcoin Adresse</string>
+    <string name="bitcoin_address_label">Bitcoin Adresse:</string>
+    <string name="bitcoin_address_title">Bitcoin Adresse</string>
+    <string name="bitcoin_address_valid">Bitcoin Adresse Gyldig</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="bookmark_picker_name">Bogmærker</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="broadcasting_transaction">Udsender Transaktion</string>
+    <string name="btc_balance">Saldo: %1$s</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="button_add_calendar">Tilføj til kalendar</string>
+    <string name="button_add_contact">Tilføj kontaktperson</string>
+    <string name="button_back">Tilbage</string>
+    <string name="button_book_search">Bogsøgning</string>
+    <string name="button_cancel">Annullér</string>
+    <string name="button_custom_product_search">Brugerdefineret søgning</string>
+    <string name="button_dial">Ring til nummeret</string>
+    <string name="button_done">Færdig</string>
+    <string name="button_email">Send e-mail</string>
+    <string name="button_get_directions">Få kørselsanvisninger</string>
+    <string name="button_google_shopper">Shopper</string>
+    <string name="button_mms">Send MMS</string>
+    <string name="button_ok">OK</string>
+    <string name="button_open_browser">Åben browser</string>
+    <string name="button_product_search">Produktsøgning</string>
+    <string name="button_search_book_contents">Søg efter indhold</string>
+    <string name="button_share_app">Applikationer</string>
+    <string name="button_share_bookmark">Bogmærker</string>
+    <string name="button_share_by_email">Del via e-mail</string>
+    <string name="button_share_by_sms">Del via SMS</string>
+    <string name="button_share_clipboard">Udklipsholder</string>
+    <string name="button_share_contact">Kontakter</string>
+    <string name="button_show_map">Vis kort</string>
+    <string name="button_sms">Send SMS</string>
+    <string name="button_web_search">Internetsøgning</string>
+    <string name="button_wifi">Forbind til netværk</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="cancel">Annuller</string>
+    <string name="cancelled">Afbrudt</string>
+    <string name="check_update">Check for Update</string>
+    <string name="clipboard">Udklipsholder</string>
+    <string name="clipboard_address_book_desc">Hent Bitcoin adresse fra udklipsholderen.</string>
+    <string name="clipboard_desc">Importer en Bitcoin adresse eller private nøgle fra udklipsholderen.</string>
+    <string name="close">Luk</string>
+    <string name="cold_storage">Cold Storage</string>
+    <string name="cold_storage_desc">Du er ved at spendere fra en privat nøgle fra cold storage. Dette kan være en backup af en privat nøgle eller en slip fra en Bitcoin automat. Flere formater er supporteret.\n\nNår transaktionen er sendt vil ethvert spor af den private nøgle være slettet fra hukommelsen.</string>
+    <string name="cold_storage_title">Brug fra Cold Storage</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="common_google_play_services_enable_button" msgid="4181637455539816337">"Aktivér Google Play-tjenester"</string>
+    <string name="common_google_play_services_enable_text" msgid="7627896071867667758">"Denne app virker ikke, medmindre du aktiverer Google Play-tjenester."</string>
+    <string name="common_google_play_services_enable_title" msgid="529078775174559253">"Aktivér Google Play-tjenester"</string>
+    <string name="common_google_play_services_install_button" msgid="8515591849428043265">"Hent Google Play-tjenester"</string>
+    <string name="common_google_play_services_install_text_phone" msgid="8685301130651051380">"Denne app kan ikke køre uden Google Play-tjenester, som mangler på din telefon."</string>
+    <string name="common_google_play_services_install_text_tablet" msgid="1589957570365247855">"Denne app kan ikke køre uden Google Play-tjenester, som mangler på din tablet."</string>
+    <string name="common_google_play_services_install_title" msgid="26645092511305524">"Hent Google Play-tjenester"</string>
+    <string name="common_google_play_services_invalid_account_text" msgid="4983316348021735578">"Den angivne konto findes ikke på denne enhed. Vælg en anden konto."</string>
+    <string name="common_google_play_services_invalid_account_title" msgid="1066672360770936753">"Ugyldig konto"</string>
+    <string name="common_google_play_services_network_error_text" msgid="9038847255613537209">"Der kræves en dataforbindelse for at oprette forbindelse til Google Play-tjenester."</string>
+    <string name="common_google_play_services_network_error_title" msgid="3827284619958211114">"Netværksfejl"</string>
+    <string name="common_google_play_services_unknown_issue" msgid="4762332809710093730">"Ukendt problem med Google Play-tjenester."</string>
+    <string name="common_google_play_services_unsupported_text" msgid="3542578567569488671">"Google Play-tjenester, som nogle af dine applikationer er afhængige af, understøttes ikke af din enhed. Kontakt producenten for at få hjælp."</string>
+    <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play-tjenester"</string>
+    <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Opdater"</string>
+    <string name="common_google_play_services_update_text" msgid="448354684997260580">"Denne app kan ikke køre, medmindre du opdaterer Google Play-tjenester."</string>
+    <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Opdater Google Play-tjenester"</string>
+    <string name="common_signin_button_text" msgid="9071884888741449141">"Log ind"</string>
+    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Log ind med Google"</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="confirm_delete_pk_title">Er Du sikker?</string>
+    <string name="confirm_delete_pk_with_balance">Dette kan ikke fortrydes! \n\nPrivat nøgle adresse:\n%1$s\n\nSom indeholder %2$s\n\nVil du slette den?</string>
+    <string name="confirm_delete_pk_with_balance_with_label">Dette kan ikke fortrydes! \n\nPrivat nøgle etikette:\n%1$s\n\nPrivat nøgle adresse:\n%2$s\n\nSom indeholder %3$s\n\nVil du slette den?</string>
+    <string name="confirm_delete_pk_without_balance">Dette kan ikke fortrydes! \n\nPrivat nøgle adresse:\n%1$s\n\nVil du slette den?</string>
+    <string name="confirm_delete_pk_without_balance_with_label">Dette kan ikke fortrydes! \n\nPrivat nøgle etikette:\n%1$s\n\nPrivat nøgle adresse:\n%2$s\n\nVil du slette den?</string>
+    <string name="confirmations">%d Konfirmationer</string>
+    <string name="confirmed">Bekræftet</string>
+    <string name="confirmed_in_block">I block #%1$d</string>
+    <string name="contact_email_label">Feedback</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="contents_contact">Kontaktinfo</string>
+    <string name="contents_email">E-mailadresse</string>
+    <string name="contents_location">Geografiske koordinater</string>
+    <string name="contents_phone">Telefonnummer</string>
+    <string name="contents_sms">SMS-adresse</string>
+    <string name="contents_text">Almindelig tekst</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="copied_to_clipboard">Kopieret til udklipsholder</string>
+    <string name="copy_address_to_clipboard">Kopier Adresse</string>
+    <string name="copy_private_key_to_clipboard">Kopier Privat Nøgle</string>
+    <string name="copy_signature">Kopier Signatur til Clipboard</string>
+    <string name="copy_to_clipboard">Kopier</string>
+    <string name="created_new_random_key">En ny tilfældig Bitcoin adresse er blevet skabt</string>
+    <string name="date">Dato</string>
+    <string name="decrypt_button">Dekrypter</string>
+    <string name="delete">Slet</string>
+    <string name="delete_address">Slet Adresse</string>
+    <string name="delete_address_confirmation">Er du sikker på at du vil slette denne adresse fra din adresse bog?</string>
+    <string name="delete_address_message">Vil du slette denne adresse?</string>
+    <string name="delete_address_title">Slet Bitcoin Adresse?</string>
+    <string name="delete_private_key">Slet Privat Nøgle</string>
+    <string name="delete_private_key_message">Vil du slette denne private nøgle?</string>
+    <string name="delete_private_key_title">Slet Privat Nøgle?</string>
+    <string name="edit">Ændre</string>
+    <string name="edit_address_label_title">Rediger Adresse Navn</string>
+    <string name="edit_label">Rediger Navn</string>
+    <string name="encrypted_pdf_backup_creating">Opretter PDF dokument...</string>
+    <string name="encrypted_pdf_backup_description">Du er ved at lave en backup af dine krypterede private nøgler til et PDF-dokument. \nPDF-dokumentet kan trykt deles ved hjælp af e-mail eller med fildelings apps du har installeret, som fx Dropbox. Dette er fordi dine nøgler er krypteret.</string>
+    <string name="encrypted_pdf_backup_document_ready">PDF dokument oprettet</string>
+    <string name="encrypted_pdf_backup_email_text">Tegnebogen Mycelium backup er vedlagt.\r\n\r\nFølg disse enkle trin for at sikre dine penge: \r\n1. Udskrive PDF-dokument.\r\n2. Skriv den 15-karakter lange adgangskode ned i den blå boks på udskriften.\r\n3. Kontroller at du kan importere den private nøgle til din Mycelium Tegnebog.\r\n4. Gem udskriften på et sikkert sted.</string>
+    <string name="encrypted_pdf_backup_email_title">Mycelium Tegnebogs Backup</string>
+    <string name="encrypted_pdf_backup_encrypting">Krypterer de private nøgler...</string>
+    <string name="encrypted_pdf_backup_password_description_1">Dette er et tilfældigt password med checksum som bruges til kryptering af denne backup.</string>
+    <string name="encrypted_pdf_backup_password_description_2">Dette er din eneste mulighed for visning af adgangskoden til denne backup. \nDen næste backup vil bruge en anden adgangskode. \nSkriv den ned og holde den sikkert!</string>
+    <string name="encrypted_pdf_backup_sharing">Deling af PDF dokument...</string>
+    <string name="encrypted_pdf_backup_stretching">Forbereder krypteringsnøgle...</string>
+    <string name="encrypted_pdf_backup_title">Krypteret PDF Backup</string>
+    <string name="enter_address_label_title">Angiv Adresse Navn</string>
+    <string name="enter_amount_title">Indtast Beløb</string>
+    <string name="enter_bitcoin_address">Indtast Bitcoin Adresse</string>
+    <string name="enter_local_currency">Vælg din lokale valuta</string>
+    <string name="enter_message_hint">Skriv en besked som du vil signere</string>
+    <string name="enter_recipient_title">Vælg Modtager Adresse</string>
+    <string name="exchange_source_not_available">Exchange kilde er ikke tilgængelig for %1$s</string>
+    <string name="explore">Udforske</string>
+    <string name="export">Eksporter</string>
+    <string name="export_private_key_warning">Advarsel. Du er ved at eksportere den private nøgle som styrer alle Bitcoins for denne adresse.\n\nAlle som der får adgang til denne nøgle kan komme i besiddelse af de Bitcoins som den besidder.\n\nVil du fortsætte?</string>
+    <string name="export_single_private_key_warning">Du er ved at eksportere den private nøgle som styrer alle Bitcoins for den valgte adresse.\n\nAlle som får adgang til nøglen kan komme i besiddelse af de Bitcoins som den indeholder.\n\nVil du fortsætte?</string>
+    <string name="export_to_clipboard_warning">Advarsel: Eksportering af den private nøgle til Udklipsholderen vil gøre den tilgængelig for andre apps.\n\nNote: Det er ikke nok at gemme den private nøgle til udklipsholderen, du skal også indsætte den et sikkert sted.\n\nVil du fortsætte?</string>
+    <string name="foreign_addresses">Andre Adresser</string>
+    <string name="found_clipboard_private_key_title">Privat Nøgle Fundet i Udklipsholderen</string>
+    <string name="found_clipboard_private_keys_message">Udklipsholderen indeholder en privat nøgle.\r\nVil du slette den?</string>
+    <string name="get_from">Hent Via</string>
+    <string name="get_private_key">Hent privat nøgle fra:</string>
+    <string name="get_receiver_address">Få modtagerens adresse fra:</string>
+    <string name="getting_location">opnå placering...</string>
+    <string name="go_back">Tilbage</string>
+    <string name="going_to_mycelium_com_help">Gå til www.mycelium.com</string>
+    <string name="hash">Hash</string>
+    <string name="help_menu">Hjælp</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="history_clear_one_history_text">Ryd</string>
+    <string name="history_clear_text">Ryd historik</string>
+    <string name="history_email_title">Barcode Scanner-historik</string>
+    <string name="history_empty">Tom</string>
+    <string name="history_empty_detail">Ingen stregkodescanninger er blevet registreret endnu</string>
+    <string name="history_send">Send historik</string>
+    <string name="history_title">Historik</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="homepage_label">Hjemmeside</string>
+    <string name="ignore_update">Ignorer denne version</string>
+    <string name="import_decrypt_bip38_description">Du er ved at dekryptere en BIP38 password beskyttet private nøgle.</string>
+    <string name="import_decrypt_bip38_enter_password">Angiv BIP38 kryptering password.</string>
+    <string name="import_decrypt_bip38_invalid_password">Den indtastede adgangskode er ikke korrekt.</string>
+    <string name="import_decrypt_key_description">Du er ved at dekryptere en password beskyttet private nøgle.</string>
+    <string name="import_decrypt_key_enter_password">Angiv den 15 karakter lange adgangskode og kontrolsum.</string>
+    <string name="import_decrypt_key_invalid_checksum">Kontrolsum er ugyldig. Kontroller den.</string>
+    <string name="import_decrypt_key_title">Dekryptering Af Privat Nøgle</string>
+    <string name="import_decrypt_stretching">Forbereder dekrypteringsnøgle...</string>
+    <string name="imported_bitcoin_address">Bitcoin adresse importeret.</string>
+    <string name="imported_private_key">Privat nøgle importeret.</string>
+    <string name="inputs">Indput</string>
+    <string name="insufficient_funds">Utilstrækkelige midler</string>
+    <string name="insufficient_funds_for_fee">Utilstrækkelige midler til at betale gebyr</string>
+    <string name="invalid_bitcoin_uri">Ugyldig Bitcoin URI</string>
+    <string name="invalid_password">Ugyldig adgangskode</string>
+    <string name="keep_address">Behold i iagtagelses mode ved at bevare Bitcoin adressen</string>
+    <string name="key_already_present">Den private nøgle var allerede tilstede</string>
+    <string name="key_management">Nøglehåndtering</string>
+    <string name="key_management_disabled_desc">Denne side giver adgang til avancerede Bitcoin nøglehåndterings funktioner for eksperter.\n\nDu kan aktivere ekspert Mode under indstillinger.</string>
+    <string name="lock_label">Lås</string>
+    <string name="managing_archive_key">Du administrerer en enkelt arkiveret nøgle.</string>
+    <string name="manual_entry">Indtast manuelt</string>
+    <string name="max">Max</string>
+    <string name="max_btc">Spenderbart: %1$s</string>
+    <string name="max_fiat">Til Rådighed: %1$s %2$s</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="menu_encode_mecard">Brug MECARD</string>
+    <string name="menu_encode_vcard">Brug vCard</string>
+    <string name="menu_help">Hjælp</string>
+    <string name="menu_history">Historik</string>
+    <string name="menu_settings">Indstillinger</string>
+    <string name="menu_share">Del</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="miner_fee_label">Gebyr:</string>
+    <string name="miner_fee_title">Transaktionsgebyr</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="msg_bulk_mode_scanned">Massetilstand: stregkode scannet og gemt</string>
+    <string name="msg_camera_framework_bug">Beklager, Android-kameraet er stødt på et problem. Du skal muligvis genstarte enheden.</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hej</string>
+    <string name="msg_default_status">Placér en stregkode inden i firkanten for at aflæse den.</string>
+    <string name="msg_default_time">Tid</string>
+    <string name="msg_default_type">Type</string>
+    <string name="msg_encode_contents_failed">Kunne ikke indkode en stregkode fra oplysningerne givet.</string>
+    <string name="msg_google_books">Google Bøger</string>
+    <string name="msg_google_product">Google Product Search</string>
+    <string name="msg_google_shopper_missing">Google Shopper er ikke installeret</string>
+    <string name="msg_install_google_shopper">Google Shopper kombinerer stregkodescanning med priser, anmeldelser og meget mere uden at åbne en browser. Kunne du tænke dig at prøve det?</string>
+    <string name="msg_intent_failed">Beklager, den ønskede applikation kunne ikke blive startet. Stregkodeindholdet er måsket ugyldigt.</string>
+    <string name="msg_redirect">Omdirigér</string>
+    <string name="msg_sbc_book_not_searchable">Beklager, denne bog er ikke søgbar.</string>
+    <string name="msg_sbc_failed">Beklager, søgningen er stødt på et problem.</string>
+    <string name="msg_sbc_no_page_returned">Ingen side returnerede</string>
+    <string name="msg_sbc_page">Side</string>
+    <string name="msg_sbc_results">Resultater</string>
+    <string name="msg_sbc_searching_book">Søger bog\u2026</string>
+    <string name="msg_sbc_snippet_unavailable">Uddragsvisning ikke tilgængelig</string>
+    <string name="msg_sbc_unknown_page">Ukendt side</string>
+    <string name="msg_share_explanation">Du kan dele data ved at vise en stregkode på denne skærm, og derefter scanne den med en anden telefon.</string>
+    <string name="msg_share_subject_line">Her er indholdet af en stregkode, jeg har scannet.</string>
+    <string name="msg_share_text">Eller skriv noget tekst</string>
+    <string name="msg_sure">Er du sikker?</string>
+    <string name="msg_unmount_usb">Beklager, SD-kortet er ikke tilgængelig.</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="my_addresses">Mine Adresser</string>
+    <string name="my_own_address_warning">Note: Du sender til en af dine egne adresser.</string>
+    <string name="mycelium_license">Mycelium Licens</string>
+    <string name="name">Navn</string>
+    <string name="new_bitcoin_address_created">En ny tilfældig privat nøgle er blevet skabt med den følgende Bitcoin adresse:</string>
+    <string name="new_version_exists">En ny version er tilgængelig</string>
+    <string name="next">Næste</string>
+    <string name="no">Nej</string>
+    <string name="no_address_book_records">Denne side viser din adressebog\n\nDin adressebog er tom.</string>
+    <string name="no_network_connection">Ingen netværksforbindelse</string>
+    <string name="no_private_key">Din wallet kan ikke sende da den ikke har nogen private nøgler</string>
+    <string name="no_server_connection">Ingen serverforbindelse</string>
+    <string name="no_transaction_records">Denne side viser din transaktionshistorie\n\nDer er i øjeblikket ingen transaktioner at vise.</string>
+    <string name="ok">OK</string>
+    <string name="optional_amount">Valgfrit Beløb</string>
+    <string name="out_of_memory_error">FEJL: Enheden har ikke nok hukommelse til at fuldføre denne opgave</string>
+    <string name="outputs">Udgange</string>
+    <string name="page_locked">Denne side er låst</string>
+    <string name="paste">Indsæt</string>
+    <string name="payment_request">Betalings Forespørgelse</string>
+    <string name="pdfwriter_license">Android PDF Writer Licens</string>
+    <string name="pin_cleared">Pin kode ryddet</string>
+    <string name="pin_codes_dont_match">PIN koderne matcher ikke</string>
+    <string name="pin_confirm_pin">Bekræft PIN kode</string>
+    <string name="pin_enter_new_pin">Indtast ny PIN kode</string>
+    <string name="pin_enter_pin">Indtast PIN Kode</string>
+    <string name="pin_invalid_pin">Ugyldig PIN kode</string>
+    <string name="pin_set">PIN kode indstillet</string>
+    <string name="please_wait">Vent venligst …</string>
+    <string name="pref_advanced_settings">Avancerede Indstillinger</string>
+    <string name="pref_aggregated_view">Samlet Overblik</string>
+    <string name="pref_aggregated_view_summary">Med samlet visning arbejder du på alle nøgler og adresser på en gang. Med separat visning arbejder du på een adresse af gangen.</string>
+    <string name="pref_bitcoin_denomination">Bitcoin enhed</string>
+    <string name="pref_bitcoin_denomination_summary">Angiv foretrukne Bitcoin enhed. BTC, mBTC eller μBTC</string>
+    <string name="pref_bitcoin_denomination_with_denomination">Pålydende værdi (%1$s)</string>
+    <string name="pref_category_advanced">Avanceret</string>
+    <string name="pref_category_pin">Pinkode Indstillinger</string>
+    <string name="pref_change_language">Skift Sprog</string>
+    <string name="pref_clear_pin">Slet PIN-kode</string>
+    <string name="pref_clear_pin_summary">Slet den aktuelle pinkode</string>
+    <string name="pref_continuous_focus">Kontinuerlig autofokus</string>
+    <string name="pref_continuous_focus_summary">Forsøg kontinuerligt at autofokusere når du scanner QR-koder</string>
+    <string name="pref_exchange_source">Exchange kilde</string>
+    <string name="pref_exchange_source_summary">Vælg kilde for opslag af valutakurser for konvertering mellem Bitcoin og fiat valuta</string>
+    <string name="pref_exchange_source_with_value">Exchange kilde (%1$s)</string>
+    <string name="pref_expert_mode">Ekspert Mode</string>
+    <string name="pref_expert_mode_summary">Aktivering af ekspert mode åbner op for ekstra funktioner, herunder avanceret nøglehåndtering og flere tegnebøger</string>
+    <string name="pref_local_currency">Lokal Valuta</string>
+    <string name="pref_local_currency_summary">Vælg den lokale valuta</string>
+    <string name="pref_local_currency_with_currency">Lokal Valuta (%1$s)</string>
+    <string name="pref_set_pin">Angiv Pinkode</string>
+    <string name="pref_set_pin_summary">Angiv en pinkode der begrænser adgangen til at sende midler, eksporterende private nøgler og ændre pinkoden</string>
+    <string name="pref_socks_proxy">Socks Proxy</string>
+    <string name="pref_socks_proxy_enabled">Socks Proxy (Aktiveret)</string>
+    <string name="pref_socks_proxy_not_enabled">Socks Proxy (Ikke Aktiveret)</string>
+    <string name="pref_socks_proxy_summary">Kommuniker gennem restriktive firewalls eller Tor ved hjælp af Orbot. Indtaste et hostnavn og port, fx \'localhost:9050\'</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="preferences_actions_title">Når en stregkode er fundet\u2026</string>
+    <string name="preferences_auto_focus_title">Brug autofokus</string>
+    <string name="preferences_bulk_mode_summary">Scan og gem mange stregkoder uden afbrydelser</string>
+    <string name="preferences_bulk_mode_title">Massescanningstilstand</string>
+    <string name="preferences_copy_to_clipboard_title">Kopiér til udklipsholder</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">Udskiftninger: %s = indhold, %f = format, %t = type</string>
+    <string name="preferences_custom_product_search_title">Brugerdefineret søge-URL</string>
+    <string name="preferences_decode_1D_title">Afkod 1D-stregkoder</string>
+    <string name="preferences_decode_Data_Matrix_title">Afkod Data Matrix</string>
+    <string name="preferences_decode_QR_title">Afkod QR-koder</string>
+    <string name="preferences_device_bug_workarounds_title">Device Bug Løsninger</string>
+    <string name="preferences_disable_continuous_focus_summary">Brug kun standard fokusindstilling</string>
+    <string name="preferences_disable_continuous_focus_title">Ingen løbende fokus</string>
+    <string name="preferences_disable_exposure_title">Ingen eksponering</string>
+    <string name="preferences_front_light_auto">Automatisk</string>
+    <string name="preferences_front_light_off">Inaktiv</string>
+    <string name="preferences_front_light_on">Aktiv</string>
+    <string name="preferences_front_light_summary">Forbedrer aflæsning i svagt lys på nogle telefoner, men kan medføre genskær. Virker ikke på alle telefoner.</string>
+    <string name="preferences_front_light_title">Brug frontlys</string>
+    <string name="preferences_general_title">Generelle indstillinger</string>
+    <string name="preferences_invert_scan_summary">Scan for hvide stregkoder på sort baggrund. Ikke tilgængelig på nogle enheder.</string>
+    <string name="preferences_invert_scan_title">Inverter scanning</string>
+    <string name="preferences_name">Indstillinger</string>
+    <string name="preferences_play_beep_title">Bip</string>
+    <string name="preferences_remember_duplicates_summary">Gem flere scanninger af de samme stregkoder i Historik</string>
+    <string name="preferences_remember_duplicates_title">Husk dubletter</string>
+    <string name="preferences_result_title">Resultatindstillinger</string>
+    <string name="preferences_scanning_title">Når der scannes efter stregkoder\u2026</string>
+    <string name="preferences_search_country">Søg efter land</string>
+    <string name="preferences_supplemental_summary">Prøv at få flere oplysninger om stregkodens indhold</string>
+    <string name="preferences_supplemental_title">Hent mere info</string>
+    <string name="preferences_try_bsplus">Prøv Barcode Scanner+</string>
+    <string name="preferences_try_bsplus_summary">Forbedret med nye funktioner og grænseflade</string>
+    <string name="preferences_vibrate_title">Vibrér</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="private_key">Privat Nøgle</string>
+    <string name="private_key_deleted">Privat nøgle slettet.</string>
+    <string name="qr_code">QR Kode</string>
+    <string name="question_archive">Arkiverede nøgler er ikke med i din saldo, men du kan altid vælge dem og iagttage dem som enkelte nøgler under saldo.\r\n\r\nArkiverede nøgler kan aktiveres igen.\r\n\r\nVil du arkivere denne nøgle?</string>
+    <string name="random">Tilfældig</string>
+    <string name="random_desc">Generer en ny tilfældig privat nøgle.</string>
+    <string name="read_only_warning">Advarsel: Din tegnebog indeholder ikke den private nøgle for denne adresse.\nDu kan ikke bruge modtaget mønter, jo mindre du har den private nøgle et andet sted.</string>
+    <string name="receive">Modtag</string>
+    <string name="receiver_label">Modtager:</string>
+    <string name="receiving">Modtager %1$s</string>
+    <string name="recipient_title">Modtager Adresse</string>
+    <string name="redirecting_to_blockchain_info">Omdirigerer til blockchain.info</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="result_address_book">Kontaktinfo fundet</string>
+    <string name="result_calendar">Kalendarbegivenhed fundet</string>
+    <string name="result_email_address">E-mailadresse fundet</string>
+    <string name="result_geo">Geografiske koordinater fundet</string>
+    <string name="result_isbn">Bog fundet</string>
+    <string name="result_product">Produkt fundet</string>
+    <string name="result_sms">SMS-adresse fundet</string>
+    <string name="result_tel">Telefonnummer fundet</string>
+    <string name="result_text">Almindelig tekst fundet</string>
+    <string name="result_uri">URL fundet</string>
+    <string name="result_wifi">WLAN-forbindelse fundet</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="retry_password_question">Den indtastede adgangskode er ikke gyldig.\nVil du prøve igen?</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="sbc_name">Google Bøger-søgning</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="scan">Skan</string>
+    <string name="scan_address_book_desc">Skan Bitcoin adresse.</string>
+    <string name="scan_desc">Skan en Bitcoin adresse eller privat nøgle.</string>
+    <string name="scan_qr_code">Skan QR Kode</string>
+    <string name="select_spending_address">Vælg Afsender Adresse</string>
+    <string name="send">Send</string>
+    <string name="send_bitcoins">Send Bitcoins</string>
+    <string name="sending">Sender %1$s</string>
+    <string name="set_label">Sæt Navn</string>
+    <string name="settings">Indstillinger</string>
+    <string name="share_bitcoin_address">Del Bitcoin Adresse</string>
+    <string name="share_payment_request">Del Betalingsandmodning</string>
+    <string name="share_pdf">Del PDF</string>
+    <string name="share_signature">Del Besked + Signatur</string>
+    <string name="share_with">Del med…</string>
+    <string name="show_details">Vis Detaljer</string>
+    <string name="show_qr_code_menu">Vis QR Kode</string>
+    <string name="show_to_sender">Vis til Afsender</string>
+    <string name="shuffle">Bland</string>
+    <string name="sig_copied">Signatur kopieret</string>
+    <string name="sign_message">Signer Besked</string>
+    <string name="signed_message_share">Del Signeret Besked</string>
+    <string name="signed_message_subject">Signeret Bitcoin besked</string>
+    <string name="signing_inprogress">Signerer Besked…</string>
+    <string name="slow_network">Netværksforbindelsen ser ud til at være langsom. \nHav lidt tålmodighed...</string>
+    <string name="source_repo_label">Kilde Repository</string>
+    <string name="synchronizing">Synkroniserer</string>
+    <string name="tab_addresses">Adressebog</string>
+    <string name="tab_balance">Saldo</string>
+    <string name="tab_keys">Nøgler</string>
+    <string name="tab_transactions">Transaktioner</string>
+    <string name="tap_qr_code_desc">Tryk på QR koden kan forbedre skanning</string>
+    <string name="tap_to_refresh">Tryk for at opdatere</string>
+    <string name="transaction_details">Transaktionsoplysninger</string>
+    <string name="transaction_history">Transaktionshistorie</string>
+    <string name="transaction_not_sent">Transaktions publicering fejlede</string>
+    <string name="transaction_sent">Transaktion sendt</string>
+    <string name="unlock_label">Lås op</string>
+    <string name="unrecognized_format">Ukendt format</string>
+    <string name="unrecognized_format_version">Ukendt privat nøgle version</string>
+    <string name="unrecognized_private_key_format">Ukendt privat nøgle format</string>
+    <string name="update_check">Update Check</string>
+    <string name="upgraded_address_to_key">Bitcoin adressen blev opgraderet med en privat nøgle</string>
+    <string name="use">Brug</string>
+    <string name="using_address_from_clipboard">Brug adresse fra udklipsholderen</string>
+    <string name="verify_backup_clipboard_desc">Kontroller den private nøgle backup ved at tage den private nøgle fra udklipsholderen.</string>
+    <string name="verify_backup_desc">Ordentlig privat nøgle backup er en hjørnesten, når du administrerer dine Bitcoins.\n\nVed kontrol af din backup, skal du sørge for at den virker, og at du ikke mister dine penge hvis din Android-enhed er gået tabt eller bliver beskadiget.</string>
+    <string name="verify_backup_dialog_title">Bekræft Backup Af Privat Nøgle</string>
+    <string name="verify_backup_ignored">Backup ignoreret for denne private nøgle.</string>
+    <string name="verify_backup_message_expert">Det lader til at du har en eller flere private Bitcoin nøgler, der ikke er lavet en backup af.\n\nVælg venligst backup indstillingen for at lave en backup af dine nøgler.\n\nDerefter skal du klikke på bekræft backup for at kontrollere den.</string>
+    <string name="verify_backup_message_non_expert">Det lader til at du ikke har lavet en backup af din private nøgle.\n\nVælg venligst backup indstillingen for at lave en backup af den private nøgle.\n\nDerefter skal du klikke på bekræft backup for at bekræfte den. </string>
+    <string name="verify_backup_message_text_1">Ordentlig privat nøgle backup er en hjørnesten, ved administration af dine Bitcoins. \nDu har en eller flere private Bitcoin nøgler hvor backuppen ikke har vertificeret.\n\nVælg venligst at lave en backup af dine nøgler.</string>
+    <string name="verify_backup_message_text_2">Derefter skal du vælge bekræft backup og kontrollere din backup.</string>
+    <string name="verify_backup_no_such_record">Den private nøgle svarer ikke til nogen af dine Bitcoin adresser.</string>
+    <string name="verify_backup_num_keys">Du har %1$s nøgler, der aldrig er blevet bekræftet.</string>
+    <string name="verify_backup_ok">Privat nøgle backup bekræftet for denne adresse:\n\n%1$s</string>
+    <string name="verify_backup_one_key">Du har 1 nøgle, der er aldrig er blevet bekræftet.</string>
+    <string name="verify_backup_scan_desc">Kontroller den privat nøgle backup ved at skanne den private nøgles QR kode. \nFlere formater er accepteret, herunder Mycelium krypterede papir backup.</string>
+    <string name="verify_backup_title">Backup og kontroller</string>
+    <string name="verify_private_key_backup">Bekræft Backup</string>
+    <string name="version_check_failed">Versions check fejlede</string>
+    <string name="version_label">Version</string>
+    <string name="version_uptodate">Din wallet kører seneste version %s</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="wifi_changing_network">Anmoder om tilslutning til netværk\u2026</string>
+    <string name="wifi_ssid_label">Netværksnavn</string>
+    <string name="wifi_type_label">Type</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-da/strings.xml -->
+    <eat-comment />
+
+    <string name="yes">Ja</string>
+    <string name="your_balance">Din saldo:</string>
+    <string name="your_bitcoin_address">Din bitcoin adresse:</string>
+    <string name="your_name_placeholder">Dit Navn</string>
+    <string name="zxing_license">ZXing Licens</string>
+
+</resources>

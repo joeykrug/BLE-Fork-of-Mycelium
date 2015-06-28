@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/miSignMessage"
+        android:title="@string/sign_message"
+        yourapp:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/miExport"
+        android:title="@string/export"/>
+
+</menu><!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/menu/record_options_menu_privkey.xml -->

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-el/values.xml -->
+    <eat-comment />
+
+    <string name="abc_action_bar_home_description" msgid="4600421777120114993">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string name="abc_action_bar_up_description" msgid="1594238315039666878">"Πλοήγηση προς τα επάνω"</string>
+    <string name="abc_action_menu_overflow_description" msgid="3588849162933574182">"Περισσότερες επιλογές"</string>
+    <string name="abc_action_mode_done" msgid="4076576682505996667">"Τέλος"</string>
+    <string name="abc_activity_chooser_view_see_all" msgid="7468859129482906941">"Προβολή όλων"</string>
+    <string name="abc_activitychooserview_choose_application" msgid="2031811694353399454">"Επιλέξτε κάποια εφαρμογή"</string>
+    <string name="abc_searchview_description_clear" msgid="3691816814315814921">"Διαγραφή ερωτήματος"</string>
+    <string name="abc_searchview_description_query" msgid="2550479030709304392">"Ερώτημα αναζήτησης"</string>
+    <string name="abc_searchview_description_search" msgid="8264924765203268293">"Αναζήτηση"</string>
+    <string name="abc_searchview_description_submit" msgid="8928215447528550784">"Υποβολή ερωτήματος"</string>
+    <string name="abc_searchview_description_voice" msgid="893419373245838918">"Φωνητική αναζήτηση"</string>
+    <string name="abc_shareactionprovider_share_with" msgid="3421042268587513524">"Κοινή χρήση με"</string>
+    <string name="abc_shareactionprovider_share_with_application" msgid="7165123711973476752">"Κοινή χρήση με %s"</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-el/values.xml -->
+    <eat-comment />
+
+    <string name="app_picker_name">Εφαρμογές</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-el/strings.xml -->
+    <eat-comment />
+
+    <string name="auth_client_needs_enabling_title" msgid="3983201110833868073">"Μια εφαρμογή απαιτεί τις Υπηρεσίες Google Play για ενεργοποίηση."</string>
+    <string name="auth_client_needs_installation_title" msgid="7999585836145154206">"Μια εφαρμογή απαιτεί την εγκατάσταση των Υπηρεσιών Google Play."</string>
+    <string name="auth_client_needs_update_title" msgid="6488605506794595966">"Μια εφαρμογή απαιτεί μια ενημέρωση για τις Υπηρεσίες Google Play."</string>
+    <string name="auth_client_play_services_err_notification_msg" msgid="3635065018897986478">"Σφάλμα υπηρεσιών Google Play"</string>
+    <string name="auth_client_requested_by_msg" msgid="6304135633531965756">"Υποβλήθηκε αίτημα από την εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string name="auth_client_using_bad_version_title" msgid="2534454398764507874">"Απόπειρα χρήσης ακατάλληλης έκδοσης Υπηρεσιών Google Play από εφαρμογή"</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-el/values.xml -->
+    <eat-comment />
+
+    <string name="bookmark_picker_name">Σελιδοδείκτες</string>
+    <string name="button_add_calendar">Προσθήκη στο ημερολόγιο</string>
+    <string name="button_add_contact">Προσθήκη στις επαφές</string>
+    <string name="button_back">Πίσω</string>
+    <string name="button_book_search">Αναζήτηση βιβλίων</string>
+    <string name="button_cancel">Ακύρωση</string>
+    <string name="button_custom_product_search">Σύνθετη αναζήτηση</string>
+    <string name="button_dial">Κλήση αριθμού</string>
+    <string name="button_done">Έγινε</string>
+    <string name="button_email">Αποστολή email</string>
+    <string name="button_get_directions">Λάβετε κατευθύνσεις</string>
+    <string name="button_google_shopper">Shopper</string>
+    <string name="button_mms">Αποστολή MMS</string>
+    <string name="button_ok">OK</string>
+    <string name="button_open_browser">Άνοιγμα browser</string>
+    <string name="button_product_search">Αναζήτηση προϊόντων</string>
+    <string name="button_search_book_contents">Αναζήτηση περιεχομένων</string>
+    <string name="button_share_app">Εφαρμογή</string>
+    <string name="button_share_bookmark">Σελιδοδείκτης</string>
+    <string name="button_share_by_email">Μοιράσου με email</string>
+    <string name="button_share_by_sms">Μοιράσου με SMS</string>
+    <string name="button_share_clipboard">Πρόχειρο</string>
+    <string name="button_share_contact">Επαφή</string>
+    <string name="button_show_map">Δείξε χάρτη</string>
+    <string name="button_sms">Στείλε SMS</string>
+    <string name="button_web_search">Αναζήτηση ιστού</string>
+    <string name="button_wifi">Σύνδεση σε Δίκτυο</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-el/strings.xml -->
+    <eat-comment />
+
+    <string name="common_google_play_services_enable_button" msgid="4181637455539816337">"Ενεργοπ. υπηρεσιών Google Play"</string>
+    <string name="common_google_play_services_enable_text" msgid="7627896071867667758">"Αυτή η εφαρμογή δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play."</string>
+    <string name="common_google_play_services_enable_title" msgid="529078775174559253">"Ενεργοποίηση υπηρεσιών Google Play"</string>
+    <string name="common_google_play_services_install_button" msgid="8515591849428043265">"Λήψη υπηρεσιών Google Play"</string>
+    <string name="common_google_play_services_install_text_phone" msgid="8685301130651051380">"Αυτή η εφαρμογή δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το τηλέφωνό σας."</string>
+    <string name="common_google_play_services_install_text_tablet" msgid="1589957570365247855">"Αυτή η εφαρμογή δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το tablet σας."</string>
+    <string name="common_google_play_services_install_title" msgid="26645092511305524">"Λήψη υπηρεσιών Google Play"</string>
+    <string name="common_google_play_services_invalid_account_text" msgid="4983316348021735578">"Ο συγκεκριμένος λογαριασμός δεν υπάρχει σε αυτήν τη συσκευή. Επιλέξτε έναν διαφορετικό λογαριασμό."</string>
+    <string name="common_google_play_services_invalid_account_title" msgid="1066672360770936753">"Μη έγκυρος λογαριασμός"</string>
+    <string name="common_google_play_services_network_error_text" msgid="9038847255613537209">"Απαιτείται σύνδεση δεδομένων για να συνδεθείτε με τις Υπηρεσίες Google Play."</string>
+    <string name="common_google_play_services_network_error_title" msgid="3827284619958211114">"Σφάλμα δικτύου"</string>
+    <string name="common_google_play_services_unknown_issue" msgid="4762332809710093730">"Άγνωστο πρόβλημα με τις υπηρεσίες Google Play."</string>
+    <string name="common_google_play_services_unsupported_text" msgid="3542578567569488671">"Οι υπηρεσίες Google Play, στις οποίες βασίζονται ορισμένες από τις εφαρμογές σας, δεν υποστηρίζονται στη συσκευή σας. Επικοινωνήστε με τον κατασκευαστή για υποστήριξη."</string>
+    <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Υπηρεσίες Google Play"</string>
+    <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Ενημέρωση"</string>
+    <string name="common_google_play_services_update_text" msgid="448354684997260580">"Αυτή η εφαρμογή θα εκτελεστεί αφού ενημερώσετε τις υπηρεσίες Google Play."</string>
+    <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Ενημέρωση υπηρεσιών Google Play"</string>
+    <string name="common_signin_button_text" msgid="9071884888741449141">"Σύνδεση"</string>
+    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Συνδεθείτε στο Google"</string>
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/build/intermediates/exploded-aar/wallet-master.public/zxing-android/unspecified/res/values-el/values.xml -->
+    <eat-comment />
+
+    <string name="contents_contact">Πληροφορίες επαφής</string>
+    <string name="contents_email">Διεύθυνση email</string>
+    <string name="contents_location">Γεωγραφικές συντεταγμένες</string>
+    <string name="contents_phone">Τηλέφωνο</string>
+    <string name="contents_sms">Διεύθνση SMS</string>
+    <string name="contents_text">Απλό κείμενο</string>
+    <string name="history_clear_one_history_text">Διαγραφή</string>
+    <string name="history_clear_text">Διαγραφή ιστορικού</string>
+    <string name="history_email_title">Ιστορικό Barcode Scanner</string>
+    <string name="history_empty">Κενό</string>
+    <string name="history_empty_detail">Δεν έχουν καταγραφεί σαρώσεις barcode</string>
+    <string name="history_send">Αποστολή ιστορικού</string>
+    <string name="history_title">Ιστορικό</string>
+    <string name="menu_encode_mecard">Χρησιμοποιήστε MECARD</string>
+    <string name="menu_encode_vcard">Χρησιμοποιήστε vCard</string>
+    <string name="menu_help">Βοήθεια</string>
+    <string name="menu_history">Ιστορικό</string>
+    <string name="menu_settings">Ρυθμίσεις</string>
+    <string name="menu_share">Κοινή χρήση</string>
+    <string name="msg_bulk_mode_scanned">Μαζική λειτουργία: barcode σκαναρίστηκε και αποθηκεύτηκε</string>
+    <string name="msg_camera_framework_bug">Συγνώμη, προέκυψε ένα πρόβλημα με την κάμερα. Ίσως χρειαστεί να επανεκιννήσετε τη συσκευή.</string>
+    <string name="msg_default_format">Διαμόρφωση</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Γεια</string>
+    <string name="msg_default_status">Τοποθετήστε ένα barcode μέσα στο πλαίσιο για να το σκανάρετε.</string>
+    <string name="msg_default_time">Ωρα</string>
+    <string name="msg_default_type">Τύπος</string>
+    <string name="msg_encode_contents_failed">Δεν γίνεται να παραχθεί barcode από αυτά τα δεδομένα.</string>
+    <string name="msg_google_books">Google Books</string>
+    <string name="msg_google_product">Αναζήτηση προϊόντων Google</string>
+    <string name="msg_google_shopper_missing">Το Google Shopper δεν είναι εγκατεστημένο.</string>
+    <string name="msg_install_google_shopper">Το Google Shopper συνδυάζει σκανάρισμα barcode με online και τοπικές τιμές, αξιολογήσεις και άλλα χωρίς να ανοίξετε τον browser. Θέλετε να το δοκιμάσετε;</string>
+    <string name="msg_intent_failed">Συγνώμη, η ζητούμενη εφαρμογή δεν μπορεί να εκιννηθεί. Τα δεδομληνα του barcode ίσως δεν είναι έγκυρα.</string>
+    <string name="msg_redirect">Ανακατεύθυνση</string>
+    <string name="msg_sbc_book_not_searchable">Συγνώμη, αυτό το βιβλίο δεν βρέθηκε.</string>
+    <string name="msg_sbc_failed">Συγνώμη, η αναζήτηση παρουσίασε πρόβλημα.</string>
+    <string name="msg_sbc_no_page_returned">Δεν βρέθηκε σελίδα</string>
+    <string name="msg_sbc_page">Σελίδα</string>
+    <string name="msg_sbc_results">Αποτελέσματα</string>
+    <string name="msg_sbc_searching_book">Άναζήτηση βιβλίου\u2026</string>
+    <string name="msg_sbc_snippet_unavailable">Απόσπασμα μη διαθέσιμο</string>
+    <string name="msg_sbc_unknown_page">Άγνωστη σελίδα</string>
+    <string name="msg_share_explanation">Μπορείς να μοιραστείς δεδομένα εμφανίζοντας ένα barcode στην οθόνη σου και σκανάροντάς το με ένα άλλο κινητό.</string>
+    <string name="msg_share_subject_line">Αυτά είναι τα περιεχόμενα ενός barcode που σκάναρα</string>
+    <string name="msg_share_text">Ή πληκτολογήστε εδώ κείμενο και πατήστε Enter</string>
+    <string name="msg_sure">Είσαι σίγουρος;</string>
+    <string name="msg_unmount_usb">Συγνώμη, η κάρτα SD δεν είναι προσβάσιμη.</string>
+    <string name="preferences_actions_title">Όταν ένα barcode ανιχνεύεται\u2026</string>
+    <string name="preferences_auto_focus_title">Χρησιμοποιήστε την αυτόματη εστίαση</string>
+    <string name="preferences_bulk_mode_summary">Σκανάρετε και αποθηκεύστε συνεχόμενα πολλά barcodes</string>
+    <string name="preferences_bulk_mode_title">Λειτουργία μαζικού σκαναρίσματος</string>
+    <string name="preferences_copy_to_clipboard_title">Αντιγραφή στο πρόχειρο</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">Αντικαταστάσεις: %s = περιεχόμενο, %f = μορφή, %t = τύπος</string>
+    <string name="preferences_custom_product_search_title">Σύνθετη αναζήτηση</string>
+    <string name="preferences_decode_1D_title">1D barcodes</string>
+    <string name="preferences_decode_Data_Matrix_title">Data Matrix</string>
+    <string name="preferences_decode_QR_title">QR Codes</string>
+    <string name="preferences_device_bug_workarounds_title">Λύσεις Bug συσκευής</string>
+    <string name="preferences_disable_continuous_focus_summary">Χρησιμοποιείτε μόνο τυπική λειτουργία εστίασης</string>
+    <string name="preferences_disable_continuous_focus_title">Δεν συνεχής εστίαση</string>
+    <string name="preferences_disable_exposure_title">Δεν έκθεση</string>
+    <string name="preferences_front_light_auto">Αυτόματο</string>
+    <string name="preferences_front_light_off">Αδρανής</string>
+    <string name="preferences_front_light_on">Ενεργός</string>
+    <string name="preferences_front_light_summary">Βελτιώνει το σκανάρισμα με χαμηλο φωτισμό σε μερικά κινητά, ίσως όμως προκαλέσει λάμψη. Δουλεύει σε μερικά κινητά.</string>
+    <string name="preferences_front_light_title">Χρήση μπροστινού φακού</string>
+    <string name="preferences_general_title">Γενικές ρυθμίσεις</string>
+    <string name="preferences_invert_scan_summary">Σάρωση για τη λευκή barcodes σε μαύρο φόντο. Δεν διατίθεται σε ορισμένες συσκευές.</string>
+    <string name="preferences_invert_scan_title">Αντιστροφή της σάρωσης</string>
+    <string name="preferences_name">Ρυθμίσεις</string>
+    <string name="preferences_play_beep_title">Μπιπ</string>
+    <string name="preferences_remember_duplicates_summary">Αποθήκευση πολλαπλών σκαναρισμάτων του ίδιου barcode στο ιστορικό</string>
+    <string name="preferences_remember_duplicates_title">Απομνημόνευση διπλότυπων</string>
+    <string name="preferences_result_title">Ρυθμίσεις αποτελεσμάτων</string>
+    <string name="preferences_scanning_title">Όταν σκανάρεις barcodes, ψάχνε για\u2026</string>
+    <string name="preferences_search_country">Χώρα Αναζήτησης</string>
+    <string name="preferences_supplemental_summary">Προσπάθησε να βρείς περισσότερες πληροφορίες για τα περιεχόμενα του barcode</string>
+    <string name="preferences_supplemental_title">Αναζήτηση για επιπλέον πληροφορίες</string>
+    <string name="preferences_try_bsplus">Δοκιμάστε Barcode Scanner+</string>
+    <string name="preferences_try_bsplus_summary">Ενισχυμένη με νέα χαρακτηριστικά και διασύνδεση</string>
+    <string name="preferences_vibrate_title">Δόνηση</string>
+    <string name="result_address_book">Βρέθηκαν πληροφορίες επαφής</string>
+    <string name="result_calendar">Βρέθηκε συμβάν ημερολογίου</string>
+    <string name="result_email_address">Βρέθηκε email</string>
+    <string name="result_geo">Βρέθηκαν γεωγραφικές συντεταγμένες</string>
+    <string name="result_isbn">Βρέθηκε βιβλίο</string>
+    <string name="result_product">Βρέθηκε προϊόν</string>
+    <string name="result_sms">Βρέθηκε διεύθυνση SMS</string>
+    <string name="result_tel">Βρέθηκε τηλέφωνο</string>
+    <string name="result_text">Βρέθηκε κείμενο</string>
+    <string name="result_uri">Βρέθηκε ηλ. διεύθυνση</string>
+    <string name="result_wifi">Βρέθηκαν ρυθμίσεις Wi-Fi</string>
+    <string name="sbc_name">Αναζήτηση βιβλίων Google</string>
+    <string name="wifi_changing_network">Αίτηση σύνδεσης με το δίκτυο\u2026</string>
+    <string name="wifi_ssid_label">Όνομα Δικτύου</string>
+    <string name="wifi_type_label">Τύπος</string>
+
+</resources>

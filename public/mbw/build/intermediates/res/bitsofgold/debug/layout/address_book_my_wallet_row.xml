@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvName"
+
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/darkgrey"
+    android:textSize="22sp" />
+<!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/layout/address_book_my_wallet_row.xml -->

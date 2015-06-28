@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/joeykrug2/Desktop/wallet-master/public/mbw/src/main/res/values-sw240dp/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="large_qrcode">192dp</dimen>
+
+</resources>

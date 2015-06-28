@@ -1,0 +1,36 @@
+apply plugin: 'android-library'
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath androidBuildArtifact
+    }
+}
+
+
+dependencies {
+    compile project(':public:zxing-core')
+}
+
+android {
+    compileSdkVersion 'android-L'
+    buildToolsVersion androidSdkBuildVersion
+
+    defaultConfig {
+        minSdkVersion 'L'
+        targetSdkVersion 'L'
+    }
+
+    compileOptions {
+        sourceCompatibility = 'VERSION_1_6'
+        targetCompatibility = 'VERSION_1_6'
+    }
+//    we are just embedding the zxing lib here, we are not maintaining it.
+    lintOptions {
+        ignoreWarnings true
+    }
+
+}

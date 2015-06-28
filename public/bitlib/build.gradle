@@ -1,0 +1,21 @@
+apply plugin: 'java'
+
+def defaultEncoding = 'UTF-8'
+compileJava {
+    options.encoding = defaultEncoding
+}
+compileTestJava {
+    options.encoding = defaultEncoding
+}
+
+repositories {
+    mavenCentral()
+}
+sourceCompatibility = 1.6
+targetCompatibility = 1.6
+
+dependencies {
+    compile 'com.google.protobuf:protobuf-java:2.5.0@jar'
+    testCompile 'junit:junit:' + junitVersion
+    compile guavaArtifact
+}
